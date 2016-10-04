@@ -1,0 +1,241 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+バイラス王
+「\\N[001]よ　此度の活躍
+　誠に大儀であった」
+> CONTEXT: Map043/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「だが今回の事は、300年前もあった事・・・
+　未来に向けて、淫魔たちがまた現れるとも限らん」
+> CONTEXT: Map043/events/8/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「余としては、お前の血を引いた者が大勢おれば
+　淫魔たちがまた現れても心配は無いだろうと思う」
+> CONTEXT: Map043/events/8/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「ということで\\N[001]よ、この国の方針で
+　お前の子孫を増やす事にした！」
+> CONTEXT: Map043/events/8/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「この国は一夫一婦制だが、お前だけは特別に一夫多妻
+　つまり、複数の嫁を娶る事を良しとする！」
+> CONTEXT: Map043/events/8/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「さし当たっては、そこにおるフレーネ、エルエィ、シイザ
+　この三人をお前の嫁として迎えさせようと思うのだが
+　・・・如何だろうか？」
+> CONTEXT: Map043/events/8/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「この国の英雄と結ばれる事ができるなんて・・・光栄ですわ」
+> CONTEXT: Map043/events/8/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「結婚なんて、ボクにはまだちょっと早いかもだけど
+　\\N[001]が良いなら、ボクはぜんぜん構わないよ？」
+> CONTEXT: Map043/events/8/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「勇者の血を引くお前と、戦士であるわたしの子なら
+　さぞかし勇ましい子が育つだろうな・・・！」
+> CONTEXT: Map043/events/8/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「どうだ\\N[001]、３人ともお前を慕っているようだし
+　悪い話ではないと思うが・・・」
+> CONTEXT: Map043/events/8/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お父様！何を言ってるのですか！」
+> CONTEXT: Map043/events/8/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「この国を救った\\N[001]さまと結ばれるのは
+　わたし以外にありませんわ！」
+> CONTEXT: Map043/events/8/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「お・・・おお、ティリア！
+　まさかお前まで・・・」
+> CONTEXT: Map043/events/8/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「しかし、\\N[001]が複数の嫁を持つ事・・・
+　これは絶対なのだ・・・この国の未来のために・・・」
+> CONTEXT: Map043/events/8/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「お前もその複数の中の１人になってしまう・・・
+　この３人も、それは承知の上なのだぞ？」
+> CONTEXT: Map043/events/8/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「お父様、淫気に侵されていたとは言え、
+　わたしは既に\\N[001]さまと体を交えています・・・」
+> CONTEXT: Map043/events/8/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「それに、たとえ妻が何人居ようと\\N[001]さまは
+　わたしを救ってくださった英雄であり恩人です！」
+> CONTEXT: Map043/events/8/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「わたしも\\N[001]さまと婚姻しますわ！」
+> CONTEXT: Map043/events/8/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「うーむ・・・確かにお前が助かったのも
+　他ならぬ\\N[001]のおかげであるな・・・」
+> CONTEXT: Map043/events/8/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「・・・あいわかった、お前がそうしたいのなら
+　わたしは止めん・・・」
+> CONTEXT: Map043/events/8/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「という訳で、\\N[001]よ
+　わたしの娘もお前の嫁として・・・ん？」
+> CONTEXT: Map043/events/8/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「どうしたのだ・・・顔が青ざめているぞ・・・？
+　何？・・・農民に戻って普通に暮らしたい？」
+> CONTEXT: Map043/events/8/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「もう女体はしばらく懲り懲りとな・・・・？」
+> CONTEXT: Map043/events/8/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「あっ！・・・ど、どこへ行くのだ！？
+　お、おい、\\N[001]・・・！」
+> CONTEXT: Map043/events/8/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「\\N[001]さま、どちらへ！」
+> CONTEXT: Map043/events/8/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「待ってよ！まだ話は終わってないよ！」
+> CONTEXT: Map043/events/8/pages/0/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「どうした、なぜ逃げる！
+　これ以上の僥倖もあるまいに！」
+> CONTEXT: Map043/events/8/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「\\N[001]さま！待って！
+　わたしの\\N[001]さま～！」
+> CONTEXT: Map043/events/8/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大臣
+「王様・・・」
+> CONTEXT: Map043/events/8/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大臣
+「いくらお国の将来に備えて、とは言いましても・・・
+　これは少々強引過ぎかと・・・」
+> CONTEXT: Map043/events/8/pages/0/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「うーむ・・・国を救ってくれた者に
+　この上ない褒章だと思ったのだがな・・・」
+> CONTEXT: Map043/events/8/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING

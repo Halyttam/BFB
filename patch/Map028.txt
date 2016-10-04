@@ -1,0 +1,46 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルエィがこの先で待っている
+> CONTEXT: Map028/events/2/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map028/events/3/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map028/events/5/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「岩が邪魔して通れないや・・・
+　この前の地震のせいかな？」
+> CONTEXT: Map028/events/14/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「でも大丈夫、こんな事もあろうかと
+　火薬は持ってきてあるんだ」
+> CONTEXT: Map028/events/14/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「火をつけるよ・・・下がって下がって！」
+> CONTEXT: Map028/events/14/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「やったね！
+　これで中に入れるよ」
+> CONTEXT: Map028/events/14/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「な、なんだ・・・！？」
+> CONTEXT: Map028/events/14/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,136 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+フレーネが倒れている・・・
+> CONTEXT: Map018/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫魔に襲われたのだろうか・・・？
+意識は無いが息はあるようだ・・・
+> CONTEXT: Map018/events/4/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「うぅ・・・うーん・・・」
+> CONTEXT: Map018/events/4/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「はぁぁ・・・カラダが・・・・
+　カラダが熱い・・・・っ」
+> CONTEXT: Map018/events/4/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「あは・・・・オトコ・・・・オトコがいる・・・
+　あなたの精を頂戴しますわ・・・」
+> CONTEXT: Map018/events/4/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「はぁ・・・・はぁ・・・」
+> CONTEXT: Map018/events/4/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「・・・・・・・」
+> CONTEXT: Map018/events/4/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「・・・・・・・・・・・」
+> CONTEXT: Map018/events/4/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「はっ！？
+　わ、わたしはなにを・・・・」
+> CONTEXT: Map018/events/4/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「ああ、そうでした・・・ここに古文書を探しに来て
+　突然淫魔たちが襲ってきて・・・」
+> CONTEXT: Map018/events/4/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「・・・・どうやら気を失っている間に
+　淫気に感化されてしまっていたようです・・・」
+> CONTEXT: Map018/events/4/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「わたしが正気に戻っているという事は・・・
+　あなたが助けてくださったのですね」
+> CONTEXT: Map018/events/4/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「・・・という事は、もしや・・・
+　わたしはあなたに抱かれて・・・
+　ああ、なんとはしたないことを・・・」
+> CONTEXT: Map018/events/4/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「・・・・はぁ・・・
+　ですが、助けてくださり感謝いたしますわ」
+> CONTEXT: Map018/events/4/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「この場所・・・倉庫だったのかしら・・・
+　貴重らしかった物がいっぱいありますね・・・」
+> CONTEXT: Map018/events/4/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「この箱・・・」
+> CONTEXT: Map018/events/4/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「この書物は・・・」
+> CONTEXT: Map018/events/4/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「王様が言っていた古文書・・・ありました
+　どうやらこれのようですわ」
+> CONTEXT: Map018/events/4/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,263 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルエィの声
+「な、なにするんだっ・・・
+　やめろ・・・・っ！」
+> CONTEXT: Map038/events/17/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィの声
+「や、あはぁっ・・・・うああぁ・・・」
+> CONTEXT: Map038/events/17/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ふふふっ・・・男の子かと思ったけど
+　なかなか可愛い女の子じゃない・・・」
+> CONTEXT: Map038/events/17/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁっ！・・・・あ、あぁぁ・・・！」
+> CONTEXT: Map038/events/17/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「気持ちいいでしょう・・・？
+　いまにオトコが欲しくてたまらなくなるわ・・・」
+> CONTEXT: Map038/events/17/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「あら、この子のお知り合いかしら？
+　これまた、カワイイ男の子ねぇ・・・？」
+> CONTEXT: Map038/events/17/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ふふふっ・・・丁度よかった
+　この子の最初の餌食になるのは
+　ボウヤになってもらうわね・・・」
+> CONTEXT: Map038/events/17/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「あぁっ・・・ン・・・はぁぁ・・・・」
+> CONTEXT: Map038/events/17/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「んはぁ・・・なにコレぇ・・・
+　こんな感覚、ボクはじめてぇ・・・」
+> CONTEXT: Map038/events/17/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「クスクス、もう完全に染まっちゃったようね・・・
+　へぇ・・なかなかの淫気を纏ってるじゃない」
+> CONTEXT: Map038/events/17/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ほぉら、ちょうどそこに
+　あなたの欲しがってるモノがあるわよ・・・
+　遠慮なく頂くといいわ・・ふふ」
+> CONTEXT: Map038/events/17/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「ン・・・ふはぁ・・・男の人ぉ・・・
+　おいしそうな精気・・・ほしいのぉ・・・」
+> CONTEXT: Map038/events/17/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「ボクに、ぜ～んぶちょうだぁい・・・」
+> CONTEXT: Map038/events/17/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「う・・・はぁぁ・・・っ」
+> CONTEXT: Map038/events/17/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「・・・！？
+　わたしの作った下僕が負けるなんて・・・
+　あなた、何者・・・」
+> CONTEXT: Map038/events/17/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「そうか・・・近頃、わたしの下僕たちの姿が
+　減っているのも、お前の仕業というわけね・・・」
+> CONTEXT: Map038/events/17/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ふふふ・・・どうやら
+　生かしておく訳には行かないようね
+　ここでわたしが始末してあげるわ・・・」
+> CONTEXT: Map038/events/17/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「うっ！・・・・こ、この光はっ！？」
+> CONTEXT: Map038/events/17/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「く、ううっ・・・！」
+> CONTEXT: Map038/events/17/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「馬鹿な・・・石が呼応して輝きはじめるなんて・・・
+　お、お前は・・・まさか・・・っ！」
+> CONTEXT: Map038/events/17/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「くっ・・・うあぁぁ・・・っ！
+　おのれっ・・・小癪なっ・・・・！」
+> CONTEXT: Map038/events/17/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女はどこかへ消えてしまったようだ・・・
+あれが淫魔の元凶だろうか・・・？
+> CONTEXT: Map038/events/17/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「う、うーん・・・」
+> CONTEXT: Map038/events/17/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「あ・・・\\N[001]・・・
+　ボクは一体・・・・」
+> CONTEXT: Map038/events/17/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「あぁ、そうだ・・・穴に落ちて・・・
+　運よく助かったと思ったら、突然怪しい女が現れて・・・」
+> CONTEXT: Map038/events/17/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「急に変な感覚が襲ってきて・・・そこからは覚えてないけど
+　ボク、淫気に侵されちゃったのかな・・・」
+> CONTEXT: Map038/events/17/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「なんだか、すごくエッチな夢を
+　見ていた気がするな・・・」
+> CONTEXT: Map038/events/17/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「ボクと\\N[001]があんな事・・・は、はは・・・
+　き、気のせいだよね、きっと・・・」
+> CONTEXT: Map038/events/17/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「ええと、ここは・・・洞窟の奥底だよね？
+　なにか岩がいっぱい光ってるみたいだけど・・・」
+> CONTEXT: Map038/events/17/pages/0/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「わぁ・・・これは、宝石の原石だ・・・
+　こんなにいっぱいある・・・！」
+> CONTEXT: Map038/events/17/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「しかも上質なものばかり・・・これだけあれば
+　良い装飾品がたくさん作れそうだよ」
+> CONTEXT: Map038/events/17/pages/0/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「この原石、できるだけたくさん持って帰ろう・・・
+　そして王様にも、この場所を知らせるんだ」
+> CONTEXT: Map038/events/17/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+原石を持ち帰ったエルエィは、工房にこもり
+新しい装身具を作り始めた・・・
+> CONTEXT: Map038/events/17/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新しく作られた装身具の魔力の高さは
+驚くべきものだった
+> CONTEXT: Map038/events/17/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING

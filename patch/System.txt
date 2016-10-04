@@ -1,0 +1,345 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+キス
+> CONTEXT: System/elements/1/ < UNTRANSLATED
+> CONTEXT: Skills/2/name/ < UNTRANSLATED
+> CONTEXT: Skills/3/name/ < UNTRANSLATED
+> CONTEXT: Skills/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸
+> CONTEXT: System/elements/2/ < UNTRANSLATED
+> CONTEXT: Skills/5/name/ < UNTRANSLATED
+> CONTEXT: Skills/6/name/ < UNTRANSLATED
+> CONTEXT: Skills/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お尻
+> CONTEXT: System/elements/3/ < UNTRANSLATED
+> CONTEXT: Skills/11/name/ < UNTRANSLATED
+> CONTEXT: Skills/12/name/ < UNTRANSLATED
+> CONTEXT: Skills/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クレバス
+> CONTEXT: System/elements/4/ < UNTRANSLATED
+> CONTEXT: Skills/14/name/ < UNTRANSLATED
+> CONTEXT: Skills/15/name/ < UNTRANSLATED
+> CONTEXT: Skills/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挿入
+> CONTEXT: System/elements/5/ < UNTRANSLATED
+> CONTEXT: States/21/name/ < UNTRANSLATED
+> CONTEXT: Skills/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+搾精
+> CONTEXT: System/elements/6/ < UNTRANSLATED
+> CONTEXT: States/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵キス
+> CONTEXT: System/elements/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペニス
+> CONTEXT: System/elements/8/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愛撫
+> CONTEXT: System/elements/9/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誘惑
+> CONTEXT: System/elements/10/ < UNTRANSLATED
+> CONTEXT: Skills/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抑制
+> CONTEXT: System/terms/params/0/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/2/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタミナ
+> CONTEXT: System/terms/params/1/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力
+> CONTEXT: System/terms/params/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+克己
+> CONTEXT: System/terms/params/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技巧
+> CONTEXT: System/terms/params/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平静
+> CONTEXT: System/terms/params/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敏捷性
+> CONTEXT: System/terms/params/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+運
+> CONTEXT: System/terms/params/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+指輪
+> CONTEXT: System/terms/etypes/0/ < UNTRANSLATED
+> CONTEXT: System/terms/commands/12/ < UNTRANSLATED
+> CONTEXT: System/weapon_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+腕輪
+> CONTEXT: System/terms/etypes/1/ < UNTRANSLATED
+> CONTEXT: System/armor_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サークレット
+> CONTEXT: System/terms/etypes/2/ < UNTRANSLATED
+> CONTEXT: System/armor_types/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+首飾り
+> CONTEXT: System/terms/etypes/3/ < UNTRANSLATED
+> CONTEXT: System/armor_types/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンクレット
+> CONTEXT: System/terms/etypes/4/ < UNTRANSLATED
+> CONTEXT: System/armor_types/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦う
+> CONTEXT: System/terms/commands/0/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: System/terms/commands/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+堪える
+> CONTEXT: System/terms/commands/3/ < UNTRANSLATED
+> CONTEXT: Skills/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム
+> CONTEXT: System/terms/commands/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキル
+> CONTEXT: System/terms/commands/5/ < UNTRANSLATED
+> CONTEXT: System/skill_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: System/terms/commands/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステータス
+> CONTEXT: System/terms/commands/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+並び替え
+> CONTEXT: System/terms/commands/8/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーブ
+> CONTEXT: System/terms/commands/9/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゲーム終了
+> CONTEXT: System/terms/commands/10/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備品
+> CONTEXT: System/terms/commands/13/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大事なもの
+> CONTEXT: System/terms/commands/14/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備変更
+> CONTEXT: System/terms/commands/15/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最強装備
+> CONTEXT: System/terms/commands/16/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全て外す
+> CONTEXT: System/terms/commands/17/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニューゲーム
+> CONTEXT: System/terms/commands/18/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コンティニュー
+> CONTEXT: System/terms/commands/19/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャットダウン
+> CONTEXT: System/terms/commands/20/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タイトルへ
+> CONTEXT: System/terms/commands/21/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: System/terms/commands/22/ < UNTRANSLATED
+> CONTEXT: Map021/events/2/pages/1/67/Choice/2 < UNTRANSLATED
+> CONTEXT: Map017/events/1/pages/2/4/Choice/2 < UNTRANSLATED
+> CONTEXT: Map021/events/2/pages/1/219/Choice/3 < UNTRANSLATED
+> CONTEXT: Map017/events/1/pages/3/4/Choice/3 < UNTRANSLATED
+> CONTEXT: Map017/events/1/pages/4/56/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/2/pages/1/289/Choice/3 < UNTRANSLATED
+> CONTEXT: Map017/events/1/pages/5/56/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/0/311/Choice/1 < UNTRANSLATED
+> CONTEXT: Map002/events/25/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map002/events/25/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map002/events/25/pages/2/2/Choice/3 < UNTRANSLATED
+> CONTEXT: Map002/events/25/pages/3/20/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/25/pages/4/20/Choice/1 < UNTRANSLATED
+> CONTEXT: Map002/events/28/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map002/events/28/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map002/events/28/pages/2/2/Choice/3 < UNTRANSLATED
+> CONTEXT: Map002/events/28/pages/3/20/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/28/pages/4/20/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベル
+> CONTEXT: System/terms/basic/0/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lv
+> CONTEXT: System/terms/basic/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタ
+> CONTEXT: System/terms/basic/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テンション
+> CONTEXT: System/terms/basic/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+TP
+> CONTEXT: System/terms/basic/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法
+> CONTEXT: System/skill_types/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ｇ
+> CONTEXT: System/currency_unit/ < UNTRANSLATED
+
+> END STRING

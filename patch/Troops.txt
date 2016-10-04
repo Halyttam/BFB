@@ -1,0 +1,1815 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ヴァンパイア
+> CONTEXT: Troops/2/name/ < UNTRANSLATED
+> CONTEXT: Enemies/500/name/ < UNTRANSLATED
+> CONTEXT: Enemies/501/name/ < UNTRANSLATED
+> CONTEXT: Enemies/502/name/ < UNTRANSLATED
+> CONTEXT: Enemies/503/name/ < UNTRANSLATED
+> CONTEXT: Enemies/504/name/ < UNTRANSLATED
+> CONTEXT: Enemies/505/name/ < UNTRANSLATED
+> CONTEXT: Enemies/506/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァンパイアが現れた！
+> CONTEXT: Troops/2/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"battleratram4"
+> CONTEXT: Troops/2/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/2/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/2/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/2/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/2/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/5/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/5/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/5/40/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/5/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/29/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/29/55/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/31/2/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"battleratram2"
+> CONTEXT: Troops/2/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/2/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/2/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/5/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/5/56/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/5/59/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"battleratram6"
+> CONTEXT: Troops/2/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/2/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/11/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/11/15/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/29/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"battleratram5"
+> CONTEXT: Troops/2/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/11/18/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、射精させられている！
+> CONTEXT: Troops/2/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/3/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/4/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/5/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/6/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/7/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/8/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/9/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/10/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/11/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/12/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/13/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/14/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/15/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/16/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/17/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/18/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/19/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/20/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/21/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/22/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/23/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/24/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/25/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/26/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/27/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/28/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/29/pages/12/58/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/30/pages/12/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+射精が収まった！
+> CONTEXT: Troops/2/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/3/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/4/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/5/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/6/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/7/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/8/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/9/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/10/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/11/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/12/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/13/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/14/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/15/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/16/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/17/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/18/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/19/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/20/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/21/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/22/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/23/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/24/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/25/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/26/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/27/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/28/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/29/pages/13/44/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/30/pages/13/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束状態が解かれた！
+> CONTEXT: Troops/2/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/3/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/4/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/5/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/6/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/7/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/8/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/9/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/10/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/11/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/12/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/13/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/14/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/15/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/16/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/17/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/18/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/19/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/20/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/21/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/22/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/23/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/24/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/25/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/26/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/27/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/28/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/29/pages/18/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/30/pages/18/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もっと搾られる
+> CONTEXT: Troops/2/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/19/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/19/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力尽きる
+> CONTEXT: Troops/2/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/19/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/19/7/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァンパイアを追い詰めた！
+> CONTEXT: Troops/2/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中出しする
+> CONTEXT: Troops/2/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/22/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/22/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愛撫する
+> CONTEXT: Troops/2/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/22/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/22/5/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+昇天させる
+> CONTEXT: Troops/2/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/22/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/22/5/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ヴァンパイアを脱衣させた！
+> CONTEXT: Troops/2/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨てた！
+> CONTEXT: Troops/2/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/3/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/4/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/5/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/6/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/7/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/8/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/9/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/10/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/11/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/12/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/13/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/14/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/15/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/16/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/17/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/18/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/19/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/20/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/21/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/22/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/23/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/24/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/25/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/26/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/27/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/28/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/29/pages/22/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/30/pages/22/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"battleratram3"
+> CONTEXT: Troops/2/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/2/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/3/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/4/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/5/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/7/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/8/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/9/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/10/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/11/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/12/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/13/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/14/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/15/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/16/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/17/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/18/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/19/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/20/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/21/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/22/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/23/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/24/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/25/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/26/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/27/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/28/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/29/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/22/25/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Troops/30/pages/22/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/2/4/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/2/8/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/29/29/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/29/58/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/31/5/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ヴァンパイアを脱衣させた！
+> CONTEXT: Troops/2/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴブリン
+> CONTEXT: Troops/3/name/ < UNTRANSLATED
+> CONTEXT: Enemies/492/name/ < UNTRANSLATED
+> CONTEXT: Enemies/493/name/ < UNTRANSLATED
+> CONTEXT: Enemies/494/name/ < UNTRANSLATED
+> CONTEXT: Enemies/495/name/ < UNTRANSLATED
+> CONTEXT: Enemies/496/name/ < UNTRANSLATED
+> CONTEXT: Enemies/497/name/ < UNTRANSLATED
+> CONTEXT: Enemies/498/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴブリンが現れた！
+> CONTEXT: Troops/3/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴブリンを追い詰めた！
+> CONTEXT: Troops/3/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ゴブリンを脱衣させた！
+> CONTEXT: Troops/3/pages/22/12/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/9/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ゴブリンを脱衣させた！
+> CONTEXT: Troops/3/pages/22/32/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/9/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザード
+> CONTEXT: Troops/4/name/ < UNTRANSLATED
+> CONTEXT: Enemies/508/name/ < UNTRANSLATED
+> CONTEXT: Enemies/509/name/ < UNTRANSLATED
+> CONTEXT: Enemies/510/name/ < UNTRANSLATED
+> CONTEXT: Enemies/511/name/ < UNTRANSLATED
+> CONTEXT: Enemies/512/name/ < UNTRANSLATED
+> CONTEXT: Enemies/513/name/ < UNTRANSLATED
+> CONTEXT: Enemies/514/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザードが現れた！
+> CONTEXT: Troops/4/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザードを追い詰めた！
+> CONTEXT: Troops/4/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、リザードを脱衣させた！
+> CONTEXT: Troops/4/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+リザードを脱衣させた！
+> CONTEXT: Troops/4/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニンフ
+> CONTEXT: Troops/5/name/ < UNTRANSLATED
+> CONTEXT: Enemies/516/name/ < UNTRANSLATED
+> CONTEXT: Enemies/517/name/ < UNTRANSLATED
+> CONTEXT: Enemies/518/name/ < UNTRANSLATED
+> CONTEXT: Enemies/519/name/ < UNTRANSLATED
+> CONTEXT: Enemies/520/name/ < UNTRANSLATED
+> CONTEXT: Enemies/521/name/ < UNTRANSLATED
+> CONTEXT: Enemies/522/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニンフが現れた！
+> CONTEXT: Troops/5/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニンフを追い詰めた！
+> CONTEXT: Troops/5/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ニンフを脱衣させた！
+> CONTEXT: Troops/5/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ニンフを脱衣させた！
+> CONTEXT: Troops/5/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホーネット
+> CONTEXT: Troops/6/name/ < UNTRANSLATED
+> CONTEXT: Enemies/524/name/ < UNTRANSLATED
+> CONTEXT: Enemies/525/name/ < UNTRANSLATED
+> CONTEXT: Enemies/526/name/ < UNTRANSLATED
+> CONTEXT: Enemies/527/name/ < UNTRANSLATED
+> CONTEXT: Enemies/528/name/ < UNTRANSLATED
+> CONTEXT: Enemies/529/name/ < UNTRANSLATED
+> CONTEXT: Enemies/530/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホーネットが現れた！
+> CONTEXT: Troops/6/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホーネットを追い詰めた！
+> CONTEXT: Troops/6/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ホーネットを脱衣させた！
+> CONTEXT: Troops/6/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ホーネットを脱衣させた！
+> CONTEXT: Troops/6/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシー
+> CONTEXT: Troops/7/name/ < UNTRANSLATED
+> CONTEXT: Enemies/532/name/ < UNTRANSLATED
+> CONTEXT: Enemies/533/name/ < UNTRANSLATED
+> CONTEXT: Enemies/534/name/ < UNTRANSLATED
+> CONTEXT: Enemies/535/name/ < UNTRANSLATED
+> CONTEXT: Enemies/536/name/ < UNTRANSLATED
+> CONTEXT: Enemies/537/name/ < UNTRANSLATED
+> CONTEXT: Enemies/538/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシーが現れた！
+> CONTEXT: Troops/7/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシーを追い詰めた！
+> CONTEXT: Troops/7/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ピクシーを脱衣させた！
+> CONTEXT: Troops/7/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ピクシーを脱衣させた！
+> CONTEXT: Troops/7/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アマゾネス
+> CONTEXT: Troops/8/name/ < UNTRANSLATED
+> CONTEXT: Enemies/484/name/ < UNTRANSLATED
+> CONTEXT: Enemies/485/name/ < UNTRANSLATED
+> CONTEXT: Enemies/486/name/ < UNTRANSLATED
+> CONTEXT: Enemies/487/name/ < UNTRANSLATED
+> CONTEXT: Enemies/488/name/ < UNTRANSLATED
+> CONTEXT: Enemies/489/name/ < UNTRANSLATED
+> CONTEXT: Enemies/490/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アマゾネスが現れた！
+> CONTEXT: Troops/8/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アマゾネスを追い詰めた！
+> CONTEXT: Troops/8/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、アマゾネスを脱衣させた！
+> CONTEXT: Troops/8/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+アマゾネスを脱衣させた！
+> CONTEXT: Troops/8/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コボルト
+> CONTEXT: Troops/9/name/ < UNTRANSLATED
+> CONTEXT: Enemies/540/name/ < UNTRANSLATED
+> CONTEXT: Enemies/541/name/ < UNTRANSLATED
+> CONTEXT: Enemies/542/name/ < UNTRANSLATED
+> CONTEXT: Enemies/543/name/ < UNTRANSLATED
+> CONTEXT: Enemies/544/name/ < UNTRANSLATED
+> CONTEXT: Enemies/545/name/ < UNTRANSLATED
+> CONTEXT: Enemies/546/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コボルトが現れた！
+> CONTEXT: Troops/9/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コボルトを追い詰めた！
+> CONTEXT: Troops/9/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドリアード
+> CONTEXT: Troops/10/name/ < UNTRANSLATED
+> CONTEXT: Enemies/556/name/ < UNTRANSLATED
+> CONTEXT: Enemies/557/name/ < UNTRANSLATED
+> CONTEXT: Enemies/558/name/ < UNTRANSLATED
+> CONTEXT: Enemies/559/name/ < UNTRANSLATED
+> CONTEXT: Enemies/560/name/ < UNTRANSLATED
+> CONTEXT: Enemies/561/name/ < UNTRANSLATED
+> CONTEXT: Enemies/562/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドリアードが現れた！
+> CONTEXT: Troops/10/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドリアードを追い詰めた！
+> CONTEXT: Troops/10/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ドリアードを脱衣させた！
+> CONTEXT: Troops/10/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ドリアードを脱衣させた！
+> CONTEXT: Troops/10/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタ
+> CONTEXT: Troops/11/name/ < UNTRANSLATED
+> CONTEXT: Enemies/468/name/ < UNTRANSLATED
+> CONTEXT: Enemies/469/name/ < UNTRANSLATED
+> CONTEXT: Enemies/470/name/ < UNTRANSLATED
+> CONTEXT: Enemies/471/name/ < UNTRANSLATED
+> CONTEXT: Enemies/472/name/ < UNTRANSLATED
+> CONTEXT: Enemies/473/name/ < UNTRANSLATED
+> CONTEXT: Enemies/474/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタが現れた！
+> CONTEXT: Troops/11/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタを追い詰めた！
+> CONTEXT: Troops/11/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ネコマタを脱衣させた！
+> CONTEXT: Troops/11/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ネコマタを脱衣させた！
+> CONTEXT: Troops/11/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミノタウロス
+> CONTEXT: Troops/12/name/ < UNTRANSLATED
+> CONTEXT: Enemies/460/name/ < UNTRANSLATED
+> CONTEXT: Enemies/461/name/ < UNTRANSLATED
+> CONTEXT: Enemies/462/name/ < UNTRANSLATED
+> CONTEXT: Enemies/463/name/ < UNTRANSLATED
+> CONTEXT: Enemies/464/name/ < UNTRANSLATED
+> CONTEXT: Enemies/465/name/ < UNTRANSLATED
+> CONTEXT: Enemies/466/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミノタウロスが現れた！
+> CONTEXT: Troops/12/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミノタウロスを追い詰めた！
+> CONTEXT: Troops/12/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ミノタウロスを脱衣させた！
+> CONTEXT: Troops/12/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ミノタウロスを脱衣させた！
+> CONTEXT: Troops/12/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キラービー
+> CONTEXT: Troops/13/name/ < UNTRANSLATED
+> CONTEXT: Enemies/564/name/ < UNTRANSLATED
+> CONTEXT: Enemies/565/name/ < UNTRANSLATED
+> CONTEXT: Enemies/566/name/ < UNTRANSLATED
+> CONTEXT: Enemies/567/name/ < UNTRANSLATED
+> CONTEXT: Enemies/568/name/ < UNTRANSLATED
+> CONTEXT: Enemies/569/name/ < UNTRANSLATED
+> CONTEXT: Enemies/570/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キラービーが現れた！
+> CONTEXT: Troops/13/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キラービーを追い詰めた！
+> CONTEXT: Troops/13/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、キラービーを脱衣させた！
+> CONTEXT: Troops/13/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+キラービーを脱衣させた！
+> CONTEXT: Troops/13/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワーキャット
+> CONTEXT: Troops/14/name/ < UNTRANSLATED
+> CONTEXT: Enemies/572/name/ < UNTRANSLATED
+> CONTEXT: Enemies/573/name/ < UNTRANSLATED
+> CONTEXT: Enemies/574/name/ < UNTRANSLATED
+> CONTEXT: Enemies/575/name/ < UNTRANSLATED
+> CONTEXT: Enemies/576/name/ < UNTRANSLATED
+> CONTEXT: Enemies/577/name/ < UNTRANSLATED
+> CONTEXT: Enemies/578/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワーキャットが現れた！
+> CONTEXT: Troops/14/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワーキャットを追い詰めた！
+> CONTEXT: Troops/14/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ワーキャットを脱衣させた！
+> CONTEXT: Troops/14/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ワーキャットを脱衣させた！
+> CONTEXT: Troops/14/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー
+> CONTEXT: Troops/15/name/ < UNTRANSLATED
+> CONTEXT: Enemies/580/name/ < UNTRANSLATED
+> CONTEXT: Enemies/581/name/ < UNTRANSLATED
+> CONTEXT: Enemies/582/name/ < UNTRANSLATED
+> CONTEXT: Enemies/583/name/ < UNTRANSLATED
+> CONTEXT: Enemies/584/name/ < UNTRANSLATED
+> CONTEXT: Enemies/585/name/ < UNTRANSLATED
+> CONTEXT: Enemies/586/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピーが現れた！
+> CONTEXT: Troops/15/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピーを追い詰めた！
+> CONTEXT: Troops/15/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ハーピーを脱衣させた！
+> CONTEXT: Troops/15/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ハーピーを脱衣させた！
+> CONTEXT: Troops/15/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+> CONTEXT: Troops/16/name/ < UNTRANSLATED
+> CONTEXT: Enemies/452/name/ < UNTRANSLATED
+> CONTEXT: Enemies/453/name/ < UNTRANSLATED
+> CONTEXT: Enemies/454/name/ < UNTRANSLATED
+> CONTEXT: Enemies/455/name/ < UNTRANSLATED
+> CONTEXT: Enemies/456/name/ < UNTRANSLATED
+> CONTEXT: Enemies/457/name/ < UNTRANSLATED
+> CONTEXT: Enemies/458/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネが現れた！
+> CONTEXT: Troops/16/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネを追い詰めた！
+> CONTEXT: Troops/16/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、アルラウネを脱衣させた！
+> CONTEXT: Troops/16/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+アルラウネを脱衣させた！
+> CONTEXT: Troops/16/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+> CONTEXT: Troops/17/name/ < UNTRANSLATED
+> CONTEXT: Enemies/444/name/ < UNTRANSLATED
+> CONTEXT: Enemies/445/name/ < UNTRANSLATED
+> CONTEXT: Enemies/446/name/ < UNTRANSLATED
+> CONTEXT: Enemies/447/name/ < UNTRANSLATED
+> CONTEXT: Enemies/448/name/ < UNTRANSLATED
+> CONTEXT: Enemies/449/name/ < UNTRANSLATED
+> CONTEXT: Enemies/450/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィが現れた！
+> CONTEXT: Troops/17/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィを追い詰めた！
+> CONTEXT: Troops/17/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、エルエィを脱衣させた！
+> CONTEXT: Troops/17/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+エルエィを脱衣させた！
+> CONTEXT: Troops/17/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーン
+> CONTEXT: Troops/18/name/ < UNTRANSLATED
+> CONTEXT: Enemies/548/name/ < UNTRANSLATED
+> CONTEXT: Enemies/549/name/ < UNTRANSLATED
+> CONTEXT: Enemies/550/name/ < UNTRANSLATED
+> CONTEXT: Enemies/551/name/ < UNTRANSLATED
+> CONTEXT: Enemies/552/name/ < UNTRANSLATED
+> CONTEXT: Enemies/553/name/ < UNTRANSLATED
+> CONTEXT: Enemies/554/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーンが現れた！
+> CONTEXT: Troops/18/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーンを追い詰めた！
+> CONTEXT: Troops/18/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、セイレーンを脱衣させた！
+> CONTEXT: Troops/18/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+セイレーンを脱衣させた！
+> CONTEXT: Troops/18/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くのいち
+> CONTEXT: Troops/19/name/ < UNTRANSLATED
+> CONTEXT: Enemies/476/name/ < UNTRANSLATED
+> CONTEXT: Enemies/477/name/ < UNTRANSLATED
+> CONTEXT: Enemies/478/name/ < UNTRANSLATED
+> CONTEXT: Enemies/479/name/ < UNTRANSLATED
+> CONTEXT: Enemies/480/name/ < UNTRANSLATED
+> CONTEXT: Enemies/481/name/ < UNTRANSLATED
+> CONTEXT: Enemies/482/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くのいちが現れた！
+> CONTEXT: Troops/19/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くのいちを追い詰めた！
+> CONTEXT: Troops/19/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、くのいちを脱衣させた！
+> CONTEXT: Troops/19/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+くのいちを脱衣させた！
+> CONTEXT: Troops/19/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー
+> CONTEXT: Troops/20/name/ < UNTRANSLATED
+> CONTEXT: Enemies/436/name/ < UNTRANSLATED
+> CONTEXT: Enemies/437/name/ < UNTRANSLATED
+> CONTEXT: Enemies/438/name/ < UNTRANSLATED
+> CONTEXT: Enemies/439/name/ < UNTRANSLATED
+> CONTEXT: Enemies/440/name/ < UNTRANSLATED
+> CONTEXT: Enemies/441/name/ < UNTRANSLATED
+> CONTEXT: Enemies/442/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダーが現れた！
+> CONTEXT: Troops/20/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダーを追い詰めた！
+> CONTEXT: Troops/20/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、サラマンダーを脱衣させた！
+> CONTEXT: Troops/20/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+サラマンダーを脱衣させた！
+> CONTEXT: Troops/20/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オーク
+> CONTEXT: Troops/21/name/ < UNTRANSLATED
+> CONTEXT: Enemies/428/name/ < UNTRANSLATED
+> CONTEXT: Enemies/429/name/ < UNTRANSLATED
+> CONTEXT: Enemies/430/name/ < UNTRANSLATED
+> CONTEXT: Enemies/431/name/ < UNTRANSLATED
+> CONTEXT: Enemies/432/name/ < UNTRANSLATED
+> CONTEXT: Enemies/433/name/ < UNTRANSLATED
+> CONTEXT: Enemies/434/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オークが現れた！
+> CONTEXT: Troops/21/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オークを追い詰めた！
+> CONTEXT: Troops/21/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、オークを脱衣させた！
+> CONTEXT: Troops/21/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+オークを脱衣させた！
+> CONTEXT: Troops/21/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リトルデビル
+> CONTEXT: Troops/22/name/ < UNTRANSLATED
+> CONTEXT: Enemies/420/name/ < UNTRANSLATED
+> CONTEXT: Enemies/421/name/ < UNTRANSLATED
+> CONTEXT: Enemies/422/name/ < UNTRANSLATED
+> CONTEXT: Enemies/423/name/ < UNTRANSLATED
+> CONTEXT: Enemies/424/name/ < UNTRANSLATED
+> CONTEXT: Enemies/425/name/ < UNTRANSLATED
+> CONTEXT: Enemies/426/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リトルデビルが現れた！
+> CONTEXT: Troops/22/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リトルデビルを追い詰めた！
+> CONTEXT: Troops/22/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、リトルデビルを脱衣させた！
+> CONTEXT: Troops/22/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+リトルデビルを脱衣させた！
+> CONTEXT: Troops/22/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイクロプス
+> CONTEXT: Troops/23/name/ < UNTRANSLATED
+> CONTEXT: Enemies/412/name/ < UNTRANSLATED
+> CONTEXT: Enemies/413/name/ < UNTRANSLATED
+> CONTEXT: Enemies/414/name/ < UNTRANSLATED
+> CONTEXT: Enemies/415/name/ < UNTRANSLATED
+> CONTEXT: Enemies/416/name/ < UNTRANSLATED
+> CONTEXT: Enemies/417/name/ < UNTRANSLATED
+> CONTEXT: Enemies/418/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイクロプスが現れた！
+> CONTEXT: Troops/23/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイクロプスを追い詰めた！
+> CONTEXT: Troops/23/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、サイクロプスを脱衣させた！
+> CONTEXT: Troops/23/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+サイクロプスを脱衣させた！
+> CONTEXT: Troops/23/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キマイラ
+> CONTEXT: Troops/24/name/ < UNTRANSLATED
+> CONTEXT: Enemies/404/name/ < UNTRANSLATED
+> CONTEXT: Enemies/405/name/ < UNTRANSLATED
+> CONTEXT: Enemies/406/name/ < UNTRANSLATED
+> CONTEXT: Enemies/407/name/ < UNTRANSLATED
+> CONTEXT: Enemies/408/name/ < UNTRANSLATED
+> CONTEXT: Enemies/409/name/ < UNTRANSLATED
+> CONTEXT: Enemies/410/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キマイラが現れた！
+> CONTEXT: Troops/24/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キマイラを追い詰めた！
+> CONTEXT: Troops/24/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、キマイラを脱衣させた！
+> CONTEXT: Troops/24/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+キマイラを脱衣させた！
+> CONTEXT: Troops/24/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+> CONTEXT: Troops/25/name/ < UNTRANSLATED
+> CONTEXT: Enemies/396/name/ < UNTRANSLATED
+> CONTEXT: Enemies/397/name/ < UNTRANSLATED
+> CONTEXT: Enemies/398/name/ < UNTRANSLATED
+> CONTEXT: Enemies/399/name/ < UNTRANSLATED
+> CONTEXT: Enemies/400/name/ < UNTRANSLATED
+> CONTEXT: Enemies/401/name/ < UNTRANSLATED
+> CONTEXT: Enemies/402/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザが現れた！
+> CONTEXT: Troops/25/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザを追い詰めた！
+> CONTEXT: Troops/25/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、シイザを脱衣させた！
+> CONTEXT: Troops/25/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+シイザを脱衣させた！
+> CONTEXT: Troops/25/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+> CONTEXT: Troops/26/name/ < UNTRANSLATED
+> CONTEXT: Enemies/388/name/ < UNTRANSLATED
+> CONTEXT: Enemies/389/name/ < UNTRANSLATED
+> CONTEXT: Enemies/390/name/ < UNTRANSLATED
+> CONTEXT: Enemies/391/name/ < UNTRANSLATED
+> CONTEXT: Enemies/392/name/ < UNTRANSLATED
+> CONTEXT: Enemies/393/name/ < UNTRANSLATED
+> CONTEXT: Enemies/394/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネが現れた！
+> CONTEXT: Troops/26/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネを追い詰めた！
+> CONTEXT: Troops/26/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、フレーネを脱衣させた！
+> CONTEXT: Troops/26/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+フレーネを脱衣させた！
+> CONTEXT: Troops/26/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+> CONTEXT: Troops/27/name/ < UNTRANSLATED
+> CONTEXT: Enemies/380/name/ < UNTRANSLATED
+> CONTEXT: Enemies/381/name/ < UNTRANSLATED
+> CONTEXT: Enemies/382/name/ < UNTRANSLATED
+> CONTEXT: Enemies/383/name/ < UNTRANSLATED
+> CONTEXT: Enemies/384/name/ < UNTRANSLATED
+> CONTEXT: Enemies/385/name/ < UNTRANSLATED
+> CONTEXT: Enemies/386/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリアが現れた！
+> CONTEXT: Troops/27/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリアを追い詰めた！
+> CONTEXT: Troops/27/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ティリアを脱衣させた！
+> CONTEXT: Troops/27/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ティリアを脱衣させた！
+> CONTEXT: Troops/27/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライム
+> CONTEXT: Troops/28/name/ < UNTRANSLATED
+> CONTEXT: Enemies/372/name/ < UNTRANSLATED
+> CONTEXT: Enemies/373/name/ < UNTRANSLATED
+> CONTEXT: Enemies/374/name/ < UNTRANSLATED
+> CONTEXT: Enemies/375/name/ < UNTRANSLATED
+> CONTEXT: Enemies/376/name/ < UNTRANSLATED
+> CONTEXT: Enemies/377/name/ < UNTRANSLATED
+> CONTEXT: Enemies/378/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライムが現れた！
+> CONTEXT: Troops/28/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライムを追い詰めた！
+> CONTEXT: Troops/28/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、スライムを脱衣させた！
+> CONTEXT: Troops/28/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+スライムを脱衣させた！
+> CONTEXT: Troops/28/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピンクスライム
+> CONTEXT: Troops/29/name/ < UNTRANSLATED
+> CONTEXT: Enemies/364/name/ < UNTRANSLATED
+> CONTEXT: Enemies/365/name/ < UNTRANSLATED
+> CONTEXT: Enemies/366/name/ < UNTRANSLATED
+> CONTEXT: Enemies/367/name/ < UNTRANSLATED
+> CONTEXT: Enemies/368/name/ < UNTRANSLATED
+> CONTEXT: Enemies/369/name/ < UNTRANSLATED
+> CONTEXT: Enemies/370/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピンクスライムが現れた！
+> CONTEXT: Troops/29/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピンクスライムを追い詰めた！
+> CONTEXT: Troops/29/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、ピンクスライムを脱衣させた！
+> CONTEXT: Troops/29/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+ピンクスライムを脱衣させた！
+> CONTEXT: Troops/29/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+> CONTEXT: Troops/30/name/ < UNTRANSLATED
+> CONTEXT: Enemies/588/name/ < UNTRANSLATED
+> CONTEXT: Enemies/589/name/ < UNTRANSLATED
+> CONTEXT: Enemies/590/name/ < UNTRANSLATED
+> CONTEXT: Enemies/591/name/ < UNTRANSLATED
+> CONTEXT: Enemies/592/name/ < UNTRANSLATED
+> CONTEXT: Enemies/593/name/ < UNTRANSLATED
+> CONTEXT: Enemies/594/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバスが現れた！
+> CONTEXT: Troops/30/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバスの擬似ペニスが
+\\N[001]を貫いた！
+> CONTEXT: Troops/30/pages/10/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバスを追い詰めた！
+> CONTEXT: Troops/30/pages/22/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、サキュバスを脱衣させた！
+> CONTEXT: Troops/30/pages/22/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、自ら服を脱ぎ捨て
+サキュバスを脱衣させた！
+> CONTEXT: Troops/30/pages/22/32/Dialogue < UNTRANSLATED
+
+> END STRING

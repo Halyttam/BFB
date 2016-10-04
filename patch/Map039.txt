@@ -1,0 +1,423 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+兵士
+「し、シイザ隊長が・・・淫魔に・・・
+　ううっ・・・も、もう出ません・・・隊長・・・」
+> CONTEXT: Map039/events/11/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「そぉら、もっとわたしに浴びせろ・・・
+　そのまま出し尽くしてしまうがいい・・・」
+> CONTEXT: Map039/events/12/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵士
+「ぐ・・・やめろっ・・・し、シイザ・・
+　う、うあぁぁ・・・・！」
+> CONTEXT: Map039/events/12/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵士
+「ぐぅぅぁ・・・っ・・・・」
+> CONTEXT: Map039/events/12/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「ふふふ・・・もう終わりなのか？
+　この程度の量では、わたしは満たされんぞ・・・」
+> CONTEXT: Map039/events/12/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「・・・ん？」
+> CONTEXT: Map039/events/12/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「ほぉ・・・まだ活きのよさそうなのがいたか・・・
+　お前も他の者同様、一滴残らず吸い上げてやろう」
+> CONTEXT: Map039/events/12/pages/1/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「う・・・・んん・・・・」
+> CONTEXT: Map039/events/12/pages/1/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「は・・・・」
+> CONTEXT: Map039/events/12/pages/1/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「あ・・・ここは・・・・・？
+　わたしは一体・・・・・」
+> CONTEXT: Map039/events/12/pages/1/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「お前は・・・\\N[001]・・・？」
+> CONTEXT: Map039/events/12/pages/1/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「・・・そうだ、ここへオーブを探しに来て
+　突然淫魔たちに襲われて・・・」
+> CONTEXT: Map039/events/12/pages/1/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「わたしは・・・淫気に侵されて・・・
+　淫魔と化してしまっていたのだろうな・・・」
+
+> CONTEXT: Map039/events/12/pages/1/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「とても淫らな夢を見させられていた・・・」
+> CONTEXT: Map039/events/12/pages/1/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「いや、あれは夢ではなかったのだろうな・・・
+　倒れている部下たちも、もしやこのわたしが・・・」
+> CONTEXT: Map039/events/12/pages/1/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「ああ・・・わたしが部下を・・・・
+　なんという事だ・・・」
+> CONTEXT: Map039/events/12/pages/1/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「王の指示とはいえ、やはり女であるわたしが
+　来るべきではなかったのかもな・・・」
+> CONTEXT: Map039/events/12/pages/1/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「バイラス様に言われてここへ来たのか・・・？」
+> CONTEXT: Map039/events/12/pages/1/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「残念ながら無駄だったな・・・
+　わたし達はそのオーブを持ち帰ろうとした」
+> CONTEXT: Map039/events/12/pages/1/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「しかし、何かの力によって拘束されているのか
+　オーブは台座からビクともしなかったのだ・・・」
+> CONTEXT: Map039/events/12/pages/1/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「隊の中で一番腕っぷしのある者であっても
+　オーブを持ち上げる事はできなかった・・・」
+> CONTEXT: Map039/events/12/pages/1/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「そうやって途方に暮れているところに
+　あの忌々しい淫魔たちが襲ってきて・・・む？」
+> CONTEXT: Map039/events/12/pages/1/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「どうしたのだ・・・？
+　オーブが不思議な光を放っているぞ・・・・」
+> CONTEXT: Map039/events/12/pages/1/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「わたし達が来た時は、このような事は無かったはずだ・・・」
+> CONTEXT: Map039/events/12/pages/1/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は台座にゆっくりと近づくと
+オーブを両手でそっと触れてみた・・・
+> CONTEXT: Map039/events/12/pages/1/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+微かに熱を帯びている・・・
+> CONTEXT: Map039/events/12/pages/1/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]がそのまま持ち上げてみると
+オーブは当たり前のように、いとも容易く台座から離れた
+> CONTEXT: Map039/events/12/pages/1/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラッドオーブを手に入れた！
+> CONTEXT: Map039/events/12/pages/1/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「ど、どういう事だ・・・！？
+　屈強な男でも動かせなかった物を、いとも軽々と・・・」
+> CONTEXT: Map039/events/12/pages/1/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「\\N[001]・・・お、お前は一体・・・」
+> CONTEXT: Map039/events/12/pages/1/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふふふ・・・やはりね・・・
+　この場所に来ると思っていたわよ・・・」
+> CONTEXT: Map039/events/12/pages/1/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「何者だ・・！」
+> CONTEXT: Map039/events/12/pages/1/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「わたしは、淫魔の女王サキュバス・・・」
+> CONTEXT: Map039/events/12/pages/1/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「・・・この世の精を喰らい尽くし
+　人間を破滅に導くために生まれた存在・・・」
+> CONTEXT: Map039/events/12/pages/1/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふふふ・・・お前の名前は
+　\\N[001]と言うのね・・・」
+> CONTEXT: Map039/events/12/pages/1/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「そのオーブを動かせるということは、やはりお前は
+　間違いなく、あの男の生まれ変わり・・・」
+> CONTEXT: Map039/events/12/pages/1/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「３００年前、お前に倒されたわたしは
+　長きに渡り異界の次元へと封印された・・・」
+> CONTEXT: Map039/events/12/pages/1/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「この長い間ずっと、わたしをこんな目にあわせた
+　お前の事を呪いながら過ごしてきたわ・・・」
+> CONTEXT: Map039/events/12/pages/1/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「クスクス・・・でも、うれしいわ・・・
+　だって長年の雪辱を今こそ晴らすことが
+　できるんですものね・・・」
+> CONTEXT: Map039/events/12/pages/1/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「勝手な事をぬけぬけと・・・
+　これ以上、お前の好きにはさせんぞ！」
+> CONTEXT: Map039/events/12/pages/1/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「クスクス・・・威勢がいいわね
+　なかなかスゴかったわよ？
+　あなたが淫らに部下を蹂躙する様子はね・・・」
+> CONTEXT: Map039/events/12/pages/1/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「くっ！
+　貴様・・・っ！」
+> CONTEXT: Map039/events/12/pages/1/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「\\N[001]・・・お前にはわたしと同じ・・・
+　いえ、それ以上の苦痛を味わってもらう・・・」
+> CONTEXT: Map039/events/12/pages/1/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「その手始めとして、リグネシアの姫君は
+　異界に持ち帰らさせてもらうわ・・・」
+> CONTEXT: Map039/events/12/pages/1/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「ティリア様を・・・！？
+　・・・・ひ、卑怯なっ！」
+> CONTEXT: Map039/events/12/pages/1/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふふふ・・・姫を取り返したくば、
+　そのブラッドオーブの力で異界へと来るがいいわ」
+> CONTEXT: Map039/events/12/pages/1/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「そして、そこがお前の墓場となるのよ・・・
+　ふふふ・・・待ってるわ、\\N[001]」
+> CONTEXT: Map039/events/12/pages/1/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「あれが・・・サキュバス・・・
+　淫魔の元凶なのか・・・」
+> CONTEXT: Map039/events/12/pages/1/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「しかし・・・あいつはお前に対して
+　"あの男の生まれ変わり"と言っていたな・・・」
+> CONTEXT: Map039/events/12/pages/1/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「お前だけがオーブを動かせた事といい・・・
+　一体、どういう事なんだ・・・」
+> CONTEXT: Map039/events/12/pages/1/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「あっ・・・いかん！
+　そんな事よりまずいぞ、\\N[001]
+　ティリア様が狙われている！」
+> CONTEXT: Map039/events/12/pages/1/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「わたしは残った兵士達の面倒を
+　みなければならない・・・」
+> CONTEXT: Map039/events/12/pages/1/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「お前は急いで城に戻るのだ」
+> CONTEXT: Map039/events/12/pages/1/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]はリグネシアに戻った
+> CONTEXT: Map039/events/12/pages/1/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、彼が着いた頃には
+城にティリア姫の姿は無かった・・・
+> CONTEXT: Map039/events/12/pages/1/345/Dialogue < UNTRANSLATED
+
+> END STRING

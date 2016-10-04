@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+トルマリンの腕輪を手に入れた！
+> CONTEXT: Map033/events/25/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

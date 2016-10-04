@@ -1,0 +1,161 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+サキュバス
+「ふふふ・・・よくここまで来れたわね
+　さすがはあの男の生まれ変わりだわ・・・」
+> CONTEXT: Map024/events/8/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「でもこの異界でお前は朽ち果てるの・・・
+　わたしの手によってね・・・」
+> CONTEXT: Map024/events/8/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「つれて来た姫は、ごらんの通り
+　たっぷりと淫気で染めさせてもらったわよ・・・」
+> CONTEXT: Map024/events/8/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふふふ・・・やっぱり育ちが良いと
+　その反動も大きいのかしらね？」
+> CONTEXT: Map024/events/8/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「この娘はわたしの作った下僕の中でも
+　最高傑作だわ・・・」
+> CONTEXT: Map024/events/8/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「サキュバス様・・・このお方
+　すごく新鮮な精気が漂っています・・・」
+> CONTEXT: Map024/events/8/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「あはっ、すごくおいしそう・・・
+　いいなぁ・・・欲しいなぁ・・・」
+> CONTEXT: Map024/events/8/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふふ・・・この娘もお前の事を気に入ったようね」
+> CONTEXT: Map024/events/8/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「遠慮する事は無いわよティリア・・・
+　その男の精はあなたが吸い尽くしてあげると良いわ」
+> CONTEXT: Map024/events/8/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当ですか？」
+> CONTEXT: Map024/events/8/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「それじゃあ・・・
+　遠慮なくいただきます・・・サキュバス様」
+> CONTEXT: Map024/events/8/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「ンは・・・あぅぅ・・・っ」
+> CONTEXT: Map024/events/8/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふふっ・・・期待はしてなかったけど
+　やはりこの娘では駄目なようね・・・」
+> CONTEXT: Map024/events/8/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「まぁ前哨戦としてはなかなか見物だったわ・・・
+　楽しんでもらえたかしら・・・？」
+> CONTEXT: Map024/events/8/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「さぁ、遊びの時間はもう終わりよ・・・
+　お前を葬り、わたしはあの世界を支配する・・・」
+> CONTEXT: Map024/events/8/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「お前の最期に地獄を見せてあげるわ・・・！」
+> CONTEXT: Map024/events/8/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「くはっ・・・あはぁぁ・・・・
+　お、おのれ・・・\\N[001]・・・・」
+> CONTEXT: Map024/events/8/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ま、またしても・・・わたしは敗れるのか・・・」
+> CONTEXT: Map024/events/8/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「し、しかし、わたしは決して滅びない・・・
+　いつかまた・・・ふ、復活を果たす・・・！」
+> CONTEXT: Map024/events/8/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「次に会った時は・・・お前を・・・
+　か、必ず・・・・！」
+> CONTEXT: Map024/events/8/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+「ふぁ・・・ンはあぁぁ～～～～っ！！」
+> CONTEXT: Map024/events/8/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING

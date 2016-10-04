@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+サファイアの首飾りを手に入れた！
+> CONTEXT: Map011/events/23/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

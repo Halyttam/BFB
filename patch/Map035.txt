@@ -1,0 +1,27 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+紫色の鮮やかな花が咲いている・・・
+どうやらあれがフロルの花のようだ
+> CONTEXT: Map035/events/16/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「・・・わたしの森を荒らすのは誰？」
+> CONTEXT: Map035/events/16/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドリアード
+「く、ふああぁぁ・・・！」
+> CONTEXT: Map035/events/16/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フロルの薬草を手に入れた！
+> CONTEXT: Map035/events/16/pages/1/85/Dialogue < UNTRANSLATED
+
+> END STRING

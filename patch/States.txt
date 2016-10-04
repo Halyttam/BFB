@@ -1,0 +1,156 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戦闘不能
+> CONTEXT: States/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は倒れた！
+> CONTEXT: States/1/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を倒した！
+> CONTEXT: States/1/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は立ち上がった！
+> CONTEXT: States/1/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不死身
+> CONTEXT: States/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+裸
+> CONTEXT: States/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+受け状態
+> CONTEXT: States/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主成功時敵ターン休み
+> CONTEXT: States/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束している状態
+> CONTEXT: States/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵成功時主ターン休み
+> CONTEXT: States/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+搾精モード状態
+> CONTEXT: States/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北モード状態
+> CONTEXT: States/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勝利モード状態
+> CONTEXT: States/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵ブレス封印
+> CONTEXT: States/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: States/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束
+> CONTEXT: States/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱衣状態
+> CONTEXT: States/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北
+> CONTEXT: States/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勝利
+> CONTEXT: States/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+克己上昇中
+> CONTEXT: States/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の克己が上がった！
+> CONTEXT: States/25/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+克己上昇効果が切れた！
+> CONTEXT: States/25/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敏捷上昇中
+> CONTEXT: States/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の敏捷性が上がった！
+> CONTEXT: States/26/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敏捷上昇効果が切れた！
+> CONTEXT: States/26/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライム無敵
+> CONTEXT: States/28/name/ < UNTRANSLATED
+
+> END STRING

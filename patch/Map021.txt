@@ -1,0 +1,777 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+魔法の言葉を紡げ。
+> CONTEXT: Map021/events/2/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+封印は、解かれた・・・。
+> CONTEXT: Map021/events/2/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何も起こらない。
+> CONTEXT: Map021/events/2/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/41/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/47/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おまけモードへようこそ
+敵キャラのセリフ変更や、一人称や二人称の
+入れ替えをする事が出来ます
+> CONTEXT: Map021/events/2/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セリフタイプを変更
+> CONTEXT: Map021/events/2/pages/1/4/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一人称を変更
+> CONTEXT: Map021/events/2/pages/1/4/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二人称を変更
+> CONTEXT: Map021/events/2/pages/1/4/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+変更をクリアする
+> CONTEXT: Map021/events/2/pages/1/4/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノーマル
+> CONTEXT: Map021/events/2/pages/1/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カジュアル
+> CONTEXT: Map021/events/2/pages/1/7/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロリータ
+> CONTEXT: Map021/events/2/pages/1/7/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お嬢様
+> CONTEXT: Map021/events/2/pages/1/7/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+粗暴
+> CONTEXT: Map021/events/2/pages/1/27/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無感情
+> CONTEXT: Map021/events/2/pages/1/27/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ボーイッシュ
+> CONTEXT: Map021/events/2/pages/1/27/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お子様
+> CONTEXT: Map021/events/2/pages/1/27/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シリアス
+> CONTEXT: Map021/events/2/pages/1/47/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フォーマル
+> CONTEXT: Map021/events/2/pages/1/47/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ババア
+> CONTEXT: Map021/events/2/pages/1/47/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にゃんこ
+> CONTEXT: Map021/events/2/pages/1/47/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バ○ボン
+> CONTEXT: Map021/events/2/pages/1/67/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セリフ変更を使わない
+> CONTEXT: Map021/events/2/pages/1/67/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　ノーマル　です
+> CONTEXT: Map021/events/2/pages/1/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　カジュアル　です
+> CONTEXT: Map021/events/2/pages/1/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　ロリータ　です
+> CONTEXT: Map021/events/2/pages/1/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　お嬢様　です
+> CONTEXT: Map021/events/2/pages/1/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　粗暴　です
+> CONTEXT: Map021/events/2/pages/1/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　無感情　です
+> CONTEXT: Map021/events/2/pages/1/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　ボーイッシュ　です
+> CONTEXT: Map021/events/2/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　お子様　です
+> CONTEXT: Map021/events/2/pages/1/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　シリアス　です
+> CONTEXT: Map021/events/2/pages/1/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　フォーマル　です
+> CONTEXT: Map021/events/2/pages/1/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　ババア　です
+> CONTEXT: Map021/events/2/pages/1/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　にゃんこ　です
+> CONTEXT: Map021/events/2/pages/1/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在敵のセリフタイプは　バ○ボン　です
+> CONTEXT: Map021/events/2/pages/1/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在セリフ変更は　オフ　になっています。
+> CONTEXT: Map021/events/2/pages/1/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたし
+> CONTEXT: Map021/events/2/pages/1/179/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたし
+> CONTEXT: Map021/events/2/pages/1/179/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたくし
+> CONTEXT: Map021/events/2/pages/1/179/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ボク
+> CONTEXT: Map021/events/2/pages/1/179/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オレ
+> CONTEXT: Map021/events/2/pages/1/199/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたい
+> CONTEXT: Map021/events/2/pages/1/199/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わたち
+> CONTEXT: Map021/events/2/pages/1/199/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたち
+> CONTEXT: Map021/events/2/pages/1/199/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わらわ
+> CONTEXT: Map021/events/2/pages/1/219/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カスタムを入力
+> CONTEXT: Map021/events/2/pages/1/219/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/2/pages/1/289/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一人称を変更しない
+> CONTEXT: Map021/events/2/pages/1/219/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在の敵の一人称は　\\N[002]　です。
+> CONTEXT: Map021/events/2/pages/1/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一人称変更は現在オフになっています。
+> CONTEXT: Map021/events/2/pages/1/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなた
+> CONTEXT: Map021/events/2/pages/1/249/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お前
+> CONTEXT: Map021/events/2/pages/1/249/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キミ
+> CONTEXT: Map021/events/2/pages/1/249/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンタ
+> CONTEXT: Map021/events/2/pages/1/249/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てめぇ
+> CONTEXT: Map021/events/2/pages/1/269/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴様
+> CONTEXT: Map021/events/2/pages/1/269/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぬし
+> CONTEXT: Map021/events/2/pages/1/269/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄ちゃん
+> CONTEXT: Map021/events/2/pages/1/269/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おにいたん
+> CONTEXT: Map021/events/2/pages/1/289/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二人称を変更しない
+> CONTEXT: Map021/events/2/pages/1/289/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在の敵の二人称は　\\N[003]　です。
+> CONTEXT: Map021/events/2/pages/1/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二人称変更は現在オフになっています。
+> CONTEXT: Map021/events/2/pages/1/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どの敵を召喚しますか？
+> CONTEXT: Map021/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴブリン if(s[49])
+> CONTEXT: Map021/events/3/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワーキャット if(s[63])
+> CONTEXT: Map021/events/3/pages/0/3/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホーネット if(s[53])
+> CONTEXT: Map021/events/3/pages/0/3/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アマゾネス if(s[55])
+> CONTEXT: Map021/events/3/pages/0/3/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドリアード if(s[58])
+> CONTEXT: Map021/events/3/pages/0/47/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー if(s[64])
+> CONTEXT: Map021/events/3/pages/0/47/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザード if(s[51])
+> CONTEXT: Map021/events/3/pages/0/47/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライム if(s[75])
+> CONTEXT: Map021/events/3/pages/0/47/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタ if(s[60])
+> CONTEXT: Map021/events/3/pages/0/91/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミノタウロス if(s[61])
+> CONTEXT: Map021/events/3/pages/0/91/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ if(s[73])
+> CONTEXT: Map021/events/3/pages/0/91/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キラービー if(s[62])
+> CONTEXT: Map021/events/3/pages/0/91/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くのいち if(s[59])
+> CONTEXT: Map021/events/3/pages/0/135/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイクロプス if(s[70])
+> CONTEXT: Map021/events/3/pages/0/135/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コボルト if(s[56])
+> CONTEXT: Map021/events/3/pages/0/135/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ if(s[66])
+> CONTEXT: Map021/events/3/pages/0/135/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニンフ if(s[52])
+> CONTEXT: Map021/events/3/pages/0/179/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネ if(s[65])
+> CONTEXT: Map021/events/3/pages/0/179/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーン if(s[57])
+> CONTEXT: Map021/events/3/pages/0/179/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピンクスライム if(s[76])
+> CONTEXT: Map021/events/3/pages/0/179/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシー if(s[54])
+> CONTEXT: Map021/events/3/pages/0/223/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ if(s[72])
+> CONTEXT: Map021/events/3/pages/0/223/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァンパイア if(s[50])
+> CONTEXT: Map021/events/3/pages/0/223/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リトルデビル if(s[69])
+> CONTEXT: Map021/events/3/pages/0/223/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オーク if(s[68])
+> CONTEXT: Map021/events/3/pages/0/267/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー if(s[67])
+> CONTEXT: Map021/events/3/pages/0/267/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キマイラ if(s[71])
+> CONTEXT: Map021/events/3/pages/0/267/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア if(s[74])
+> CONTEXT: Map021/events/3/pages/0/267/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス if(s[77])
+> CONTEXT: Map021/events/3/pages/0/311/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全回復！
+> CONTEXT: Map021/events/4/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こちらは未来の開放スイッチです
+押すとラストボスのティリア、サキュバスを含めた
+全ての敵を倒した事になります
+・・・押しますか？
+> CONTEXT: Map021/events/5/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こちらは未来の宝箱です
+全ての装備一式が手に入ります
+開けますか？
+> CONTEXT: Map021/events/6/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全ての装備一式を手に入れた！
+> CONTEXT: Map021/events/6/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「そうだ、思い出した・・・
+　確か「イヴ」だったよなぁ、アレの合言葉・・・」
+> CONTEXT: Map021/events/7/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「はぁ・・・それにしてもご主人、今頃
+　どこでなにやってんだろ・・・」
+> CONTEXT: Map021/events/7/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在セリフ変更モードは
+オフ　になっています
+> CONTEXT: Map021/events/9/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　ノーマル
+> CONTEXT: Map021/events/9/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　カジュアル
+> CONTEXT: Map021/events/9/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　ロリータ
+> CONTEXT: Map021/events/9/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　お嬢様
+> CONTEXT: Map021/events/9/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　粗暴
+> CONTEXT: Map021/events/9/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　無感情
+> CONTEXT: Map021/events/9/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　ボーイッシュ
+> CONTEXT: Map021/events/9/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　お子様
+> CONTEXT: Map021/events/9/pages/1/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　シリアス
+> CONTEXT: Map021/events/9/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　フォーマル
+> CONTEXT: Map021/events/9/pages/1/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　ババア
+> CONTEXT: Map021/events/9/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　にゃんこ
+> CONTEXT: Map021/events/9/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまのセリフ設定
+セリフタイプ　バ○ボン
+> CONTEXT: Map021/events/9/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一人称変更モードは　オフ　になっています
+> CONTEXT: Map021/events/9/pages/1/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一人称　\\N[002]
+> CONTEXT: Map021/events/9/pages/1/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二人称変更モードは　オフ　になっています
+> CONTEXT: Map021/events/9/pages/1/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二人称　\\N[003]
+> CONTEXT: Map021/events/9/pages/1/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「なんだ、人間なんて久しぶりだな
+　こんなとこに何の様だい？」
+> CONTEXT: Map021/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「ここか？
+　ここは幻想の部屋だよ」
+> CONTEXT: Map021/events/10/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「昔の王宮魔術師が作った秘密の部屋さ
+　俺はその使い魔のポッティ」
+> CONTEXT: Map021/events/10/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「いまはフレーネとかいう女が
+　そのポストに座ってるらしいな」
+> CONTEXT: Map021/events/10/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「そこの水晶は、記憶にある存在を
+　実態として具現化する力があるんだ
+　この部屋の中でのみだけどな」
+> CONTEXT: Map021/events/10/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「どうせ俺には無用の長物だ
+　まぁ好きに使ってくれていいよ」
+> CONTEXT: Map021/events/10/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッティ
+「青い水晶は合言葉が必要なんだが・・・
+　ご主人が居なくなったのはもう大昔の事なんで
+　忘れちまった・・・すまんな」
+> CONTEXT: Map021/events/10/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING

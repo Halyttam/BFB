@@ -1,0 +1,220 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+
+・・・・・・・・・・・・・
+> CONTEXT: Map041/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+・・・・さま
+> CONTEXT: Map041/events/3/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+・・・・\\N[001]さま・・・
+> CONTEXT: Map041/events/3/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「ん・・・・・・」
+> CONTEXT: Map041/events/3/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティリア
+「ここは・・・・わたしは、一体・・・・？」
+> CONTEXT: Map041/events/3/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「おお・・・ティリア！
+　よくぞ無事に戻ってきてくれた・・・！」
+> CONTEXT: Map041/events/3/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「お前がいなくなったら・・・
+　わたしは・・・・わたしは・・・！」
+> CONTEXT: Map041/events/3/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「驚きました・・・突然石碑がまばゆい光を放ったと思ったら
+　二人がその前に倒れていたんですもの・・・」
+> CONTEXT: Map041/events/3/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「二人とも目を覚ます気配が無かったのですが
+　急いで戻って皆を呼んできたのです」
+> CONTEXT: Map041/events/3/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クレフ
+「おお、\\N[001]や！
+　無事だったか・・・！」
+> CONTEXT: Map041/events/3/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「\\N[001]！
+　ついにサキュバスを倒してきたんだね！」
+> CONTEXT: Map041/events/3/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「徘徊していた淫魔たちも
+　姿を消してしまったようだよ！」
+> CONTEXT: Map041/events/3/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「この国を覆いつくしていた淫気が晴れた！
+　すごいぞ\\N[001]！」
+> CONTEXT: Map041/events/3/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「お前はまさにリグネシアの英雄だ・・・！」
+> CONTEXT: Map041/events/3/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大臣
+「サキュバスを倒し、淫魔の巣窟から
+　生きて帰ってくるとは・・・たいしたものだ」
+> CONTEXT: Map041/events/3/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「\\N[001]よ、お前のおかげで娘は救われた・・・」
+> CONTEXT: Map041/events/3/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「どれだけ感謝しても足りぬくらいだ・・・
+　深く礼を言うぞ・・・」
+> CONTEXT: Map041/events/3/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「いまはひとまず街にもどり
+　ゆっくりとその体を休めるがよい・・・」
+> CONTEXT: Map041/events/3/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「異界との繋がりもなくなって
+　もう心配は要らぬわけだな・・・」
+> CONTEXT: Map041/events/3/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クレフ
+「ああそうじゃ・・・
+　これでもう一安心といった所じゃな」
+> CONTEXT: Map041/events/3/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「王様、異界への扉はふたたび封じられましたが
+　このオーブも力を失ってしまったようですわ・・・」
+> CONTEXT: Map041/events/3/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「むぅ・・・ではそのオーブはもう・・・
+　使えなくってしまったのか・・・？」
+> CONTEXT: Map041/events/3/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「いえ、ダルゴ山の祠に戻せば
+　また力を取り戻せるかも知れません」
+> CONTEXT: Map041/events/3/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「そうか・・・それなら良かった」
+> CONTEXT: Map041/events/3/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「いつかまた、かのサキュバスが
+　ふたたびこの世に現れるやも知れん」
+> CONTEXT: Map041/events/3/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「きっとその時も、\\N[001]の血を受け継ぎし者が
+　このオーブの力を必要とするはずだ」
+> CONTEXT: Map041/events/3/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「その時まで、これは山の祠にて
+　眠らせておくのが良かろう・・・」
+> CONTEXT: Map041/events/3/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　危機は去り、リグネシア王国は平静を取り戻した
+> CONTEXT: Map041/events/3/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　淫魔たちは嘘のように、地上からその姿を消した・・・
+> CONTEXT: Map041/events/3/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING

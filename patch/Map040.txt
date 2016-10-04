@@ -1,0 +1,16 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+バイラス王
+「フレーネの話では、異界の扉は
+　この街の北にある石碑にあるそうだ」
+> CONTEXT: Map040/events/1/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「彼女が先に出向いて、扉を開く準備をしているはずだ
+　急いで向かってくれ」
+> CONTEXT: Map040/events/1/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING

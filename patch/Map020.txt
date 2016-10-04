@@ -1,0 +1,185 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+フレーネ
+「王宮魔術師のフレーネと申します
+　あの・・・こんな場所に何の用でしょう？」
+> CONTEXT: Map020/events/1/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「やっかいなことに、淫魔たちには
+　魔術もいっさい効かないようなのです」
+> CONTEXT: Map020/events/1/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「しかも女性が襲われた場合、感化して淫魔化してしまうので
+　女のわたしに出来る事は、男性がたの手助けくらいなのです」
+> CONTEXT: Map020/events/1/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「城の親衛隊長のシイザさんも女性なので・・・
+　王様の力になれないのを、とても悔やんでおられましたね」
+> CONTEXT: Map020/events/1/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「あ、\\N[001]さま・・・
+　な、なんの用でしょう・・・？」
+> CONTEXT: Map020/events/1/pages/4/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「え、顔が赤いですって・・・？」
+> CONTEXT: Map020/events/1/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「い、いえ・・・\\N[001]さまの顔を見ると
+　変な記憶がよみがえってしまうものですから・・・」
+> CONTEXT: Map020/events/1/pages/4/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術師フレーネは、両手を\\N[001]に向けてかざしながら
+目を閉じて呪文を唱えた
+> CONTEXT: Map020/events/2/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「・\\.・\\.・\\.・\\.・\\.・」
+> CONTEXT: Map020/events/2/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「ふぅ・・・・終わりました」
+> CONTEXT: Map020/events/2/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「これであなたの体は、強い精力を得たはずです
+　淫魔に精を吸われても、かなりの間は耐えられると思います」
+> CONTEXT: Map020/events/2/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「でも、あなたの肉体そのものが強くなった訳ではないので
+　スタミナが無くなると、抵抗できなくなってしまいますよ
+　過信はしないで下さいね」
+> CONTEXT: Map020/events/2/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「そして、この装備も渡しておきます
+　淫魔たちと戦うための魔力を込めた装飾品です
+　私と職人のエルエィさんで、協力して作ったものです」
+> CONTEXT: Map020/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガーネットの装備一式を受け取った
+> CONTEXT: Map020/events/2/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「・・・・？」
+> CONTEXT: Map020/events/2/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「あ・・・いえ、すいません
+　なんだか渡した装身具の魔力が、一瞬
+　強くなったように感じたものですから・・・」
+> CONTEXT: Map020/events/2/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「どんな宝石にも魔力が秘められています
+　魔除けの力とでもいいましょうか・・・」
+> CONTEXT: Map020/events/2/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「その力が淫魔たちにも有効なようですね・・・
+　強い光を持った宝石ほど効果が高いようです」
+> CONTEXT: Map020/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「それらはちゃんと装備してくださいね
+　うまくすれば淫魔たちを、その・・・絶頂に導いて
+　撃退することができるかもしれません」
+> CONTEXT: Map020/events/2/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「あっ、それと、淫魔と戦ったことがある兵士たちから
+　戦い方を聞いておくと良いかもしれません
+　たぶん今頃は、街の南東の酒場に居ると思います」
+> CONTEXT: Map020/events/2/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレーネ
+「どうか無事に帰られますよう・・・
+　幸運を祈っています」
+> CONTEXT: Map020/events/2/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物語が進行し、エルエィの装身具店が開店しました
+街の中央から少し西にあります
+> CONTEXT: Map020/events/2/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その前に、まずはもらった装身具を装備してみましょう
+> CONTEXT: Map020/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不思議な模様の床に、四角いくぼみがある・・・
+> CONTEXT: Map020/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

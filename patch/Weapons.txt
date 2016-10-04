@@ -1,0 +1,60 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ガーネットの指輪
+> CONTEXT: Weapons/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トルマリンの指輪
+> CONTEXT: Weapons/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アメシストの指輪
+> CONTEXT: Weapons/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トパーズの指輪
+> CONTEXT: Weapons/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクアマリンの指輪
+> CONTEXT: Weapons/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オパールの指輪
+> CONTEXT: Weapons/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エメラルドの指輪
+> CONTEXT: Weapons/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サファイアの指輪
+> CONTEXT: Weapons/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルビーの指輪
+> CONTEXT: Weapons/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤの指輪
+> CONTEXT: Weapons/10/name/ < UNTRANSLATED
+
+> END STRING

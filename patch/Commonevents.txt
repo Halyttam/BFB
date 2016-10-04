@@ -1,0 +1,5634 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+拘束を拒む
+> CONTEXT: Commonevents/27/0/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、なすがまま敵に身を任せた・・・
+> CONTEXT: Commonevents/27/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、敵からの拘束に抵抗した！
+> CONTEXT: Commonevents/27/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、敵からの拘束をまぬがれた！
+> CONTEXT: Commonevents/27/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、敵に遅れをとってしまった！
+> CONTEXT: Commonevents/27/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、\\N[001]は服を着ている！
+> CONTEXT: Commonevents/28/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、すでに挿入している！
+> CONTEXT: Commonevents/28/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挿入に抗う
+> CONTEXT: Commonevents/28/10/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]のペニスが、敵に飲み込まれる！
+> CONTEXT: Commonevents/28/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は挿入を拒もうとした！
+> CONTEXT: Commonevents/28/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、敵からの挿入をまぬがれた！
+> CONTEXT: Commonevents/28/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、敵の動きに遅れをとってしまった！
+\\N[001]のペニスが、敵に飲み込まれる！
+> CONTEXT: Commonevents/28/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、\\N[001]はすでに脱衣している！
+> CONTEXT: Commonevents/29/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、服を脱がされた！
+> CONTEXT: Commonevents/29/14/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/29/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱衣に抗う
+> CONTEXT: Commonevents/29/18/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、敵からの脱衣に抵抗した！
+> CONTEXT: Commonevents/29/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、脱衣を免れた！
+> CONTEXT: Commonevents/29/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、抵抗空しく
+服を脱がされてしまった！
+> CONTEXT: Commonevents/29/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、敵はすでに脱衣している！
+> CONTEXT: Commonevents/30/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は、すばやく敵の腰をとらえた！
+> CONTEXT: Commonevents/32/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、挿入できなかった！
+> CONTEXT: Commonevents/32/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+く・・・・・ううぅ・・・・っ・・・
+> CONTEXT: Commonevents/38/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]は　その場に崩れ落ちた・・・
+> CONTEXT: Commonevents/38/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ、男の人みつけたぁ！
+　悪いけど\\N[003]の精気は、\\N[002]がいただくよ！」
+> CONTEXT: Commonevents/50/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ノコノコとこんな所に来るなんて・・・
+　\\N[002]に精気を貢ぎに来たのかな・・？」
+> CONTEXT: Commonevents/50/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんな所にエモノがいるじゃない！
+　ちょうど良かった、お腹すいてたんだぁ」
+> CONTEXT: Commonevents/50/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]、こんな所でなにしてるのかなぁ？
+　\\N[002]にせーえきを吸い尽くされに来たのかなぁ？」
+> CONTEXT: Commonevents/50/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・・\\N[003]、
+　\\N[002]に搾り殺される覚悟はいいかなぁ？」
+> CONTEXT: Commonevents/50/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おいしそうなオトコの人、みーっけ！」
+> CONTEXT: Commonevents/50/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[002]と勝負ですって？・・・ふふっ
+　それがどれだけ愚かな事か、思い知らせてあげますわ！」
+> CONTEXT: Commonevents/50/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・・血祭りにあげて差し上げますわ」
+> CONTEXT: Commonevents/50/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]の命は\\N[002]を満たしてくれるのかしら？
+　クス・・・楽しみですわ」
+> CONTEXT: Commonevents/50/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へへっ、こんなところに、オトコがいやがったぜ・・・
+　今から\\N[003]を搾り殺してやるから、覚悟しな！」
+> CONTEXT: Commonevents/50/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふはははっ・・・！
+　\\N[002]に遭遇しちまったのが、運の尽きだな！」
+> CONTEXT: Commonevents/50/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・\\N[002]に出合ったが最期だ
+　冥土の土産に、イかせまくってやるぜ・・・」
+> CONTEXT: Commonevents/50/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・お年頃なオトコのヒトね・・・美味しそう」
+> CONTEXT: Commonevents/50/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・たっぷり犯してあげる」
+> CONTEXT: Commonevents/50/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・生きて帰れるとは、思わない事ね・・・」
+> CONTEXT: Commonevents/50/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うはっ、獲物みーっけ！
+　\\N[002]に見つかったが最期だ！
+　\\N[003]、覚悟するといいぞっ！」
+> CONTEXT: Commonevents/50/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・・\\N[003]で何人目かなぁ？
+　\\N[002]の餌食になるのは・・・」
+> CONTEXT: Commonevents/50/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・\\N[003]の命は
+　\\N[002]がいただくぞ・・・！」
+> CONTEXT: Commonevents/50/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「むむむっ！新鮮な精気を感じましゅ・・・
+　捕獲するでしゅっ！」
+> CONTEXT: Commonevents/50/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「活きのいい精気が漂ってましゅねぇ・・・
+　搾り甲斐がありそうでしゅ！」
+> CONTEXT: Commonevents/50/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・\\N[002]が吸い尽くしてやるでしゅ
+　死ぬまでせいぜい必死にあがくでしゅ！」
+> CONTEXT: Commonevents/50/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「残念ですが、\\N[003]の運命はここで終わります
+　そう、\\N[002]の手によって・・・」
+> CONTEXT: Commonevents/50/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ、ここが\\N[003]の墓場になるのです・・・」
+> CONTEXT: Commonevents/50/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・なかなか活きが良さそうな人ですね
+　どんな風に堕としてあげましょうか・・・」
+> CONTEXT: Commonevents/50/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・ほう？なかなか精力旺盛そうな
+　男ではないか・・・」
+> CONTEXT: Commonevents/50/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・\\N[003]の精は
+　\\N[002]が頂く・・・覚悟しろ！」
+> CONTEXT: Commonevents/50/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっふっふ・・・・光栄に思うのだな・・・
+　最期の相手が\\N[002]であるという事を・・・」
+> CONTEXT: Commonevents/50/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぅ？若々しい男がこんな所に
+　\\N[002]に精を貢ぎに来たのかえ？」
+> CONTEXT: Commonevents/50/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっくっく・・・
+　\\N[002]に出会ってしまったのが、運の尽きじゃな」
+> CONTEXT: Commonevents/50/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「丁度腹が減っていたところじゃ
+　大人しく\\N[002]の糧となるがよい」
+> CONTEXT: Commonevents/50/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐふふふ・・・っ
+　美味そうなエサを見つけたニャぁ・・・！」
+> CONTEXT: Commonevents/50/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[002]に食われるために、こんな所まで
+　ノコノコやって来たのかニャ・・・？」
+> CONTEXT: Commonevents/50/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[002]に出くわしたのが、運の尽きだニャ
+　潔く餌食になるがいいニャぁ！」
+> CONTEXT: Commonevents/50/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっふっふ・・・\\N[003]の命運もここまでなのだ
+　大人しく\\N[002]に吸い尽くされるがいいのだ！」
+> CONTEXT: Commonevents/50/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おやおや？また一匹、あわれな子羊やってきたのだ
+　ふふふ・・・遠慮なく\\N[002]がたいらげてやるのだぁ」
+> CONTEXT: Commonevents/50/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「むふふ・・活きが良さそうな雄なのだぁ
+　大人しく\\N[002]に食べられるのだぁ・・！」
+> CONTEXT: Commonevents/50/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]の精はどんな味かしらね・・・ふふふ
+　さぁ、楽しませて頂戴」
+> CONTEXT: Commonevents/50/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・
+　これから\\N[003]を、天国に連れて行ってあげるわ・・・
+　いえ・・・地獄かしらね？」
+> CONTEXT: Commonevents/50/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・\\N[002]に搾り殺される覚悟は、出来てるかしら？
+　ここが\\N[003]の墓場になるのよ・・・」
+> CONTEXT: Commonevents/50/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きゃっ！
+　うー、スッテンテンだよぉ・・・」
+> CONTEXT: Commonevents/51/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やンッ！・・・くぅー、\\N[002]を脱がすなんて・・・
+　今にヒドい事になるからね・・・！」
+> CONTEXT: Commonevents/51/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なぁっ？！
+　\\N[002]のお気に入りなのにぃ！」
+> CONTEXT: Commonevents/51/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁんっ！
+　うう～、脱がされたぁ～」
+> CONTEXT: Commonevents/51/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ～あ、すっぽんぽんにされちゃったぁ」
+> CONTEXT: Commonevents/51/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わぁっ！なにするんだよぉ～！」
+> CONTEXT: Commonevents/51/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！・・・・くっ、不覚ですわ」
+> CONTEXT: Commonevents/51/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んくっ！・・・肌を晒されるとは・・・」
+> CONTEXT: Commonevents/51/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・なかなか早いですわね
+　望むところですわ」
+> CONTEXT: Commonevents/51/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐあっ！よ、よせっ！」
+> CONTEXT: Commonevents/51/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちぃっ！\\N[002]を剥くなんて・・・\\N[003]っ！
+　どうなるか、腹をくくっとけよっ！」
+> CONTEXT: Commonevents/51/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うわっ！なんてことしやがるっ！」
+> CONTEXT: Commonevents/51/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいの・・・？
+　\\N[002]の裸を見たら最期よ・・・」
+> CONTEXT: Commonevents/51/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっ・・・く、やられたか・・・」
+> CONTEXT: Commonevents/51/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・\\N[002]を剥いたら
+　余計にコーフンするだけよ・・・？」
+> CONTEXT: Commonevents/51/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うわっ！や、やめろっ！」
+> CONTEXT: Commonevents/51/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐぅっ！　\\N[002]の素肌を晒したなぁ・・・っ！
+　タダじゃ済まさないぞっ！」
+> CONTEXT: Commonevents/51/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ、やめろっ！
+　\\N[002]のカラダを見るなぁっ！」
+> CONTEXT: Commonevents/51/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁんっ！
+　剥かれちゃったでしゅうぅっ・・・！」
+> CONTEXT: Commonevents/51/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいんでしゅかぁ？　\\N[002]のカラダを見たら
+　余計にコーフンしちゃうでしゅよぉ・・・？」
+> CONTEXT: Commonevents/51/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！
+　やっ、やられたでしゅうぅっ・・・！」
+> CONTEXT: Commonevents/51/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きゃあっ！・・・お止めください！」
+> CONTEXT: Commonevents/51/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっ・・・ふふっ、死ぬ前に\\N[002]の裸体を
+　目に出来るなんて・・・僥倖ですね？」
+> CONTEXT: Commonevents/51/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ・・・ハダカにされてしまいました・・・
+　おイタが過ぎる人には、お返しが必要ですね」
+> CONTEXT: Commonevents/51/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ！
+　肌を晒されるとは・・・！」
+> CONTEXT: Commonevents/51/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ち、脱がされたか・・・ふふっ、
+　これから\\N[003]の命を奪うオンナのカラダだ
+　せいぜい目に焼き付けるが良い」
+> CONTEXT: Commonevents/51/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く、おのれっ！・・・
+　なかなか素早いでは無いか・・・」
+> CONTEXT: Commonevents/51/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んぐっ！・・・\\N[002]のお気に入りを
+　剥ぎ取りおって・・・！」
+> CONTEXT: Commonevents/51/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぬぅ・・・やられたか・・・
+　まぁ良い、これで動きやすくなるわい」
+> CONTEXT: Commonevents/51/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くくく・・・\\N[002]の肌を晒すとは・・・
+　命知らずじゃのう・・・\\N[003]」
+> CONTEXT: Commonevents/51/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うわぁっ！？
+　くっ・・・・なにするニャぁ！」
+> CONTEXT: Commonevents/51/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・・\\N[002]を裸にしたニャぁ？
+　生かして返さないニャ！」
+> CONTEXT: Commonevents/51/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ミャっ！・・・\\N[002]を剥いたところで
+　このカラダに興奮するだけニャ！」
+> CONTEXT: Commonevents/51/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わあぁっ！
+　なにをするのだぁ！」
+> CONTEXT: Commonevents/51/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くふふ・・・死ぬ前に、せいぜい\\N[002]の体を
+　その目に焼き付けておくがいいのだ・・」
+> CONTEXT: Commonevents/51/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ・・・こんな事はムダな抵抗だと
+　すぐ\\N[003]に分からせてやるのだ・・」
+> CONTEXT: Commonevents/51/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっく！
+　やってくれたわね・・・！」
+> CONTEXT: Commonevents/51/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ・・・！
+　まぁいい、これで身軽になったわ・・・」
+> CONTEXT: Commonevents/51/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなに\\N[002]のハダカが
+　見たかったのかしら・・・？」
+> CONTEXT: Commonevents/51/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んんぅっ♥・・・・
+　ぬっ、濡れてきちゃったじゃない・・・」
+> CONTEXT: Commonevents/52/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁ♥・・・・っ！
+　かっ・・・感じてなんか、いないんだから・・・！」
+> CONTEXT: Commonevents/52/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁっ・・・なかなかやるね、\\N[003]・・・・
+　でも、これくらいじゃ負けないよっ・・・！」
+> CONTEXT: Commonevents/52/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ・・・
+　お汁が溢れちゃうぅ・・・」
+> CONTEXT: Commonevents/52/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ♥・・・・く！
+　\\N[002]っ、ヘンになっちゃうよぉ・・・！」
+> CONTEXT: Commonevents/52/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁっ♥・・・ダメっ、敏感になっちゃうぅ・・っ」
+> CONTEXT: Commonevents/52/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くふっ・・・・カラダが、熱いっ・・・」
+> CONTEXT: Commonevents/52/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ・・・♥
+　こ、これしきで、のぼせる\\N[002]では・・・」
+> CONTEXT: Commonevents/52/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つぅ・・・っ・・・
+　ふふっ・・・なかなかの技巧ですわね・・・」
+> CONTEXT: Commonevents/52/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンは・・・あ♥・・・・っ
+　や、やるじゃねーか・・・\\N[003]・・・っ」
+> CONTEXT: Commonevents/52/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く・・・はぁっ・・・・
+　カラダが・・・疼くぅ・・・っ！」
+> CONTEXT: Commonevents/52/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちっ・・・こんな・・・っ
+　この\\N[002]が、感じてなんかっ・・・！」
+> CONTEXT: Commonevents/52/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・んはぁ・・・っ
+　\\N[002]がオトコに押されるなんて・・・」
+> CONTEXT: Commonevents/52/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あふ・・・・っ・・・・♥
+　くぅ・・・疼くわ・・・」
+> CONTEXT: Commonevents/52/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あふぁ・・・っ・・・感じてなどないわ・・・
+　まだこれからよ・・・・」
+> CONTEXT: Commonevents/52/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふ・・・くぅ・・っ！
+　な、なかなかやるね・・・！」
+> CONTEXT: Commonevents/52/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うわぁっ・・・・熱い・・・っ・・・！
+　カラダが・・・ふわふわするぅ・・・！」
+> CONTEXT: Commonevents/52/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ・・・・く・・・！
+　\\N[002]のちからは、こんなもんじゃ・・・！」
+> CONTEXT: Commonevents/52/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁぁ・・・っ、気持ちイイでしゅぅ・・・♥
+　ま、負けちゃいそうだけど・・・諦めないでしゅっ！」
+> CONTEXT: Commonevents/52/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンン・・・っ♥　だ、ダメでしゅ・・
+　もうこんなに濡れちゃってましゅぅ・・・っ」
+> CONTEXT: Commonevents/52/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふぁっ・・・♥　くぅ・・・・っ
+　\\N[002]は、まだ諦めないでしゅっ・・・！」
+> CONTEXT: Commonevents/52/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁっ♥・・・うぅ・・・っ！
+　こ、こんなはずでは・・・・！」
+> CONTEXT: Commonevents/52/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁっ♥・・・あぁ、なんてこと・・・
+　おマタがぐしょぐしょです・・・」
+> CONTEXT: Commonevents/52/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふぁ♥・・・気持ちイイです・・・けど・・・っ
+　まだ落ちるわけにはいきません・・・！」
+> CONTEXT: Commonevents/52/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ううっ・・・こ、これしきで・・・っ
+　こ、興奮してなどいないぞ・・・っ！」
+> CONTEXT: Commonevents/52/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっく！・・・この程度の快楽にっ・・！
+　・・・屈する\\N[002]では無い！」
+> CONTEXT: Commonevents/52/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ・・・はぁ・・・やるでは無いか・・・
+　だが、最後に立っているのは\\N[002]だ・・！」
+> CONTEXT: Commonevents/52/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっくぅ・・・\\N[002]とした事が・・・
+　股がグショグショでは無いか・・・っ」
+> CONTEXT: Commonevents/52/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ・・ふぁぁ・・・っ！・・・っく、
+　この程度の事で、嬌声をあげるなどっ・・・！」
+> CONTEXT: Commonevents/52/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅぅ・・・っ！
+　こ、これしきでは屈せぬぞ・・！」
+> CONTEXT: Commonevents/52/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んくぅっ♥・・・・はぁ・・・っ
+　おマタが凄いことになってるニャぁ・・・っ！」
+> CONTEXT: Commonevents/52/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンニャぁっ・・・！く・・・っ、こんな責めで
+　落とされる\\N[002]じゃぁ・・・っ！」
+> CONTEXT: Commonevents/52/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んくぅ・・っ、なかなか上手ニャね・・・
+　でも、負けないニャぁよっ！」
+> CONTEXT: Commonevents/52/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あふぁっ・・・あ、ありえないのだ・・
+　\\N[002]が押されるなんてっ・・！」
+> CONTEXT: Commonevents/52/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっく・・・熱いっ・・・♥
+　か、カラダが疼くのだぁ・・・！」
+> CONTEXT: Commonevents/52/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁっ・・・こ、この程度の快楽にっ・・・
+　流されるような\\N[002]じゃないのだ・・っ！」
+> CONTEXT: Commonevents/52/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっ・・・くぅ・・・っ
+　なかなか、手強いわね・・・・」
+> CONTEXT: Commonevents/52/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁっ♥・・・カラダが・・・熱いぃ・・・っ！」
+> CONTEXT: Commonevents/52/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んんっ・・・！
+　まだこれくらいでは、墜ちないわよ・・・！」
+> CONTEXT: Commonevents/52/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは、すごぉい・・・♥
+　こんなに大きくなって、ピクピクしてるぅ・・・！」
+> CONTEXT: Commonevents/53/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ、苦しそうだね・・・
+　もう少しで、フィニッシュかな・・・？」
+> CONTEXT: Commonevents/53/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あらあらぁ・・・？なんだか辛そうだけど・・・
+　\\N[002]の攻撃にどこまで耐えられるかな？」
+> CONTEXT: Commonevents/53/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・どう、気持ちイイ？
+　もうそろそろかなぁ？・・・ふふふ」
+> CONTEXT: Commonevents/53/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ・・・遠慮せずにイっちゃって良いんだよぉ？
+　\\N[002]がぜーんぶ吸い尽くしちゃうんだから・・・♥」
+> CONTEXT: Commonevents/53/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あれれぇ？この程度でもう先っぽがぬるぬるだよ？
+　あははっ♥・・・そんなに気持ち良かったぁ？」
+> CONTEXT: Commonevents/53/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「苦しそうですわねぇ・・・クスクス♥
+　\\N[002]が解放してあげますわ・・・」
+> CONTEXT: Commonevents/53/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは・・・そんなに赤くなって・・・
+　追い詰め甲斐のある反応ですわね♥」
+> CONTEXT: Commonevents/53/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・さっさと諦めれば、ラクになれますわよ」
+> CONTEXT: Commonevents/53/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こーんなに固くしやがって♥・・・ふふっ
+　このまま、一気に追い詰めてやるよ・・・！」
+> CONTEXT: Commonevents/53/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・とっとと\\N[002]に屈すれば
+　ラクになれるぜ・・・？」
+> CONTEXT: Commonevents/53/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]のチンポが脈打ってるぜ・・・ふふっ
+　もう、すぐそこまでせり上がってるんだろ・・・？」
+> CONTEXT: Commonevents/53/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・・気持ち良さそうね・・・
+　さっさとイかせあげるわ・・・♥」
+> CONTEXT: Commonevents/53/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・堪えても、無駄な抵抗よ・・・」
+> CONTEXT: Commonevents/53/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・覚悟を決めておくと良いわ・・・今の内にね」
+> CONTEXT: Commonevents/53/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・・感極まってきたって感じかな・・・？」
+> CONTEXT: Commonevents/53/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうイっちゃう・・・？ふふっ・・・
+　必死に堪えたって、\\N[002]がそのガマンを
+　ねじ伏せちゃうからね・・・♥」
+> CONTEXT: Commonevents/53/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・おっきいのが
+　ビクン・・・ビクン・・・ってしてる・・・♥」
+> CONTEXT: Commonevents/53/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは♥・・・\\N[003]のおっきいおちんちん
+　ビクンビクンって、震えてましゅよぉ・・・？」
+> CONTEXT: Commonevents/53/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ♥・・・必死ににこらえたって
+　\\N[002]が\\N[003]を
+　ソッコーでイかせてあげるでしゅ・・♥」
+> CONTEXT: Commonevents/53/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうイっちゃうんでしゅかぁ？・・・クスっ♥
+　\\N[003]、このまま\\N[002]にヤられちゃうでしゅか？」
+> CONTEXT: Commonevents/53/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・気持ちイイですか・・・？
+　このまま、一気に追い詰めてあげます・・・♥」
+> CONTEXT: Commonevents/53/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ・・・その滾った精を、この\\N[002]のカラダに
+　遠慮なく思い切り・・・迸らせると良いです」
+> CONTEXT: Commonevents/53/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、スゴい・・・逞しく、脈動してます・・・♥
+　\\N[002]がすぐに解放してあげましょう・・・」
+> CONTEXT: Commonevents/53/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっくっく・・・
+　このまま絶頂に導いてやる・・・」
+> CONTEXT: Commonevents/53/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・さぁ出すが良い・・・
+　\\N[002]が全て受け止めてやる・・・」
+> CONTEXT: Commonevents/53/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]の男根が、ビクビク跳ねているぞ・・・
+　もうそろそろなのだろう？・・・ほら、どうだ？」
+> CONTEXT: Commonevents/53/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「辛そうじゃの？・・・・なぁに安心せい、
+　すぐに登りつめさせてやる・・・ククク」
+> CONTEXT: Commonevents/53/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう果てそうなのかえ？・・・ふふふっ♥
+　なんじゃ\\N[003]、案外早漏じゃな？」
+> CONTEXT: Commonevents/53/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ククク・・・
+　\\N[002]の攻撃に、いつまで耐えられるかのぉ？」
+> CONTEXT: Commonevents/53/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・こんニャに固くしちゃって・・・♥
+　我慢しなくていいニャよぉ・・・？」
+> CONTEXT: Commonevents/53/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・辛そうニャねぇ？
+　今すぐラクにしてあげるニャ・・・」
+> CONTEXT: Commonevents/53/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「堪えようとしたって無駄だニャ・・・
+　\\N[003]が堕ちるのは、時間の問題だニャぁ！」
+> CONTEXT: Commonevents/53/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・キモチ良いのだぁ？
+　いますぐ堕としてやるのだぁ・・・！」
+> CONTEXT: Commonevents/53/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そろそろなのだ？ふふ・・♥
+　こらえようとしたって無駄なのだ・・・！」
+> CONTEXT: Commonevents/53/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぉら・・・先っぽがぬるぬるになってるのだ・・・
+　遠慮なく\\N[002]にぶちまけるがいいのだ・・！」
+> CONTEXT: Commonevents/53/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・もうイきそう？
+　ガマンしなくたっていいのよ・・・？」
+> CONTEXT: Commonevents/53/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・
+　さぁ、このまま快楽の波に溺れるのよ・・・」
+> CONTEXT: Commonevents/53/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら・・・もう限界なの・・・？
+　ふふっ♥・・・ビクビク脈打ってるわよ・・・？」
+> CONTEXT: Commonevents/53/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ・・・ふふ・・・\\N[003]はこのまま
+　\\N[002]の中で力尽きちゃう運命なんだよ・・・」
+> CONTEXT: Commonevents/54/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスッ♥・・・おっき～ぃ、あははっ・・・・
+　さぁ、潔く\\N[002]の養分になってね・・・」
+> CONTEXT: Commonevents/54/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エヘヘ・・・\\N[002]のココに入って
+　耐えられた男なんて、いないんだからっ・・・！」
+> CONTEXT: Commonevents/54/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁ・・・っ♥、すごい固くなってる・・・
+　さぁて、\\N[003]の固いおちんちん
+　ドロドロに溶かしてあげるね・・・」
+> CONTEXT: Commonevents/54/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンあ・・・っ♥・・・ふふっ、入っちゃったね・・・
+　さぁ、ココが\\N[003]の墓場になる場所だよぉ？
+　一滴残さず搾りつくしてあげるね・・・」
+> CONTEXT: Commonevents/54/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あは・・・入ったぁ・・・♥
+　ふふふっ・・・\\N[002]の中で、最期を迎えられるなんて
+　\\N[003]って、幸せ者だね」
+> CONTEXT: Commonevents/54/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ・・・ふふ・・・
+　そぉら、搾り取ってあげますわ・・・♥」
+> CONTEXT: Commonevents/54/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ・・こんなに硬くいきり立って・・・
+　\\N[002]の中で、すぐに果てさせてあげますわ・・・♥」
+> CONTEXT: Commonevents/54/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ、楽しみですわ♥・・・\\N[002]のオンナに、
+　\\N[003]のオトコが屈する瞬間が・・・」
+> CONTEXT: Commonevents/54/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁっ♥・・・ふふ・・・どんなオトコだって
+　\\N[002]の腰使いに耐えられはしないぜ・・・？」
+> CONTEXT: Commonevents/54/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁ♥・・・そぉら、飲み込んじゃったぞ・・・
+　これでもう\\N[003]は逃げられないぜ・・・！」
+> CONTEXT: Commonevents/54/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほらっ！このまま\\N[002]の奥に
+　たっぷりと出しちゃえよ・・・！」
+> CONTEXT: Commonevents/54/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・・ほら・・・
+　ココが、\\N[003]の最期となる場所よ・・・♥」
+> CONTEXT: Commonevents/54/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・もう逃げられないわよ・・・
+　\\N[003]が逝くまでね・・・♥」
+> CONTEXT: Commonevents/54/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・搾り殺してあげるわ・・・」
+> CONTEXT: Commonevents/54/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ！・・・えへへ・・・飲み込んじゃったぞぉ・・・♥」
+> CONTEXT: Commonevents/54/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・\\N[003]はどれくらい持つかなぁ・・・？
+　ヌルヌルでキュウキュウな　\\N[002]の中で・・・♥」
+> CONTEXT: Commonevents/54/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そぉーらっ・・・！
+　\\N[002]の中でドクドクーって、出しちゃえ！」
+> CONTEXT: Commonevents/54/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅ・・・っ♥
+　すぐに搾りあげてやるでしゅ・・・」
+> CONTEXT: Commonevents/54/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・元気が良いおちんちんでしゅね・・・♥
+　でも\\N[002]が血祭りにあげてやるでしゅ・・・」
+> CONTEXT: Commonevents/54/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ！・・・ふふ・・・
+　\\N[002]の中、キツいでしょぉ・・・♥」
+　さぁ、枯れ果てるでしゅ・・・！」
+> CONTEXT: Commonevents/54/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁっ！・・・ン・・・おっきぃ・・・♥
+　ふふっ・・・搾り甲斐がありそうです・・・」
+> CONTEXT: Commonevents/54/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン・・・固くいきり立ってますね・・・♥
+　\\N[002]の中でドロドロに溶かしてあげます・・・」
+> CONTEXT: Commonevents/54/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ・・・\\N[002]の中で
+　枯れ果てるがいいです・・・！」
+> CONTEXT: Commonevents/54/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁ♥・・・どうだ、心地良いだろう？
+　\\N[002]のココで、朽ち果てるが良い」
+> CONTEXT: Commonevents/54/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「随分と固くしているな？・・・これでは\\N[002]の中で
+　そう長くは持つまいよ・・・ふふ♥」
+> CONTEXT: Commonevents/54/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっふふ♥・・・精気が滾っているのを感じるぞ・・・
+　\\N[002]の中にたっぷりと吐き出すが良い」
+> CONTEXT: Commonevents/54/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くふふふ・・・繋がったぞ？
+　このまま\\N[002]のモノとなるが良い・・・」
+> CONTEXT: Commonevents/54/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ン♥・・・ふふ・・・\\N[003]を抱いて、
+　骨まで喰らい尽くしてやろう」
+> CONTEXT: Commonevents/54/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あふぅ・・っ♥、\\N[002]の中はどうじゃ？
+　枯れるまで搾り上げてやろう・・・ククク」
+> CONTEXT: Commonevents/54/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャはぁっ！・・・死の交尾の快楽を食らうニャ！
+　搾り尽くしてあげるニャぁ・・・！」
+> CONTEXT: Commonevents/54/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そぉれ、いただきまぁすだニャ・・・♥
+　ンンっ・・・ふふ、奥まで届いてるニャぁ♥」
+> CONTEXT: Commonevents/54/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっふふ・・・\\N[003]も逝くがいいニャ♥
+　何匹ものオスを搾り上げてきたココでね・・・」
+> CONTEXT: Commonevents/54/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ♥・・・\\N[002]に包まれる感触はどうだ？
+　じっくり絞り上げてやるのだぁ・・・！」
+> CONTEXT: Commonevents/54/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっはぁ♥・・・このカタさがいつまで持つか・・・
+　見ものなのだ・・・」
+> CONTEXT: Commonevents/54/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[002]の中で\\N[003]をよがり狂わせてやるのだ！」
+> CONTEXT: Commonevents/54/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あンっ♥・・・・ふふっ、入ったわよ・・・？」
+> CONTEXT: Commonevents/54/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンッ！・・・ふふふ・・・♥
+　\\N[002]の中で、どれくらい耐えられるかしらね・・・？」
+> CONTEXT: Commonevents/54/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁっ♥・・・・ほぉら、\\N[002]の中で
+　\\N[003]をドロドロに溶かしてあげるわ・・・」
+> CONTEXT: Commonevents/54/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く・・・ふぅっ！
+　これで終わりにしてあげるっ・・・！」
+> CONTEXT: Commonevents/55/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つぅっ・・・ここまで追い詰められるなんてね・・・
+　でも、勝つのは\\N[002]だよ・・・っ！」
+> CONTEXT: Commonevents/55/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンッ・・・♥
+　ふふ・・・\\N[002]か、\\N[003]か、どっちかな？
+　この結合が解かれた時に、立ってるのは・・・」
+> CONTEXT: Commonevents/55/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁ・・っ♥　なかなかやるね、\\N[003]・・・
+　でも負けないよぉ～っ！」
+> CONTEXT: Commonevents/55/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅンっ・・・！
+　すごい気持ち良かったけど・・・コレでイかせてあげるっ！」
+> CONTEXT: Commonevents/55/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・・♥　ずいぶん追い詰められたけど
+　ここで勝負つけてあげるねっ！」
+> CONTEXT: Commonevents/55/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンくぅっ！・・・これで終わりにして見せますわ!」
+> CONTEXT: Commonevents/55/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ・・・・さぁ、勝負ですわ・・・♥
+　倒すか、倒されるか・・・！」
+> CONTEXT: Commonevents/55/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ずいぶん追い詰めてくれましたわね・・・
+　でも、これで終わりにしてあげますわ・・・！」
+> CONTEXT: Commonevents/55/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンふぁ♥・・・っ！
+　このまま、終わりにしてやるっ・・・！」
+> CONTEXT: Commonevents/55/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んぐ・・・っ！
+　\\N[003]なんかに負けるかよっ・・・！」
+> CONTEXT: Commonevents/55/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つぅっ・・・ふふっ・・・
+　\\N[003]、なかなか強ぇみたいだけど・・・
+　でも、これで終わりだぜ・・・！」
+> CONTEXT: Commonevents/55/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・・ここからが勝負よ・・・」
+> CONTEXT: Commonevents/55/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっ・・・手こずらせてくれるわね・・・っ」
+> CONTEXT: Commonevents/55/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンふっ・・・このまま\\N[002]が負けるなど
+　有り得ないわ・・・」
+> CONTEXT: Commonevents/55/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うりゃっ！
+　それっ、さっさとイっちゃえ・・・！」
+> CONTEXT: Commonevents/55/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く、はぁ・・・っ！
+　もう潔く、\\N[002]の中で出しちゃえっ！」
+> CONTEXT: Commonevents/55/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ♥・・・さぁ、勝負だよ！
+　どっちが先にイっちゃうかな？・・・ふふっ♥」
+> CONTEXT: Commonevents/55/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅぅ・・・っ、追い詰められたって
+　\\N[002]は負けないでしゅよぉ・・・！」
+> CONTEXT: Commonevents/55/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はふぅ・・・っ！
+　\\N[002]のきゅうきゅうな締め付け攻撃を
+　喰らうが良いでしゅ・・・！」
+> CONTEXT: Commonevents/55/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ・・・く！　\\N[003]を射精地獄に
+　導いてやるから、覚悟するでしゅ！」
+> CONTEXT: Commonevents/55/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・！
+　これしきくらいでは・・・・負けませんよ・・・！」
+> CONTEXT: Commonevents/55/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっく・・・ここからが、勝負ですよ・・・！」
+> CONTEXT: Commonevents/55/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっ・・・ン・・・♥
+　必ず\\[003]を堕としてみせます・・・！」
+> CONTEXT: Commonevents/55/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅ・・・手こずらせおって・・・
+　だが、コレで決着をつけてやる・・・！」
+> CONTEXT: Commonevents/55/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっく・・・っ♥
+　必ず\\N[003]を、倒してみせる・・・！」
+> CONTEXT: Commonevents/55/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ン・・・っ！
+　まだだ・・・まだこれからだぞ・・・！」
+> CONTEXT: Commonevents/55/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]、なかなかの手練じゃの・・・
+　だが、それもここまでじゃ！」
+> CONTEXT: Commonevents/55/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅ・・・！少しばかり苦戦したが
+　これで終わりにしてやるのじゃ・・・！」
+> CONTEXT: Commonevents/55/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んんっ・・・く・・・・
+　\\N[002]に勝つなど100年早いのじゃ！」
+> CONTEXT: Commonevents/55/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっく！・・・ここからが勝負だニャ！
+　絞め上げてやるニャ！」
+> CONTEXT: Commonevents/55/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅぅっ！・・・随分とやり手だニャ・・・
+　でもコレで終わりだニャぁ！」
+> CONTEXT: Commonevents/55/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャふっ！・・・ンくっ、\\N[003]なんかに
+　ヤられる\\N[002]では無いニャぁ！」
+> CONTEXT: Commonevents/55/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[002]を追い詰めたのは褒めてやるのだ・・・
+　でもこれで終わりなのだぁ・・・！」
+> CONTEXT: Commonevents/55/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅっ・・・く・・・
+　さっさと\\N[002]に倒されるのだぁ・・・！」
+> CONTEXT: Commonevents/55/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ・・・これで終わらせてやるのだ・・・！」
+> CONTEXT: Commonevents/55/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んくぅっ！・・・ホラ、さっさとイってしまいなさい！」
+> CONTEXT: Commonevents/55/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅン！・・・・・はぁ・・・っ♥
+　このまま\\N[002]の中で果てるのよ！」
+> CONTEXT: Commonevents/55/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・・！
+　どっちが先に果てるか・・・・さぁ、勝負よ！」
+> CONTEXT: Commonevents/55/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ！・・・・ンンっ！」
+> CONTEXT: Commonevents/56/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンあぁっ！先手取られたぁ・・・！」
+> CONTEXT: Commonevents/56/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「い・・・うぅっ！
+　ハメられちゃったぁ・・・！」
+> CONTEXT: Commonevents/56/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああンっ！・・・捕まっちゃったぁ！」
+> CONTEXT: Commonevents/56/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁっ！
+　\\N[002]が捕まるなんてぇ・・！」
+> CONTEXT: Commonevents/56/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！？やぁんっ！」
+> CONTEXT: Commonevents/56/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンあぁっ！
+　くっ、\\N[002]が遅れを取るなどっ・・・！」
+> CONTEXT: Commonevents/56/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うぅっ！・・・はぁっ、
+　ゆ、油断したわ・・・」
+> CONTEXT: Commonevents/56/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きゃぁっ！・・・く・・・
+　は、早いっ・・・！」
+> CONTEXT: Commonevents/56/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあっ・・・ふあンっ！」
+> CONTEXT: Commonevents/56/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぬっ！・・・く！」
+> CONTEXT: Commonevents/56/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！？ちくしょ・・・っ・・・！」
+> CONTEXT: Commonevents/56/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ・・・遅れたか・・・っ！」
+> CONTEXT: Commonevents/56/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・つぅっ・・・」
+> CONTEXT: Commonevents/56/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁっ・・・ン、あふっ・・・・」
+> CONTEXT: Commonevents/56/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ！・・・きゃんっ！？」
+> CONTEXT: Commonevents/56/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・つっ！」
+> CONTEXT: Commonevents/56/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ・・・この\\N[002]が捕まるなんてっ！」
+> CONTEXT: Commonevents/56/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁンっ！・・・くぅ・・・っ
+　油断したでしゅぅっ・・・！」
+> CONTEXT: Commonevents/56/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁ・・っ！
+　ふっ・・・太いでしゅぅっ・・・！」
+> CONTEXT: Commonevents/56/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああぅっ！
+　入れられちゃったでしゅぅっ！」
+> CONTEXT: Commonevents/56/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁンっ♥・・・！！」
+> CONTEXT: Commonevents/56/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンうぅっ・・・！」
+> CONTEXT: Commonevents/56/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んくっ！・・・
+　\\N[002]が遅れを取るとは・・・っ」
+> CONTEXT: Commonevents/56/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うくっ！・・・
+　先手を取られるとは・・・っ！」
+> CONTEXT: Commonevents/56/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっく！・・・小癪なっ！」
+> CONTEXT: Commonevents/56/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なっ・・・\\N[002]より早いだと・・・っ？！」
+> CONTEXT: Commonevents/56/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンぐぅっ！・・・おのれ・・・！」
+> CONTEXT: Commonevents/56/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぁっ！抜かったわ・・・！」
+> CONTEXT: Commonevents/56/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う、ぐっ！・・・小癪な真似をっ！」
+> CONTEXT: Commonevents/56/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンニャっ！？・・・はうンっ！」
+> CONTEXT: Commonevents/56/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャっ！？・・・油断したニャぁ！」
+> CONTEXT: Commonevents/56/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くあぁっ！・・・はっ、離せニャぁ！」
+> CONTEXT: Commonevents/56/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・・し、しまったのだぁ・・・！」
+> CONTEXT: Commonevents/56/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「は、離すのだ・・・ン・・・うあっ！」
+> CONTEXT: Commonevents/56/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンぅっ！・・・ふ、不覚なのだ・・・っ！」
+> CONTEXT: Commonevents/56/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ！・・・くぅっ！」
+> CONTEXT: Commonevents/56/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁっ！？」
+> CONTEXT: Commonevents/56/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはあぁっ♥・・・・！くぅっ・・・！
+　遅れを取るなんて・・・！」
+> CONTEXT: Commonevents/56/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エヘッ・・・捕まえたよっ！」
+> CONTEXT: Commonevents/57/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・♥
+　\\N[002]からは逃げられないよぉ・・・？」
+> CONTEXT: Commonevents/57/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ、ちょっと遅かったね・・・
+　ほぉら、\\N[002]の必殺技を喰らえっ♥」
+> CONTEXT: Commonevents/57/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「捕まえたよぉ♥・・・えいっ、これでも食らえっ！」
+> CONTEXT: Commonevents/57/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・ざーんねん、少し遅かったねぇ？」
+> CONTEXT: Commonevents/57/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・\\N[002]からは逃げられないよぉ？」
+> CONTEXT: Commonevents/57/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはははっ♥・・・捕えましたわ！」
+> CONTEXT: Commonevents/57/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・
+　\\N[002]から逃げられると思って・・・？」
+> CONTEXT: Commonevents/57/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっふふ・・・掛かりましたわね・・・
+　さぁ、じっくりとなぶってあげますわ・・・」
+> CONTEXT: Commonevents/57/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へへっ・・・・遅いぜっ！」
+> CONTEXT: Commonevents/57/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へへーン！・・・捕まえたぜ・・・♥」
+> CONTEXT: Commonevents/57/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「掛かったなぁ・・・♥
+　ほーら、これでも喰らいなっ！」
+> CONTEXT: Commonevents/57/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・ふふっ、捕らえたわよ・・・♥」
+> CONTEXT: Commonevents/57/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・逃がさないわ・・・」
+> CONTEXT: Commonevents/57/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ・・・たっぷり感じさせてあげるわ・・・♥」
+> CONTEXT: Commonevents/57/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ♥・・・・捕らえたよっ！」
+> CONTEXT: Commonevents/57/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ♥・・・・掛かったね？」
+> CONTEXT: Commonevents/57/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・ほーら・・・
+　\\N[002]がジワジワといたぶってあげるよ・・・♥」
+> CONTEXT: Commonevents/57/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つかまえたでしゅよぉ・・・ふふ、
+　一気にイかせてあげましゅ・・・♥」
+> CONTEXT: Commonevents/57/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは・・・とっても固くなってましゅ・・・
+　ほぉら、搾り上げてやるでしゅ・・・♥」
+> CONTEXT: Commonevents/57/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やったぁ♥・・・捕らえたでしゅ！
+　ほぉら、どくどくーって出しちゃうといいでしゅ！」
+> CONTEXT: Commonevents/57/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふふっ♥・・・今から\\N[003]を
+　快楽地獄にいざなってあげます・・・」
+> CONTEXT: Commonevents/57/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ・・・捕らえました！」
+> CONTEXT: Commonevents/57/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ・・・遅かったですね？
+　コレですぐに昇天させてあげます・・・♥」
+> CONTEXT: Commonevents/57/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっくく・・・天にも昇る快楽を
+　送り込んでやろう・・・♥」
+> CONTEXT: Commonevents/57/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「少し遅かったな、ふふふ・・・・捕らえたぞ！」
+> CONTEXT: Commonevents/57/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁて・・・じっくりといたぶってやる・・・♥」
+> CONTEXT: Commonevents/57/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くくく・・・どうじゃ？抜け出せまいて・・・
+　じっくり嫐ってやるぞえ・・・」
+> CONTEXT: Commonevents/57/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ククク・・・そう容易く果てるなよ？
+　\\N[002]は追い詰める過程が大好きなのじゃ」
+> CONTEXT: Commonevents/57/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・・どうしたえ？
+　そんな動きでは、\\N[002]の手から逃れられぬぞ」
+> CONTEXT: Commonevents/57/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くふふっ・・・・捕らえたニャぁ・・・♥
+　ジワジワと嫐りあげてやるニャ・・・！」
+> CONTEXT: Commonevents/57/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャははっ！・・・こうなったが最後ニャ
+　いじりたおして、イかせてやるニャぁ・・・！」
+> CONTEXT: Commonevents/57/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・\\N[003]って動きがトロいニャ
+　捕まえるのがラクで、結構なことだニャ！」
+> CONTEXT: Commonevents/57/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ！捕まえたのだぁ・・・！」
+> CONTEXT: Commonevents/57/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・♥
+　テッテーテキにいたぶってやるのだ・・・！」
+> CONTEXT: Commonevents/57/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぉら、コレで枯れ果てるまで
+　イかせてやるのだぁ・・・！」
+> CONTEXT: Commonevents/57/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ♥・・・・捕まえたわ・・・・！」
+> CONTEXT: Commonevents/57/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「掛かったわね？・・・ふふふふっ♥」
+> CONTEXT: Commonevents/57/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・・さぁ、\\N[002]の攻撃に
+　どこまで耐えられるかしら？」
+> CONTEXT: Commonevents/57/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ン・・・出すの・・・？
+　\\N[002]におちんちん擦られて
+　イっちゃうんだ・・・？クスクス・・・♥」
+> CONTEXT: Commonevents/58/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ・・・情けなくよがっちゃって・・・
+　ほら、極めつけの一撃を味わわせてあげる・・・♥」
+> CONTEXT: Commonevents/58/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・♥
+　残念だけど、\\N[003]の負けみたいだよ？
+　きつーく搾ってあげるから、盛大に出してね・・・♥」
+> CONTEXT: Commonevents/58/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・気持ち良さそうだね・・・？
+　ほぉら、イかせてあげる・・・♥」
+> CONTEXT: Commonevents/58/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・ついに堕ちたね・・・・♥
+　それじゃ、これでトドメだよ・・・」
+> CONTEXT: Commonevents/58/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ・・・悶えちゃって、\\N[003]カワイイね♥
+　ほぉら、\\N[002]の手でイかせてあげる・・・」
+> CONTEXT: Commonevents/58/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははははっ！・・・そら、イけイけぇ！
+　このまま出しつくして逝っちゃえっ♥」
+> CONTEXT: Commonevents/58/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふふふ・・・っ　♥　\\N[003]の負けぇ♥
+　遠慮なくどくどくーってするといいよぉ♥」
+> CONTEXT: Commonevents/58/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ♥・・・勝てると思ったぁ？
+　\\N[003]なんて、\\N[002]の足元にも及ばないよぉ？」
+> CONTEXT: Commonevents/58/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・ほーら、堕ちろ♥　堕ちろ♥
+　どこまでも堕ちていっちゃえ・・・♥」
+> CONTEXT: Commonevents/58/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ、盛大に果てるといいですわ・・・♥
+　\\N[002]の糧となるために・・・」
+> CONTEXT: Commonevents/58/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら？もう限界なのですか？
+　意外とこらえ性が無いようですわねぇ・・・クス♥」
+> CONTEXT: Commonevents/58/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは・・・・残念でしたわね・・・
+　それじゃ、たっぷり搾精してあげますわ・・・♥」
+> CONTEXT: Commonevents/58/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁ・・・ちょっと早すぎじゃありませんこと？
+　まったく、だらしないですわねぇ♥・・・クスクス」
+> CONTEXT: Commonevents/58/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、もうイくのですか？
+　ならば、トドメをさしてあげますわ・・・」
+> CONTEXT: Commonevents/58/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・またオトコが１人
+　\\N[002]の手に墜ちたな・・・♥」
+> CONTEXT: Commonevents/58/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁて・・・トドメといこうかぁ？
+　びゅーってイきまくっちゃいな！」
+> CONTEXT: Commonevents/58/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ン・・・出すのか？
+　ほぉら・・・搾り上げてやるよ・・・♥」
+> CONTEXT: Commonevents/58/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは・・・ほーら、\\N[002]が
+　受け止めてやるから、いっぱい出せよ・・・」
+> CONTEXT: Commonevents/58/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは・・・じっくり、もてあそんでやるから
+　楽しみにしとけよ・・・♥」
+> CONTEXT: Commonevents/58/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・出すの？
+　クス・・・他愛も無いわね・・・・」
+> CONTEXT: Commonevents/58/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・この程度でイってしまうのね・・・」
+> CONTEXT: Commonevents/58/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・もう限界なんて、だらしないペニスね・・・
+　ほら、トドメよ・・・」
+> CONTEXT: Commonevents/58/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・さぁ、堕ちなさい・・・」
+> CONTEXT: Commonevents/58/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・意外と呆気なかったわね・・・」
+> CONTEXT: Commonevents/58/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ！・・・そーれっ！
+　情けないイキ顔を、\\N[002]にさらすと良いよ・・・！」
+> CONTEXT: Commonevents/58/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ♥・・・ほぉら、\\N[002]のトドメの一撃をあげる
+　コレが望みなんでしょ・・・？」
+> CONTEXT: Commonevents/58/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エヘヘ、ついに仕留めたみたいだね・・・
+　さぁ、\\N[002]がいっぱい搾り取ってあげる・・・」
+> CONTEXT: Commonevents/58/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・イイ悶えっぷりだね・・・♥
+　ほらほら、イっちゃえば・・・！」
+> CONTEXT: Commonevents/58/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは・・・♥
+　なんだ、このくらいでイっちゃうんだぁ・・・？
+　\\N[003]って案外、早いんだね・・・？」
+> CONTEXT: Commonevents/58/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはははっ！・・・\\N[003]って、はやぁい・・♥」
+> CONTEXT: Commonevents/58/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・もう限界でしゅかぁ？
+　この程度でイくなんて、情けないおちんちんでしゅねぇ？」
+> CONTEXT: Commonevents/58/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あららぁ？\\N[003]、あっけないでしゅね・・・
+　この程度で、\\N[002]にかなうと思ってましゅたかぁ？」
+> CONTEXT: Commonevents/58/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さーぁ、射精タイムの始まりでしゅよ・・・
+　はりきって、イってみるでしゅよぉ・・・♥」
+> CONTEXT: Commonevents/58/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ・・・\\N[003]の終わりの始まりでしゅ
+　さぁ、遠慮なく出しまくるでしゅ・・・♥」
+> CONTEXT: Commonevents/58/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは・・・この程度で屈するとは・・・
+　弱い、弱い・・・ガッカリです
+　そんな人は、こうしてあげます・・・♥」
+> CONTEXT: Commonevents/58/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・・さぁ、これでトドメです・・・！」
+> CONTEXT: Commonevents/58/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・\\N[002]に勝てると思ってましたか？」
+> CONTEXT: Commonevents/58/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぉらほら♥・・・\\N[002]の手によって
+　絶頂に打ち震えると良いです！」
+> CONTEXT: Commonevents/58/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クス・・・限界が来てしまったようですね・・・？
+　さぁ、\\N[002]が骨抜きにしてあげます・・・」
+> CONTEXT: Commonevents/58/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くくく・・・さぁ逝け！その滾った精を
+　\\N[002]にありったけ、ぶちまけろ！」
+> CONTEXT: Commonevents/58/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これくらいで達するとは、堪え性の無いオトコだな？
+　そぉら、逝かせてやる・・・！」
+> CONTEXT: Commonevents/58/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは・・・あまりに早すぎて、拍子抜けだぞ・・・
+　このような男根には、少しお仕置きが必要だな？」
+> CONTEXT: Commonevents/58/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ははは・・・この程度で屈するとはなぁ？
+　もっと\\N[002]を愉しませたらどうだ？」
+> CONTEXT: Commonevents/58/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ついに感極まったか？・・・ふふふ
+　さぁ、\\N[003]の精をたっぷり御馳走してもらうぞ」
+> CONTEXT: Commonevents/58/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はっははは・・・もうイくのか？不甲斐ないのぉ・・・
+　そんな\\N[003]には、キツいお仕置きじゃ！」
+> CONTEXT: Commonevents/58/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「良い悶え顔じゃのぉ♥・・・くっくっく・・・
+　ほれ、\\N[002]に盛大にぶちまけるが良い・・・」
+> CONTEXT: Commonevents/58/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くくく・・・\\N[002]の勝ちのようじゃな？
+　それでは勝利の美酒をもらおうかのぉ？」
+> CONTEXT: Commonevents/58/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・来たようじゃの？
+　ほれほれ、\\N[002]に新鮮な精を
+　たっぷり飲ませるのじゃ・・・！」
+> CONTEXT: Commonevents/58/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「モノが限界まで膨張しているな・・・ククク
+　情けないイキ顔を\\N[002]に晒すが良い・・・！」
+> CONTEXT: Commonevents/58/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ？・・・もう出すのかニャぁ？
+　\\N[002]におちんちんコスられて、
+　盛大に射精しちゃうのニャ・・・？」
+> CONTEXT: Commonevents/58/382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほらほら、\\N[002]にたくさんぶちまけるニャ！
+　ぜーんぶ飲み干してあげるからニャぁ！」
+> CONTEXT: Commonevents/58/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャふふ♥・・・\\N[003]の負けだニャ！
+　オスを屈服させるのは至高の瞬間だニャぁ！」
+> CONTEXT: Commonevents/58/395/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・悔しそうな顔してるニャぁ？
+　でも、もう我慢の限界ニャん？ほぉらイけ、イけ♥」
+> CONTEXT: Commonevents/58/401/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[002]に勝てると思ってたのかニャ？
+　こうなる事は最初から決まっていたニャぁ！」
+> CONTEXT: Commonevents/58/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・勝負あったのだ
+　こうなるのは最初から決まっていたのだ・・・」
+> CONTEXT: Commonevents/58/421/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは・・・ムダな抵抗、お疲れ様なのだ♥
+　ほぉら、盛大にイっちゃうのだぁ・・・！」
+> CONTEXT: Commonevents/58/427/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ！
+　\\N[003]の・・・負けなのだぁ・・・！」
+> CONTEXT: Commonevents/58/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あらら、もう終わりなのだ・・・？
+　あっけないヤツなのだぁ・・・」
+> CONTEXT: Commonevents/58/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ♥・・・限界が来てしまったようなのだ？
+　ほーら、イってしまえなのだぁ！」
+> CONTEXT: Commonevents/58/444/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっははは！・・・もう堪えられないようね？
+　ホラホラ、遠慮なく出してしまいなさい・・！」
+> CONTEXT: Commonevents/58/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・・さぁ、トドメをあげるわ・・・」
+> CONTEXT: Commonevents/58/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・抗おうとしても無駄よ・・・・
+　さぁ、搾り取ってあげるわ・・・」
+> CONTEXT: Commonevents/58/469/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・・情けなく悶えながら
+　イっちゃいなさい・・・！」
+> CONTEXT: Commonevents/58/475/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クス・・・・思ったより、あっ気なかったわね・・・
+　ほら、トドメよ・・・」
+> CONTEXT: Commonevents/58/480/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どお・・・？
+　女の子こんな風に弄ばれて、悔しい・・・？」
+> CONTEXT: Commonevents/59/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「出して、出してぇ・・・・あはぁ・・・っ♥
+　\\N[002]にいっぱいご馳走して欲しいのぉ・・・♥」
+> CONTEXT: Commonevents/59/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・自分から腰突き出しちゃって・・・♥
+　そんなに搾り上げてほしいんだ・・・？」
+> CONTEXT: Commonevents/59/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ♥・・・ビクビクって痙攣してるっ・・・
+　カワイイ・・・ほぉら、シコシコしようねぇ・・・♥」
+> CONTEXT: Commonevents/59/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだ、ぜんぜん足りないよぉ・・・
+　もっと・・・もっとぉ♥」
+> CONTEXT: Commonevents/59/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁ・・・せーえきおいしい・・・♥
+　もっとぉ・・・もっとちょうだいっ・・・♥」
+> CONTEXT: Commonevents/59/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふふっ・・・♥
+　\\N[002]のお腹が満たされるまで、たっくさん出してね♥」
+> CONTEXT: Commonevents/59/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「すごぉい♥　まだ出るんだぁ？
+　それじゃ遠慮なく搾り上げちゃうねぇ・・・？」
+> CONTEXT: Commonevents/59/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ・・・\\N[003]のせーえき止まんないね♥
+　残りもぜーんぶ\\N[002]が吸い尽くしてあげるねぇ♥」
+> CONTEXT: Commonevents/59/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ、スゴい元気なおちんちんだねぇ♥
+　射精、止まんないよぉ・・・♥」
+> CONTEXT: Commonevents/59/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぉら、こうしてあげますわ♥
+　あっはは・・・オトコを弄ぶのは楽しいですわねぇ♥」
+> CONTEXT: Commonevents/59/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ、逝きなさい・・・・\\N[003]の命のエキスを
+　このカラダで貪りつくしてあげますわ♥」
+> CONTEXT: Commonevents/59/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・自分から腰を突き出して・・・
+　よほど搾ってほしい様ですわね・・・？」
+> CONTEXT: Commonevents/59/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは♥・・・ちょっと動かすたびに
+　可愛く痙攣してますわ・・・」
+> CONTEXT: Commonevents/59/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ♥・・・どうかしら、
+　\\N[002]に翻弄される気分は・・・？」
+> CONTEXT: Commonevents/59/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは♥・・・快感に悶えるオトコの顔って
+　ゾクゾクするぜ・・・！」
+> CONTEXT: Commonevents/59/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ♥・・・\\N[003]の精気、
+　たっぷりご馳走してもらうぜ・・・！」
+> CONTEXT: Commonevents/59/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ははっ！・・・\\N[002]が搾りつくしてやるから
+　せいぜい悶えな・・・！」
+> CONTEXT: Commonevents/59/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ♥・・・\\N[003]のペニス
+　ビンビンに上向いて、しゃくりあげてるぜ？」
+> CONTEXT: Commonevents/59/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・\\N[002]のせいで
+　こんなバキバキなチンポになっちまって・・・♥
+　責任持って\\N[002]が昇天させてやんないとなぁ？」
+> CONTEXT: Commonevents/59/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・もっともっと吐き出すがいいわ・・・」
+> CONTEXT: Commonevents/59/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・ほぉら、搾りつくしてあげるわ・・・」
+> CONTEXT: Commonevents/59/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・♥
+　このまま枯れ果てるまで出し続けるのよ・・・」
+> CONTEXT: Commonevents/59/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・ちょっと擦り上げただけで
+　面白いように出るわね・・・♥」
+> CONTEXT: Commonevents/59/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁ♥・・・まだ吸い足りないわ・・・
+　\\N[003]のエキス、もっと頂戴・・・」
+> CONTEXT: Commonevents/59/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁて、どれくらい出せるかなぁ？」
+> CONTEXT: Commonevents/59/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・・♥
+　こんなのは、どうかな・・・？」
+> CONTEXT: Commonevents/59/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エヘヘ・・・
+　ほーら、搾りつくしてあげる・・・！」
+> CONTEXT: Commonevents/59/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぉら、\\N[003]のおちんちんなんて、
+　\\N[002]がこぉやるだけでぇ・・・」
+> CONTEXT: Commonevents/59/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ・・・ビクビク脈打ってる・・・♥」
+> CONTEXT: Commonevents/59/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ♥・・・いい悶えっぷりでしゅ
+　もっと\\N[002]に精液を貢ぐでしゅ！」
+> CONTEXT: Commonevents/59/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]の精気、ぜんぶ吸い上げてやるでしゅ♥
+　遠慮なく出しまくるでしゅっ・・・！」
+> CONTEXT: Commonevents/59/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁぁ・・すごいでしゅ、まだ出るでしゅぅ・・・
+　もっともっとちょうだいでしゅぅ・・・♥」
+> CONTEXT: Commonevents/59/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぉら、擦りあげてやるでしゅ・・・・♥
+　\\N[003]のザーメン
+　いっぱい\\N[002]にぶちまけるでしゅ！」
+> CONTEXT: Commonevents/59/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・ビクビクいって痙攣してましゅ・・・
+　こんなハシタナイおちんちんは
+　\\N[002]が、やっつけてやるでしゅ・・・♥」
+> CONTEXT: Commonevents/59/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・さぁ、\\N[002]のカラダを
+　\\N[003]の断末魔で、白く染めてください・・・♥」
+> CONTEXT: Commonevents/59/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・\\N[003]の瑞々しい精気・・・・
+　\\N[002]がぜーんぶ頂きます・・・♥」
+> CONTEXT: Commonevents/59/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あは♥・・・こんなに固くそそり立って・・・・
+　ちょっと擦ったただけで、爆発してしまうのでしょうね？
+　こぉんな風に・・・」
+> CONTEXT: Commonevents/59/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほら、もっと・・・もっとください・・・♥
+　\\N[002]のカラダが満たされるまで・・・」
+> CONTEXT: Commonevents/59/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・\\N[003]の精気・・・
+　\\N[002]が喰らい尽くしてあげます・・・」
+> CONTEXT: Commonevents/59/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・どうだ？
+　確実に死へ至る快楽の味は・・・？」
+> CONTEXT: Commonevents/59/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]の命は、\\N[002]の一部となる・・・
+　光栄に思うが良い」
+> CONTEXT: Commonevents/59/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうした？自ら腰を突き出して・・・
+　愚かな享楽者め・・・奈落に堕ちるが良い！」
+> CONTEXT: Commonevents/59/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くく・・・\\N[002]の柔肌に溺れおって・・・
+　そぉら、もっともっと出すが良い・・・」
+> CONTEXT: Commonevents/59/325/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほらイけ！吐き出しつくせ！
+　この程度では、\\N[002]の腹は満たされないぞ・・・！」
+> CONTEXT: Commonevents/59/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ホレ、どうじゃ？\\N[003]のペニスなぞ
+　こうやって、ひとコスりじゃ・・・！」
+> CONTEXT: Commonevents/59/345/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうじゃ、もっと吐き出せ！
+　\\N[002]の胃の腑は、まだ満たされぬぞ・・・！」
+> CONTEXT: Commonevents/59/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「止まらんのぉ♥、凄い量じゃ・・・くくく・・・
+　全て\\N[002]が吸い尽くしてくれるわ・・・」
+> CONTEXT: Commonevents/59/357/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・まだ元気にしゃくりあげとるのぉ？
+　\\N[002]に抱かれるのが、
+　そんなに気持ち良いのかえ？」
+> CONTEXT: Commonevents/59/363/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっくっく・・・熱に浮かされおって・・・
+　\\N[002]の愛撫、そんなに気持ちいいかえ？」
+> CONTEXT: Commonevents/59/369/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほら、こうしてやるニャ♥
+　\\N[003]が枯れ果てるまで、
+　吸いつくしてやるからニャぁ！」
+> CONTEXT: Commonevents/59/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ・・・っ♥、もっと吸わせるニャ・・・
+　まだまだ飲み足りないニャぁ！」
+> CONTEXT: Commonevents/59/391/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ♥・・・自分から腰を突き出してるニャ？
+　そんなに\\N[002]に搾り取って欲しいのかニャぁ？」
+> CONTEXT: Commonevents/59/397/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャはは♥・・・面白いように出るニャぁ？
+　ドクっドクっ・・ってブザマに痙攣してるニャ！」
+> CONTEXT: Commonevents/59/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだ出るニャ？最近のオスは精力旺盛だニャ？
+　ぜーんぶ\\N[002]のカラダで受け止めてやるニャ！」
+> CONTEXT: Commonevents/59/408/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・なかなか美味しい精なのだ♥
+　もっともっと\\N[002]に浴びせるのだ・・・！」
+> CONTEXT: Commonevents/59/423/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは♥・・・なんでそんな悔しそうな顔なのだ？
+　こうなったのは\\N[003]が弱いからなのだぁ・・・！」
+> CONTEXT: Commonevents/59/429/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁ・・・精液いっぱいで止まらないのだ・・・♥
+　全部吸い尽くしてやるのだぁ・・・」
+> CONTEXT: Commonevents/59/435/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おちんちんが情けなく跳ねてるのだぁ・・・♥
+　ほぉら・・・もっと踊るのだぁ！」
+> CONTEXT: Commonevents/59/441/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・なかなかの悶えっぷりなのだ・・・♥
+　\\N[002]の責めがそんなに良かったのだぁ？」
+> CONTEXT: Commonevents/59/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふふっ・・・！
+　ほぉら、もっと出すのよ・・・！」
+> CONTEXT: Commonevents/59/460/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ♥・・・・まだまだ出るわ・・・」
+> CONTEXT: Commonevents/59/466/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・\\N[002]に弄ばれて・・・
+　気分はどう・・・？」
+> CONTEXT: Commonevents/59/471/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは・・・・・ほら・・・・ほぉら・・・・♥」
+> CONTEXT: Commonevents/59/477/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・もっと虐めてあげるわ・・・♥」
+> CONTEXT: Commonevents/59/481/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・どうせ最期なんだから
+　出来るだけたくさん出してから逝ってね・・・♥」
+> CONTEXT: Commonevents/60/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁン・・・飛びすぎぃ・・・・♥
+　叩きつけるようなザーメンだね・・・」
+> CONTEXT: Commonevents/60/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふはぁ・・・っ♥、\\N[003]の精気が
+　\\N[002]のカラダに満ちていくよぉ・・・・♥」
+> CONTEXT: Commonevents/60/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁんっ♥・・・こんなに熱い精気を受けたら
+　おマタがキュンキュンしちゃうよぉ・・・♥」
+> CONTEXT: Commonevents/60/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっははっ・・・・いっぱい出てるっ♥
+　コレだよぉ・・・コレがイイのぉ・・・・っ♥」
+> CONTEXT: Commonevents/60/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ♥・・・体がベトベトになっちゃったよぉ・・・
+　あははっ・・・でも、美味しい・・・♥」
+> CONTEXT: Commonevents/60/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きゃははっ・・・♥
+　\\N[003]、飛ばしすぎだよぉ・・・♥」
+> CONTEXT: Commonevents/60/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁン♥・・・\\N[003]のザーメン、熱ぅい・・・
+　もっと飲ませてぇ・・・♥」
+> CONTEXT: Commonevents/60/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっふふ・・・♥　\\N[003]の新鮮な精気が
+　\\N[002]のカラダに流れ込んでくるよぉ・・・♥」
+> CONTEXT: Commonevents/60/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁ、美味しい♥・・・もっとしぶきあげてぇ！
+　\\N[003]のおちんちんが枯れるまでぇ・・・♥」
+> CONTEXT: Commonevents/60/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン♥・・・凄い勢いですわ・・・
+　よほどの快感だったのかしら？」
+> CONTEXT: Commonevents/60/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ♥・・・ふふふ・・・
+　ほぉら、もっともっと注いでも良くってよ？」
+> CONTEXT: Commonevents/60/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うふふ♥・・・\\N[002]がちょっと擦るだけで
+　こんなにぶちまけて・・・男の悲しいサガですわね」
+> CONTEXT: Commonevents/60/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁ・・・\\N[003]の熱い迸りで
+　\\N[002]のカラダが満たされていきますわ・・・♥」
+> CONTEXT: Commonevents/60/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・ほぉら、このまま命果てるまで
+　射精し続けるがいいですわ・・・」
+> CONTEXT: Commonevents/60/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ♥・・・ちょっと動かしただけなのに
+　スゴい勢いだぜ・・・！」
+> CONTEXT: Commonevents/60/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あンっ！・・はぁ♥・・・ほぉら、もっと出るだろ・・・
+　おもいきり、\\N[002]にぶちまけちゃえよ・・・！」
+> CONTEXT: Commonevents/60/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁ♥・・・熱いぃ・・・・\\N[002]の体が
+　\\N[003]の精気で、満たされていくぜ・・・」
+> CONTEXT: Commonevents/60/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひあっ！・・・ちょっと、勢い良すぎだぜ・・・
+　そんなにコレが気持ち良かったのか？・・・ふふっ」
+> CONTEXT: Commonevents/60/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くはぁぁ・・っ♥・・・来る・・・っ
+　熱いのが、いっぱい来るぅ・・・っ♥」
+> CONTEXT: Commonevents/60/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ♥・・・\\N[003]はこうして
+　\\N[002]の餌食となるために生まれてきたのよ・・・」
+> CONTEXT: Commonevents/60/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・あぁ・・・良いわ・・・♥
+　\\N[002]のカラダが満たされていく・・・」
+> CONTEXT: Commonevents/60/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン♥・・・凄い量ね・・・
+　それに新鮮で・・・搾り甲斐があるわ、ふふっ」
+> CONTEXT: Commonevents/60/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁっ♥熱いわ・・・・ふふふっ
+　\\N[002]の糧となるために、意識が途切れるまで
+　出し尽くすのよ・・・」
+> CONTEXT: Commonevents/60/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・このまま奪い取ってあげるわ・・・
+　\\N[003]の全てをね・・・・」
+> CONTEXT: Commonevents/60/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ♥・・・もっと！
+　もっと出しちゃえっ！」
+> CONTEXT: Commonevents/60/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んんー、すごぉい・・・・まだまだ出るぅ・・・♥」
+> CONTEXT: Commonevents/60/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ！\\N[002]が動かすたびに
+　すごい勢いで出てくるよぉ・・・♥」
+> CONTEXT: Commonevents/60/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うわぁ・・・・\\N[003]のせーし
+　飛びすぎぃ♥・・・クスクス」
+> CONTEXT: Commonevents/60/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁぁ・・っ・・・♥
+　熱いの、いっぱい出てるよぉ・・・♥」
+> CONTEXT: Commonevents/60/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふはぁ・・・こぉんなにいっぱい・・・・♥
+　んふふっ・・・濃くっておいしいでしゅぅ・・・」
+> CONTEXT: Commonevents/60/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あひゅっ！・・・あははっ♥
+　\\N[003]、飛ばしすぎでしゅ・・・♥」
+> CONTEXT: Commonevents/60/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んん・・・っ♥　ふふっ
+　ちょっと動かしただけで、すごい量でしゅ・・・♥」
+> CONTEXT: Commonevents/60/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁぁン♥・・・・熱いエネルギーが
+　\\N[002]のカラダに満ちていくでしゅぅっ・・・♥」
+> CONTEXT: Commonevents/60/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁっ！・・・勢い良く出てましゅぅ♥
+　新鮮な精気、むさぼっちゃいましゅっ・・・♥」
+> CONTEXT: Commonevents/60/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ！・・・はぁ・・・っ♥・・・・美味しい精気が
+　\\N[002]のカラダに流れ込んできます・・・♥」
+> CONTEXT: Commonevents/60/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ン・・・ふふっ、凄い量ですね・・・・♥
+　搾り甲斐のあるおちんちん・・・上等です」
+> CONTEXT: Commonevents/60/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン♥・・・熱ぅい・・・・ふふっ・・・
+　もっともっと\\N[002]のカラダに吐き出すといいです♥」
+> CONTEXT: Commonevents/60/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「凄い勢いですね・・・んっふふ・・・♥
+　白いの、飛びすぎです・・・♥」
+> CONTEXT: Commonevents/60/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ・・・この程度ですか？
+　もっと出るでしょう・・・ほら・・・♥
+　ほらほらぁ・・・・っ♥」
+> CONTEXT: Commonevents/60/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁっ・・・イイわ・・・♥
+　恍惚の瞬間だな・・・オトコを喰らうのは」
+> CONTEXT: Commonevents/60/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはあぁ・・・っ♥ふふ・・・最高だ・・・
+　\\N[003]の瑞々しい精が
+　\\N[002]のカラダに満ちていくぞ・・・」
+> CONTEXT: Commonevents/60/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ン、ふぁぁ・・・♥
+　くふふ・・・なかなかの勢いでは無いか・・・
+　一滴残らず\\N[002]に浴びせるが良い」
+> CONTEXT: Commonevents/60/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ♥・・・そうだ、もっとぶちまけろ・・・
+　\\N[002]が\\N[003]の全てを吸収してやる」
+> CONTEXT: Commonevents/60/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふふ・・・♥
+　イイぞ・・・そうして限界まで出しまくれ」
+> CONTEXT: Commonevents/60/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅぅ♥・・・新鮮な精が、体に染み渡るわい・・・
+　くくく・・・命尽きるまで、吸い上げてやるぞ」
+> CONTEXT: Commonevents/60/348/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁぁ♥・・・とても心地良いぞ・・・・もっとじゃ、
+　もっと\\N[003]の精を、\\N[002]に浴びせるのじゃ！」
+> CONTEXT: Commonevents/60/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これだけ出されたら、普通のおなごは一発で妊娠じゃな
+　じゃが\\N[002]は、\\N[003]の命ごと
+　養分にするだけじゃ・・・くくく♥」
+> CONTEXT: Commonevents/60/360/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くはぁ・・・っ♥この新鮮な精こそ最高の糧じゃ・・・
+　\\N[002]のカラダで、全て取り込んでやるわい」
+> CONTEXT: Commonevents/60/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はっははは♥・・・凄い勢いで出るのぉ・・・
+　ほれほれ、もっと\\N[002]に飲ませるのじゃ・・・」
+> CONTEXT: Commonevents/60/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ミャんっ！凄い勢いだニャぁ・・・♥
+　カラダが\\N[003]のでベトベトになっちゃったニャ」
+> CONTEXT: Commonevents/60/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャふぅ♥・・・新鮮なザーメンで結構だニャぁ
+　ほらほら、もっときつく絞り上げてやるニャ♥」
+> CONTEXT: Commonevents/60/393/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ♥・・・ニャふふ・・・
+　オスを屈服させて搾り取るザーメンの味は
+　たまらんニャぁ・・・♥」
+> CONTEXT: Commonevents/60/399/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャはんっ！ちょっと飛ばしすぎだニャぁ？
+　そんなに\\N[002]のコレが気持ちよかったのかニャ？」
+> CONTEXT: Commonevents/60/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャはは・・っ♥どくっ・・どく・・って
+　面白いように痙攣してるニャぁ！」
+> CONTEXT: Commonevents/60/411/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くふぁぁ・・・美味しい・・・♥
+　\\N[002]の腹が満たされるまで
+　出しまくるがいいのだぁ・・・！」
+> CONTEXT: Commonevents/60/426/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは♥・・・ほんとスゴイ量なのだ・・・
+　カラダ中ベトベトなのだぁ・・・」
+> CONTEXT: Commonevents/60/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「残念ながら\\N[003]が息絶えるまで
+　この地獄は終わらないのだ・・・♥
+　もっと絶望を味わうがいいのだぁ！」
+> CONTEXT: Commonevents/60/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]の精は、\\N[002]が一滴残らず
+　ぜーんぶ吸い尽くしてやるのだ・・・♥
+　ふふっ・・・光栄に思うがいいのだぁ」
+> CONTEXT: Commonevents/60/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[002]の餌食になるのは
+　\\N[003]で何人目なのだぁ・・・？
+　もう数え切れないくらいの男を食べてきたのだぁ♥」
+> CONTEXT: Commonevents/60/452/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ン・・・ふふっ・・・♥
+　随分とたくさん出たわね・・・？」
+> CONTEXT: Commonevents/60/467/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁ♥・・・っ・・・
+　ふふ・・・美味しい・・・・」
+> CONTEXT: Commonevents/60/473/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁぁ♥・・・・すごぉい・・・
+　カラダが\\N[003]の精で満たされていくわ・・・」
+> CONTEXT: Commonevents/60/479/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっははは・・・・イイ墜ちっぷりね・・・・」
+> CONTEXT: Commonevents/60/485/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン♥・・・スゴい勢いだわ・・・」
+> CONTEXT: Commonevents/60/490/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まーだ、ダメっ」
+> CONTEXT: Commonevents/61/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・まだダメだよぉ？」
+> CONTEXT: Commonevents/61/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クス・・・まだ責めが甘いですわよ？」
+> CONTEXT: Commonevents/61/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・そう簡単には行かないぜ？」
+> CONTEXT: Commonevents/61/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・それにはまだ早すぎるわね・・・・」
+> CONTEXT: Commonevents/61/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと！
+　へへーン、脱がせられると思ったかぁ？」
+> CONTEXT: Commonevents/61/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう簡単には、いかないでしゅよぉ？」
+> CONTEXT: Commonevents/61/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう簡単に脱がされる訳にはいきません・・・」
+> CONTEXT: Commonevents/61/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「甘いな・・・そう簡単にはいかんぞ」
+> CONTEXT: Commonevents/61/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほほ・・・まだそれには少し早いぞえ？」
+> CONTEXT: Commonevents/61/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ミャっ！・・・それにはまだ早いニャ」
+> CONTEXT: Commonevents/61/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっふっふ～・・・そう甘くはないのだぁ」
+> CONTEXT: Commonevents/61/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・まだダメよ」
+> CONTEXT: Commonevents/61/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダメージが足りない！
+脱衣を拒まれた！
+> CONTEXT: Commonevents/61/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わぁ・・・すごぉい・・・
+　ギンギンに反り返ってる・・・♥」
+> CONTEXT: Commonevents/62/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、\\N[003]のっておっきいね・・・♥」
+> CONTEXT: Commonevents/62/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「立派な持ち物ですわねぇ・・・♥
+　楽しみですわ・・・ふふふ」
+> CONTEXT: Commonevents/62/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へへっ・・・
+　なかなかイイもん持ってんじゃねーか」
+> CONTEXT: Commonevents/62/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ♥・・・なかなかのモノね・・・」
+> CONTEXT: Commonevents/62/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うはぁ・・・すごぉい
+　カチンコチンになってるよ・・・♥」
+> CONTEXT: Commonevents/62/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うわぁ・・・
+　とってもおっきぃでしゅね・・・♥」
+> CONTEXT: Commonevents/62/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら・・・ご立派な持ち物ですね・・・♥
+　搾り上げるのが楽しみです」
+> CONTEXT: Commonevents/62/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・随分と固くしているでは無いか
+　余程\\N[002]に入れたいようだな？」
+> CONTEXT: Commonevents/62/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くくく・・・今にもはちきれそうじゃのぉ」
+> CONTEXT: Commonevents/62/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャはっ！もうこんなになってるニャぁ・・・♥
+　どういたぶってあげようかニャ？」
+> CONTEXT: Commonevents/62/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、固くそそり立ってるのだ・・・♥
+　なかなか上等なペニスなのだぁ・・・！」
+> CONTEXT: Commonevents/62/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはは・・・無様な格好ね？
+　さぁ、どうやって吸ってあげようかしら・・・？」
+> CONTEXT: Commonevents/62/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと！
+　ふふっ、そんな動きじゃ捕まらないよ！」
+> CONTEXT: Commonevents/63/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと！
+　クスっ・・・惜しかったねぇ」
+> CONTEXT: Commonevents/63/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・そう簡単には捕まらなくてよ？」
+> CONTEXT: Commonevents/63/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと残念！
+　狙いどころが悪かったな！」
+> CONTEXT: Commonevents/63/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・甘いわね・・・」
+> CONTEXT: Commonevents/63/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わっと！・・・エヘヘ
+　そんな動きじゃ、捕まらないよ！」
+> CONTEXT: Commonevents/63/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・\\N[003]は遅いでしゅねぇ・・・
+　そんなんじゃ捕まらないでしゅよ・・・？」
+> CONTEXT: Commonevents/63/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・はやく捕まえてください」
+> CONTEXT: Commonevents/63/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ・・・遅すぎて、ハエが止まるぞ」
+> CONTEXT: Commonevents/63/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・そんな動きでは、かすりもせんわい」
+> CONTEXT: Commonevents/63/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャっと！
+　フフフ・・・そう簡単には捕まらないニャ！」
+> CONTEXT: Commonevents/63/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・そんなスピードでは捕まらないのだぁ！」
+> CONTEXT: Commonevents/63/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと、させるもんですか！」
+> CONTEXT: Commonevents/63/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、身をかわされてしまった！
+> CONTEXT: Commonevents/63/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やったぁ！・・・また一人、オトコを仕留めたっ！
+　ふふ・・・\\N[003]で何人目になるかな・・・？」
+> CONTEXT: Commonevents/64/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう、動けないんだぁ？・・・ふふふっ、
+　\\N[003]の運命も、これで終わりみたいだね・・・♥」
+> CONTEXT: Commonevents/64/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは・・・\\N[003]の抵抗も終わりのようですわね
+　その程度で\\N[002]に勝てたと思って？」
+> CONTEXT: Commonevents/64/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はははは！・・・これで\\N[003]は\\N[002]のモンだ
+　一滴残らず、搾りつくしてやるぜ♥」
+> CONTEXT: Commonevents/64/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・こうなる運命だったの・・・
+　\\N[002]に出会った時点で・・・」
+> CONTEXT: Commonevents/64/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは・・・・勝負あったね？
+　\\N[003]の精気は、\\N[002]がぜーんぶもらうよ！」
+> CONTEXT: Commonevents/64/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・ついに仕留めたでしゅねぇ♥
+　それじゃあ\\N[003]の運命を、\\N[002]の手で
+　終わらせてあげるでしゅ・・・♥」
+> CONTEXT: Commonevents/64/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・元から\\N[002]とヤり合うなど
+　無意味だったのです・・・
+　さぁ・・・トドメを刺してあげます」
+> CONTEXT: Commonevents/64/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふははは・・・勝負あったな！
+　\\N[003]は\\N[002]に敗北したのだ！」
+> CONTEXT: Commonevents/64/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くくく・・・もう抵抗できんようじゃな？
+　\\N[003]の運命もここまでじゃ・・・観念せい」
+> CONTEXT: Commonevents/64/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャはは・・・もう抵抗できないようだニャ？
+　観念するニャぁ・・・弱いモノは、
+　強いモノに食われる運命なのニャ！」
+> CONTEXT: Commonevents/64/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あららぁ、もう抵抗できないのだぁ？
+　それじゃカラになるまで絞り上げてやるのだぁ・・！」
+> CONTEXT: Commonevents/64/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははは・・・もう、動けないのかしら・・・
+　\\N[003]の運命も、ここまでのようね・・・？」
+> CONTEXT: Commonevents/64/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ・・・気持ち良すぎるの？
+　やめてあげないよ・・・\\N[003]が息絶えるまでね・・・♥」
+> CONTEXT: Commonevents/65/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・諦めてこのまま
+　\\N[002]の快楽地獄に溺れちゃうと良いよ・・・」
+> CONTEXT: Commonevents/65/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁン・・・欲しいよぉ・・・・
+　まだまだゼンゼン吸い足りないのぉ・・・・♥」
+> CONTEXT: Commonevents/65/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁ♥・・・\\N[003]のこと、余すところなく
+　喰らいつくしてあげる・・・・」
+> CONTEXT: Commonevents/65/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっふふ♥・・・男として本望でしょ？
+　\\N[002]に抱かれて、こんな最期を迎えるなんて・・・」
+> CONTEXT: Commonevents/65/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・次はこうしてあげる・・・・
+　どーお、気持ちイイ？・・・ほら・・・ほぉら♥」
+> CONTEXT: Commonevents/65/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・\\N[003]が枯れ果てるまで
+　なぶってなぶって、なぶりあげちゃうねぇ・・・♥」
+> CONTEXT: Commonevents/65/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]の命のエキス、
+　\\N[002]がぜーんぶ吸収してあげるねぇ♥」
+> CONTEXT: Commonevents/65/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんなに射精できるなんて、\\N[003]スゴいね！
+　でも、結局\\N[002]の餌食になっちゃうんだけどねぇ・・・♥」
+> CONTEXT: Commonevents/65/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふっ・・・男として逞しく生きて来たのにねぇ・・・
+　\\N[002]みたいな女の子に搾り殺されるのって、どんな気分？」
+> CONTEXT: Commonevents/65/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「次はこんなのはどうかしら・・・
+　ほらほら・・・もっとイかせてあげますわ♥」
+> CONTEXT: Commonevents/65/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう勝負はついてるのに、タフですわねぇ・・・
+　そんなにお望みなら、遠慮なく搾り殺してあげますわ・・・♥」
+> CONTEXT: Commonevents/65/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「死への快楽を受け入れて
+　どこまでも堕ちるが良いですわ・・・♥」
+> CONTEXT: Commonevents/65/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・なすがまま、されるがまま・・・
+　\\N[003]はもう、\\N[002]の虜ですわね・・・♥」
+> CONTEXT: Commonevents/65/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス♥・・・屈辱にまみれた男の射精ほど
+　見ていて気持ちが良いモノもありませんわ・・・」
+> CONTEXT: Commonevents/65/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ♥・・・弱肉強食ってヤツだな
+　\\N[003]は今から、\\N[002]に喰われるのさ・・・！」
+> CONTEXT: Commonevents/65/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うふぁぁ♥・・・もっとくれよぉ・・・
+　\\N[002]のお腹が、満杯になるくらいに・・・・！」
+> CONTEXT: Commonevents/65/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほら・・・！ほぉら、どうだ・・・！
+　気持ち良すぎて、気がおかしくなりそうだろ♥」
+> CONTEXT: Commonevents/65/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・枯れ果てるのは、まだ後にしてくれよ？
+　\\N[002]はまだ、ゼンゼン搾り足りないからな」
+> CONTEXT: Commonevents/65/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはははっ！・・・どうだ、気持ち良いか？
+　こうして息絶えるのも、悪くないモンだろう？」
+> CONTEXT: Commonevents/65/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・まだまだ出るのね・・・
+　ふふっ、全部貰ってあげるわ・・・」
+> CONTEXT: Commonevents/65/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・さぁ、もっと\\N[002]に精を貢ぎなさい・・・」
+> CONTEXT: Commonevents/65/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ・・・もう\\N[003]は動けない子羊ね・・・
+　骨まで食らい尽くしてあげるわ・・・」
+> CONTEXT: Commonevents/65/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・こんなにタフな人は始めてよ・・・
+　でも、最後に\\N[002]に
+　吸い殺されるのは変わらない・・・」
+> CONTEXT: Commonevents/65/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・もっと抱いてあげるわ・・・
+　\\N[003]の命が尽きるまでね・・・」
+> CONTEXT: Commonevents/65/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[003]の精魂は、\\N[002]の血となり肉となる・・・
+　ふふふ・・・悪く思わないでね」
+> CONTEXT: Commonevents/65/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンふぅ・・っ♥・・・\\N[003]の命をたいらげて、
+　\\N[002]はもっと強くなるんだ・・・！」
+> CONTEXT: Commonevents/65/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっはは♥・・・\\N[002]がおなかいっぱいになるまで、
+　イき狂うといいぞ・・・！」
+> CONTEXT: Commonevents/65/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふふ・・もっと搾り取ってあげる・・・♥
+　カラッカラになるまでね・・・」
+> CONTEXT: Commonevents/65/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁぁ・・・ほら、\\N[002]にぜーんぶちょうだい！
+　もっと・・・もっとぉ・・・♥」
+> CONTEXT: Commonevents/65/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ・・・\\N[002]がいたぶってあげるでしゅ♥
+　気持ちよさに悶えるがいいでしゅ・・・♥」
+> CONTEXT: Commonevents/65/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっとして欲しいんでしゅかぁ？
+　ふふっ・・・安心して欲しいでしゅ
+　\\N[003]が逝くまで、終わらないでしゅからね♥」
+> CONTEXT: Commonevents/65/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁ・・っ♥・・・まだ飲み足りないでしゅ・・・
+　\\N[003]の精気・・・全部ぜーんぶ飲み干しちゃうでしゅ♥」
+> CONTEXT: Commonevents/65/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それそれっ♥
+　\\N[003]がなーんにも感じられなくなるまで
+　もっともっと、もてあそんであげるでしゅっ♥」
+> CONTEXT: Commonevents/65/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ、そうでしゅ・・・
+　このまま\\N[002]の手によって、どこまでも
+　堕ちていくがいいでしゅ・・・♥」
+> CONTEXT: Commonevents/65/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ・・・遠慮は要りませんよ・・・
+　\\N[003]の精魂は、\\N[002]が綺麗にぜーんぶ
+　受け止めてあげます・・・」
+> CONTEXT: Commonevents/65/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ♥・・・瑞々しい精気は
+　はしたなく貪ってしまいますね・・・」
+> CONTEXT: Commonevents/65/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほぅら、躊躇わずに快楽に身を任せるのです・・・
+　もうこれで最期なのですから・・・ふふ」
+> CONTEXT: Commonevents/65/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お腹いっぱい、ご馳走してもらいますよ・・・
+　\\N[003]の命が尽きるまで・・・」
+> CONTEXT: Commonevents/65/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・
+　こうやって\\N[002]に搾られ朽ち果てるなんて
+　\\N[003]も本望でしょう・・・？」
+> CONTEXT: Commonevents/65/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ・・・はぁ・・・まだ足りないぞ・・・
+　精魂尽きるまで、全てを\\N[002]に注ぎ込め・・・！」
+> CONTEXT: Commonevents/65/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふふ・・・\\N[003]を死へと誘う
+　快楽の味はどうだ・・・？」
+> CONTEXT: Commonevents/65/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これだけされて、まだ死なんとはな・・・
+　ふふっ・・・望み通り、更にいたぶってやろう」
+> CONTEXT: Commonevents/65/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・今の\\N[002]は例えるなら狼
+　そして\\N[003]は、貪り喰われる哀れな兎だな」
+> CONTEXT: Commonevents/65/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・\\N[002]の腕に抱かれながら
+　息絶えるのも、男としては乙な物だろう？」
+> CONTEXT: Commonevents/65/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほっほっほ・・・まだ出るとはのぉ
+　なかなか良い獲物に出くわしたもんじゃわい」
+> CONTEXT: Commonevents/65/350/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっくっく・・・\\N[002]に逝かされる前に、せめて
+　至上の快楽を味わわせてやろう、感謝するが良い」
+> CONTEXT: Commonevents/65/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いい悶えっぷりじゃわい・・・ふふふ♥
+　\\N[002]も嫐る甲斐があるというものじゃ・・・」
+> CONTEXT: Commonevents/65/362/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっとぶちまけるのじゃ♥・・・遠慮無くな・・・
+　その魂ごと、\\N[002]が取り込んでくれるわ」
+> CONTEXT: Commonevents/65/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[002]のようなおなごに吸い尽くされて死ぬなんて
+　\\N[003]も男として本望じゃろう？」
+> CONTEXT: Commonevents/65/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「フフフ・・・いつかこの責めが終わると思うニャ？
+　それは、\\N[003]の命が尽きる時だニャ！」
+> CONTEXT: Commonevents/65/388/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そぉら、もっと激しく擦りあげてやるニャぁ！
+　底なしの快楽地獄へ堕ちていくニャ」
+> CONTEXT: Commonevents/65/394/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャふふ♥・・・このまま\\N[003]を
+　食らい尽くしてやるニャ
+　\\N[002]に食べられて、幸運に思うニャ」
+> CONTEXT: Commonevents/65/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハァ・・・まだ食い足りないニャぁ・・・♥
+　もっと\\N[002]のお腹を満たして欲しいニャ」
+> CONTEXT: Commonevents/65/407/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャふふ♥・・・今日の餌はなかなかイキがいいニャ！
+　今日いっぱいは、もう
+　オスを食わなくてもイイかもニャぁ？」
+> CONTEXT: Commonevents/65/412/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああン・・・もっとぉ・・・
+　もっと\\N[003]のエキスが欲しいのだぁ・・・！」
+> CONTEXT: Commonevents/65/428/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・\\N[002]の手にかかって死ねるなんて
+　男として本望に思うがいいのだぁ・・・！」
+> CONTEXT: Commonevents/65/434/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだまだ出るのだぁ？・・・それなら死ぬまで
+　\\N[002]の責めに溺れるがいいのだぁ！」
+> CONTEXT: Commonevents/65/440/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ、イイ表情なのだぁ♥・・・いつ見ても
+　快楽に歪むオトコの顔は愉快痛快なのだ・・」
+> CONTEXT: Commonevents/65/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「スゴいスゴい！止め処なく溢れてくるのだぁ・・・♥
+　でも\\N[002]もゼンゼン吸い足りないのだぁ！」
+> CONTEXT: Commonevents/65/451/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クスクス・・・まだ搾られ足りないようね？
+　それじゃ、お望みどおりにしてあげるわ・・・！」
+> CONTEXT: Commonevents/65/465/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっははは！
+　このまま、朽ち果ててしまいなさい！」
+> CONTEXT: Commonevents/65/471/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ、哀れね・・・もう抵抗できないのに
+　どこまえ耐えるつもりかしら・・・？」
+> CONTEXT: Commonevents/65/477/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほらほら・・・・\\N[002]が一滴残らず
+　搾り取ってあげるわ・・・♥」
+> CONTEXT: Commonevents/65/483/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははは・・・\\N[002]がちょっと動かしただけで
+　快楽に溺れちゃうなんて・・・男の悲しいサガね」
+> CONTEXT: Commonevents/65/488/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはっ！・・・きゃうンっ！」
+> CONTEXT: Commonevents/66/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くはっ！・・・ああンっ！」
+> CONTEXT: Commonevents/66/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはっ・・・あぁンっ！」
+> CONTEXT: Commonevents/66/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ！く・・・くそっ！」
+> CONTEXT: Commonevents/66/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はっあ！・・・ンンっ！」
+> CONTEXT: Commonevents/66/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはっ！くぅぅ・・・ン・・！」
+> CONTEXT: Commonevents/66/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンは・・・あぁふっ！」
+> CONTEXT: Commonevents/66/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「い・・・・ぎぃっ！」
+> CONTEXT: Commonevents/66/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐ・・・うぁっ！」
+> CONTEXT: Commonevents/66/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く・・・おぁぁっ！」
+> CONTEXT: Commonevents/66/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふ・・・ニャはぁンっ！」
+> CONTEXT: Commonevents/66/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んぁ・・・は・・・っ！」
+> CONTEXT: Commonevents/66/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ！・・・・・ンはああぁぁっ！」
+> CONTEXT: Commonevents/66/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ・・っ・・・」
+> CONTEXT: Commonevents/67/1/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん、あぁ・・・っ」
+> CONTEXT: Commonevents/67/6/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁっ！？」
+> CONTEXT: Commonevents/67/11/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ！？」
+> CONTEXT: Commonevents/67/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うぅっ・・！」
+> CONTEXT: Commonevents/67/21/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うわっ！？」
+> CONTEXT: Commonevents/67/26/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！」
+> CONTEXT: Commonevents/67/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ・・・やンっ！？」
+> CONTEXT: Commonevents/67/36/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く・・っ！」
+> CONTEXT: Commonevents/67/41/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぅっ・・！」
+> CONTEXT: Commonevents/67/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うミャぁっ・・・！」
+> CONTEXT: Commonevents/67/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぃや・・・あぁっ・・！」
+> CONTEXT: Commonevents/67/56/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！？」
+> CONTEXT: Commonevents/67/60/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/89/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はああぁぁ・・・っ♥・・・あ・・！！
+　く・・・・ぅぅ・・・ン・・・♥」
+> CONTEXT: Commonevents/68/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやぁ、ダメ・・・っ♥　い、イくっ・・・！
+　\\N[002]もう、イっちゃうぅぅっ・・・・！」
+> CONTEXT: Commonevents/68/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・・あっ！もうだ・・めっ・・・♥
+　は・・・あはぁぁーーーっ！」
+> CONTEXT: Commonevents/68/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンっ♥・・・・はぁぁんっ！くぅぅ・・・っ！
+　\\N[002]がこんな・・・っ！あああぁぁ・・・っ♥」
+> CONTEXT: Commonevents/68/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まさか、\\N[002]が・・・・っ！
+　ああっ・・・あああぁぁぁ・・・っ！」
+> CONTEXT: Commonevents/68/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁぁ・・・っっ♥・・・・だ、・・・ダメっ！
+　\\N[002]っ・・・も・・・もうっ・・・・！」
+> CONTEXT: Commonevents/68/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぁッ！・・・あぁンっ♥
+　か・・・体が、しびれちゃいましゅっ！
+　や、やめ・・・は、ああぁぁーーんっ♥」
+> CONTEXT: Commonevents/68/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だ、駄目っ・・・！あふぁ・・・・あぁっ・・・♥
+　あっ！・・・あああぁぁぁーーーっ！」
+> CONTEXT: Commonevents/68/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンぅっ！・・・く、くるっ！・・・きちゃうっ！
+　・・・あぁっ！・・・う・・ああぁぁ・・・っ！」
+> CONTEXT: Commonevents/68/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！・・・こみ上げて来るぅっ・・・
+　だめだ、体が・・・ンはっ！ああぁぁぁ・・・っ！」
+> CONTEXT: Commonevents/68/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ミャぁぁン・・・おっ、覚えてるニャっ・・・！
+　い、いつか・・あぁっ♥・・・ニャああぁぁ・・っ！」
+> CONTEXT: Commonevents/68/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うきゅぅぅんんっ！そ、そんなに激しく・・・！
+　あ、熱いっ・・・カラダが熱いのだぁ・・・！」
+> CONTEXT: Commonevents/68/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぁ・・・ッ！
+　ンはあぁァァ・・・っ！」
+> CONTEXT: Commonevents/68/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！？・・・だっ・・・だ、ダメっ・・・
+　やめ・・・・ンはぁぁっ・・・！」
+> CONTEXT: Commonevents/69/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンッ♥・・・ふ・・・・・ああっ・・・♥
+　こ、こんなハズじゃなかったのにぃ・・・・！」
+> CONTEXT: Commonevents/69/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く、ンぅ・・・あぁ・・・っ！
+　も、もうゆるし・・・あはぁぁ・・・っ！」
+> CONTEXT: Commonevents/69/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うはぁっ・・・な、なにするのぉっ！
+　やめ・・・ッあ！・・・ああぁっ！」
+> CONTEXT: Commonevents/69/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンああッ♥・・・は・・・・あぁっ♥
+　\\N[002]が負けるなんてぇ・・・！」
+> CONTEXT: Commonevents/69/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だめっ、き、気持ちよすぎて・・・・
+　\\N[002]っ・・・も、もうっ・・・！」
+> CONTEXT: Commonevents/69/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・・こ、この\\N[002]が・・
+　手篭めにされるなんて・・・っ」
+> CONTEXT: Commonevents/69/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁっ・・・ン・・・・！
+　カラダが熱いぃ・・・焼けるようですわ・・・」
+> CONTEXT: Commonevents/69/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だ、ダメっ・・・ゆるし・・・ああっ！？
+　あっ、ああぁ・・・！」
+> CONTEXT: Commonevents/69/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ！・・・よ、よせっ！
+　\\N[002]に触るなっ！」
+> CONTEXT: Commonevents/69/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ！・・・・はン！・・・・くっそぉっ！
+　\\N[002]が、やられるなんて・・っ！」
+> CONTEXT: Commonevents/69/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く・・・っ！\\N[003]っ、いつか覚えて・・・ぃやっ！
+　はっン♥・・・はあぁぁぁっ！」
+> CONTEXT: Commonevents/69/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ・・・や、やめっ・・・あぁ・・・・！」
+> CONTEXT: Commonevents/69/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぁっ・・・さ、触るなっ・・・あぁっ！」
+> CONTEXT: Commonevents/69/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そ、そんなこと・・・・あ・・・・あぁっ♥」
+> CONTEXT: Commonevents/69/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひあっ！？
+　やめっ・・・やめろっ！」
+> CONTEXT: Commonevents/69/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ！・・・そんな・・・っ
+　\\N[002]が、負けるなんて・・・っ！」
+> CONTEXT: Commonevents/69/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっ・・・うぅっ！離せっ・・・！
+　や、やめ・・・・ん・・・・あふンっ♥」
+> CONTEXT: Commonevents/69/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ？！やめるでしゅっ・・・！
+　こんなっ・・・はっ、離すでしゅぅっ・・・！」
+> CONTEXT: Commonevents/69/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっく・・・っ、んはぁ・・・っ♥
+　さっ、触るなでしゅぅっ・・・！」
+> CONTEXT: Commonevents/69/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやぁっ・・！あぁんっ♥
+　そこは・・・そこはだめでしゅぅぅ・・・っ！」
+> CONTEXT: Commonevents/69/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ・・・こ、こんなはずでは・・・！
+　あ！・・・ああっ♥」
+> CONTEXT: Commonevents/69/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンッ！・・・こんな・・・っ
+　\\N[002]が敗れるなんて・・・っ！」
+> CONTEXT: Commonevents/69/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こ、こんな屈辱を・・・っ・・・ううっ！
+　\\N[002]が・・・こんなっ！・・あふぁ・・・っ♥」
+> CONTEXT: Commonevents/69/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっ・・・よせっ！・・・そ、それは・・・っ！
+　はぁっ♥・・・ああぁぁっ・・・！」
+> CONTEXT: Commonevents/69/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ・・・離せっ・・・！\\N[003]の好きに
+　されるなど・・・く、あっ♥・・ああぁぁ・・！」
+> CONTEXT: Commonevents/69/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ・・っ！・・・はぁン・・・っ♥
+　お、おのれ・・・・こ、こんなはずではっ・・・」
+> CONTEXT: Commonevents/69/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ・・っ！く・・・\\N[002]の弱いところを・・・
+　あっ、よせっ！・・・やめるのじゃ・・・！」
+> CONTEXT: Commonevents/69/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっく・・・ぬ、抜かったわ・・・
+　まさか\\N[003]のような男がおろうとは・・・
+　あっ！？・・は、あぁぁ・・・♥」
+> CONTEXT: Commonevents/69/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅっ！まさか\\N[002]が手篭めにされるとは・・っ！
+　は、離せっ！・・・やめっ・・ああぁぁ・・・♥」
+> CONTEXT: Commonevents/69/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぁ・・っ！は、離すニャ・・・っ！
+　そ、そんな事されたら・・・ミャあぁっ！」
+> CONTEXT: Commonevents/69/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だ、ダメっ・・・腰が抜けちゃうニャぁ！
+　そんな動かしちゃダメニャ、あ♥・・・ニャあぁっ！」
+> CONTEXT: Commonevents/69/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅぅン・・・も、もう力が入らないニャぁ・・・♥
+　あっ、やめるニャ！いま責められたらっ・・・ミャあぁっ！」
+> CONTEXT: Commonevents/69/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁっ♥・・なんで\\N[002]が好き勝手されてるのだ・・・
+　こ、こんなのおかしいのだぁ・・・あはぁっ！」
+> CONTEXT: Commonevents/69/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うぐぐっ・・・ふ、不覚だったのだ・・・
+　こんなに強いヤツだったなんてぇ・・・！」
+> CONTEXT: Commonevents/69/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ！なにをするのだ・・・？！
+　よ、よすのだソコは・・・はっ！・・ああぁっ♥」
+> CONTEXT: Commonevents/69/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！？
+　や・・・・やめ・・・・」
+> CONTEXT: Commonevents/69/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だ、ダメ・・・・こ、こんなのって・・・・
+　やっ♥・・・ああぁ！」
+> CONTEXT: Commonevents/69/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ・・・くっ！
+　や、やめなさ・・・ああン！」
+> CONTEXT: Commonevents/69/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！・・き、きちゃうっ！・・・きちゃうよぉ・・・♥
+　ンはっ！・・・ああぁぁ・・・・っ！」
+> CONTEXT: Commonevents/70/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はっ！・・・ああぁぁっ！
+　ダメぇっ・・・お、おかしくなっちゃうよぉ・・・！」
+> CONTEXT: Commonevents/70/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁンっ・・・\\N[002]のここ・・・
+　もうぐしょぐしょだよぉ・・・あ！・・・ああンっ♥」
+> CONTEXT: Commonevents/70/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁぁっ！・・・そんなに強くされたらっ・・・！
+　ああっ・・・・ああンっ・・・♥」
+> CONTEXT: Commonevents/70/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うああぁっ♥・・・・こんなの・・・
+　こんなのっ・・・カラダが耐えられないよぉ・・・！」
+> CONTEXT: Commonevents/70/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご・・・ごめんなさいぃ！そこはっ・・・
+　そこ、弱いのっ・・・ダメ・・あ、ああぁぁっ♥」
+> CONTEXT: Commonevents/70/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやぁっ！・・・そ、そんなに強くされたら・・・
+　っあぁ！・・・ああぁぁ・・・っ♥」
+> CONTEXT: Commonevents/70/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁンっ！・・・・だ、ダメぇ・・・・
+　そこ、弱いのぉ・・・ああぁっ♥」
+> CONTEXT: Commonevents/70/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だ、ダメ・・・っ！も、もう\\N[002]っ・・・
+　いっ・・・意識が飛んでしまいそうっ！」
+> CONTEXT: Commonevents/70/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああぁぁっ！や・・・やめっ・・・・！
+　そっ・・・そんな風に弄られたら・・・！」
+> CONTEXT: Commonevents/70/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あふン♥・・・っ・・・・ああぁ・・・っ！
+　ダメだ、\\N[002]っ・・・お、おかしくっちまうぅ・・っ！」
+> CONTEXT: Commonevents/70/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んんっ♥・・あ・・・・あはぁ・・・ン・・・・♥
+　はぁっ・・な、なんて声出してんだ・・・\\N[002]・・っ」
+> CONTEXT: Commonevents/70/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁぁ！・・・んっ、うぅ・・・♥
+　ダメ・・・きっ、気が狂いそう・・・っ！」
+> CONTEXT: Commonevents/70/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああンっ♥・・・凄いぃ・・・
+　こんな刺激、今まで・・・・は、ああぁぁ・・・！」
+> CONTEXT: Commonevents/70/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ・・・いやぁっ！・・・そんなにされたら・・・
+　こっ・・・腰が砕けちゃうぅ・・・っ♥」
+> CONTEXT: Commonevents/70/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・ッあ！！・・・・ああンっ♥
+　あぁ・・・・あ・・・・っ・・・♥」
+> CONTEXT: Commonevents/70/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンふぁ・・っ♥・・・だめ・・・っ！
+　そ、そんな触り方されたら、\\N[002]っ・・・！」
+> CONTEXT: Commonevents/70/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んくぅ・・・っ、この\\N[002]が、こんなヤツにぃ！
+　ンはっ・・・はああぁっ♥」
+> CONTEXT: Commonevents/70/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁぁ・・っ！いっ・・・イっちゃいましゅぅ・・！
+　あ・・ああぁ♥・・・あはあぁぁ・・・！」
+> CONTEXT: Commonevents/70/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああンッ♥　そ・・そんなに強く触っちゃだめでしゅ・・・！
+　お、おかしくなっちゃいましゅぅ・・っ！」
+> CONTEXT: Commonevents/70/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ！♥　ああ・・・も、もう\\N[002]・・・
+　たっ・・・立ってられないでしゅぅ・・・っ♥」
+> CONTEXT: Commonevents/70/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああンっ♥・・・や・・・・っ！
+　あぁっ・・・・あ・・・・っ・・・♥」
+> CONTEXT: Commonevents/70/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！？・・・そ、そこは・・・！
+　だっ・・・\\N[002]っ・・・・駄目ぇ・・・っ♥」
+> CONTEXT: Commonevents/70/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちょっ・・・そんなに捏ねられたら・・・あっ！
+　あは♥・・・あ！・・・ああンっ！！♥」
+> CONTEXT: Commonevents/70/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっ・・・い、いじるなっ・・・！
+　だ、ダメ・・・そこ・・・あ、ああぁぁっ♥」
+> CONTEXT: Commonevents/70/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅぅ・・・っ、\\N[002]がこんな辱めを・・・・
+　うあっ・・・あはぁぁ・・・っ♥」
+> CONTEXT: Commonevents/70/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ・・・っ！やめっ・・・く・・っ♥
+　こ、腰が抜けて・・・あンっ♥・・・ああぁぁっ！」
+> CONTEXT: Commonevents/70/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁぁっ♥そんなにねちっこく擦られたら・・っ！
+　だ、ダメじゃ・・・腰が砕けてしまうぅ・・っ！」
+> CONTEXT: Commonevents/70/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああぁっ♥意識が飛んでしまいそうじゃ・・・！
+　これ以上やられたら、\\N[002]は・・・も、もうっ・・！」
+> CONTEXT: Commonevents/70/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そ、そこはっ！・・・やめっ、ああぁ・・・っ♥
+　\\N[002]の弱いところを・・・ンあっ、はああぁぁっ♥」
+> CONTEXT: Commonevents/70/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンニャぁぁ♥・・・そこは弱いニャ！
+　やめっ・・・そ、そんなにいじくりまわすニャぁ！」
+> CONTEXT: Commonevents/70/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャうぅンっ♥・・・\\N[002]が悪かったニャ
+　もうゆる・・・ニャあっ♥・・・ミャあぁぁ・・・！」
+> CONTEXT: Commonevents/70/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャぁっ！・・・ンっ・・・ハァァ♥
+　イくっ、イっちゃうニャ・・・あ、あはぁぁ・・っ♥」
+> CONTEXT: Commonevents/70/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ♥・・・だ、ダメなのだぁ・・・！
+　そ、そんなとこいじられたら・・・く、はぁぁっ♥」
+> CONTEXT: Commonevents/70/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふあンっ♥・・やっ、こんな責め・・・っ！
+　お、おかしくなっちゃうのだぁ・・・！」
+> CONTEXT: Commonevents/70/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぁぁ♥・・・こ、これ以上されたら・・っ
+　気が狂っちゃうのだぁ・・・！」
+> CONTEXT: Commonevents/70/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・ッあ♥！・・・・はぁっ！
+　あああぁぁ・・・っ♥」
+> CONTEXT: Commonevents/70/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああンっ♥・・・そ、そんなに弄ったら・・・
+　だ・・・ダメぇ・・・！」
+> CONTEXT: Commonevents/70/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ・・・\\N[002]が・・・・っ！
+　こんな・・・・っ！・・・ンンぅっ♥」
+> CONTEXT: Commonevents/70/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁっ・・・凄いぃ・・・こんなにいっぱい・・・
+　お、お腹があふれちゃうよぉ・・・っ！」
+> CONTEXT: Commonevents/71/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁっ！・・・い、いま出されたら、\\N[002]っ・・・
+　あっ！・・・く、あああぁぁ・・・ぁ・・・♥」
+> CONTEXT: Commonevents/71/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはぁっ！・・・入ってくるよぉ・・・！
+　\\N[002]の中にぃっ！・・・やっ！・・・ああぁぁ・・！」
+> CONTEXT: Commonevents/71/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「熱っ・・・ンはぁっ♥・・・熱いよぉ・・・！
+　ダメっ・・・こ、こんなにいっぱいっ！・・・ああぁ・・！」
+> CONTEXT: Commonevents/71/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ・・・・出されてる・・・ああっ・・♥
+　お、お腹が・・・いっぱいになっちゃうよぉ・・・！」
+> CONTEXT: Commonevents/71/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だめぇっ・・い、いま中出しされたら・・・ああっ！？
+　あぁンっ♥・・・はぁっ！・・・うあぁぁ・・・っ！」
+> CONTEXT: Commonevents/71/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ♥・・・や・・・
+　き・・・刻み込まれちゃう・・・っ」
+> CONTEXT: Commonevents/71/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うぁぁ・・・・出てるぅ・・・！
+　お腹が・・・お腹がぁ・・・っ♥」
+> CONTEXT: Commonevents/71/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁっ♥入ってきますわ・・・す、凄いぃ・・・
+　こ、こんなに・・・！あっ、ああぁぁ・・・♥」
+> CONTEXT: Commonevents/71/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぅあはっ！・・・ンああぁぁっ♥・・・うぅっ
+　こ、こんなにいっぱい・・・出しやがってぇ・・・っ」
+> CONTEXT: Commonevents/71/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ！・・あはぁっ！・・・・熱いのが・・・
+　ンン・・っ♥・・・お、奥に当たってやがる・・・ぅっ」
+> CONTEXT: Commonevents/71/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンンっ！で、出てるぅ！・・・\\N[002]の中にぃっ！
+　あはあぁぁぁ・・・・っ♥・・あ・・あぁ・・・っ♥」
+> CONTEXT: Commonevents/71/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁっ・・・い、いま中に出されたら・・・
+　あぁ♥・・・あついぃっ！・・・ああぁぁ・・！」
+> CONTEXT: Commonevents/71/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ダメっ！・・・こ、こんなに・・・！
+　ンはっ！・・・あぅ、ああぁぁぁ・・・・っ！」
+> CONTEXT: Commonevents/71/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああぁっ♥・・・そ、そんなに出されたら・・・
+　お腹が壊れちゃうぅ・・・っ！」
+> CONTEXT: Commonevents/71/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅぅっ！・・ンあ♥・・・ダメっ・・・・
+　こんなに出されたら・・・
+　\\N[002]・・・\\N[002]っ・・・」
+> CONTEXT: Commonevents/71/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あつっ！・・・うあぁ・・・奥に・・・・
+　奥に・・・入ってくるぅ・・・・っ！」
+> CONTEXT: Commonevents/71/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっ、熱いっ！・・・ああン♥・・・あ！
+　す、凄い量だぁ・・っ・・・ふあぁンっ♥」
+> CONTEXT: Commonevents/71/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ・・！あぁ・・・っ♥　ンはぁ・・・
+　お、奥に撃ち込まれちゃったでしゅぅ・・・っ」
+> CONTEXT: Commonevents/71/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ、あついぃっ・・・！　\\N[003]のザーメンが
+　こっ、こんなにぃ！・・あぁっ！？・・あぁぁ・・・っ♥」
+> CONTEXT: Commonevents/71/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁっ！？そんなにっ、お腹が破けちゃいましゅう・・！
+　ああンっ！・・あ！・・・あぅ、ああぁぁ・・・・♥」
+> CONTEXT: Commonevents/71/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁっ！？・・・やっ・・・！
+　そ、そんなに注がれたら・・・・っ！
+　っあ！・・・・あああぁぁ・・・！♥」
+> CONTEXT: Commonevents/71/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ンはぁ・・っ♥・・・ああぁぁ・・・っ！
+　なぁっ・・・なんて・・・あ、熱い精なの・・っ！」
+> CONTEXT: Commonevents/71/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くはっ！・・・あぁっ！・・・あぁ・・・
+　\\N[002]を・・・は、孕ませるつもりですか・・・？」
+> CONTEXT: Commonevents/71/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ・・っ！よ、よせっ！
+　そんなに注ぐなっ！・・・あ♥・・・ああぁぁ・・！」
+> CONTEXT: Commonevents/71/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ううっく・・・！\\N[002]が蹂躙されるなど・・・
+　ンンっ！・・・は！・・・ああぁぁ・・・♥」
+> CONTEXT: Commonevents/71/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁぁっ♥・・・お、おのれぇ・・っ！
+　\\N[002]の最奥に・・・直で注ぎおって・・・っ！」
+> CONTEXT: Commonevents/71/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「や、やめろっ！・・うあぁぁ・・出しすぎじゃっ！」
+　あぁぁっ♥\\N[002]の奥に、直撃しておる・・・っ！」
+> CONTEXT: Commonevents/71/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁぁ・・・そ、そんなにっ！や・・・っ、
+　熱いぃ！・・・し、子宮が蹂躙され・・・っ！」
+> CONTEXT: Commonevents/71/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おあぁぁっ♥だ、だめじゃ・・これ以上出されたら・・・
+　お、お腹が張り裂けそうじゃぁ・・・っ！」
+> CONTEXT: Commonevents/71/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャふぁ・・・で・・出てるぅ・・・♥
+　\\N[002]のお腹に・・・たくさん注がれてるニャぁ！」
+> CONTEXT: Commonevents/71/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ミャはぁっ♥・・・おっ、奥に直撃してるニャ！
+　す、凄い量ニャ！・・ああっ♥・・・ミャああぁぁ！」
+> CONTEXT: Commonevents/71/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ♥・・・いっぱい入ってくるニャ・・・！
+　こんなオスにヤられるなんて・・・く、屈辱ニャぁぁ！」
+> CONTEXT: Commonevents/71/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああぁ♥・・・いっぱい出てるのだぁ・・・！
+　すごいっ・・・あ、溢れちゃうのだぁ・・・！」
+> CONTEXT: Commonevents/71/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふあぁぁ♥・・・こんなに注がれたら
+　\\N[002]のお腹が壊れちゃうのだぁ・・・！」
+> CONTEXT: Commonevents/71/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くぅぅっ！こんなヤツに堕とされるなんて・・・
+　く、屈辱なのだぁ・・・！」
+> CONTEXT: Commonevents/71/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うあぁ！・・・・あ・・・熱いィ・・・ッ！♥」
+> CONTEXT: Commonevents/71/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ！？・・・そ、そんなに注がれたらぁ・・・！♥」
+> CONTEXT: Commonevents/71/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んはぁっ・・く！・・・な・・・っ
+　なんて量なの・・・！」
+> CONTEXT: Commonevents/71/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ・・・もうスッカラカンになっちゃったかな？
+　それじゃ・・・これで終わりにしてあげる・・・♥」
+> CONTEXT: Commonevents/72/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ♥・・・いっぱい出したね、\\N[003]・・・
+　でも、もう限界みたいだから
+　\\N[002]がラクにしてあげるね・・・♥」
+> CONTEXT: Commonevents/72/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・どうやら限界のようですわね・・・？
+　それじゃあ、トドメをあげますわ・・・さよなら」
+> CONTEXT: Commonevents/72/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁて、これでトドメだ・・・
+　ふふっ・・・なかなか楽しませてもらったぜ・・・♥
+　ほぉら、逝っちまえ・・・！」
+> CONTEXT: Commonevents/72/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・新鮮な精気をたくさん貰ったわ・・・
+　さぁ、コレで逝かせてあげる・・・」
+> CONTEXT: Commonevents/72/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう枯れちゃったかぁ・・・
+　さぁて・・・それじゃ、このへんで
+　ラクにしてあげるよ・・・」
+> CONTEXT: Commonevents/72/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁて、そろそろ\\N[003]を葬ってあげましゅね♥
+　ふふふ・・・この\\N[002]の毒牙を受けて
+　あの世へ逝くが良いでしゅ・・・」
+> CONTEXT: Commonevents/72/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ・・・もう逝ってしまうのですね・・・？
+　ほぅら、\\N[002]の手で散らせてあげましょう・・・」
+> CONTEXT: Commonevents/72/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ・・・・これで最後のようだな
+　ではトドメだ・・・一思いに屠ってやろう」
+> CONTEXT: Commonevents/72/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くくく・・・なかなか楽しませてもらったわい
+　それじゃ、最期はコレで逝くがよいわ」
+> CONTEXT: Commonevents/72/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ペロッ・・・ふふ、なかなか美味しいオスだったニャ♥
+　さぁ、最後はコレでトドメを刺してやるニャ・・・」
+> CONTEXT: Commonevents/72/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ、\\N[003]もいよいよ終わりなのだ・・・♥
+　ふふふ・・・コレであの世に逝くがいいのだぁ・・！」
+> CONTEXT: Commonevents/72/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「楽しかったわ、ふふふ・・・
+　さぁ、これでトドメよ・・・お別れね、さようなら」
+> CONTEXT: Commonevents/72/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+液体だった敵の体が凝固した！
+> CONTEXT: Commonevents/89/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何の効果もなかった！
+> CONTEXT: Commonevents/89/95/Dialogue < UNTRANSLATED
+
+> END STRING

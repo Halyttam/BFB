@@ -1,0 +1,596 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「膨大な文献から、淫魔に関しての情報を調べている」
+> CONTEXT: Map006/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「が・・・関係無さげなのに、面白そうな所を見つけると
+　ついつい読みふけってしまうのだ・・・」
+> CONTEXT: Map006/events/9/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああもう、調べることが多すぎるわ・・・
+　誰か変わってくれないかしら」
+> CONTEXT: Map006/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんてね・・・淫魔たちの弱点が、見つかるかも知れないのに
+　気を抜いてなんていられないわね」
+> CONTEXT: Map006/events/10/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁ、それにしても・・・情報ってやっぱり
+　コンパクトに纏まってた方が良いと思うのよねぇ」
+> CONTEXT: Map006/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここは資料室だ
+　今は学者たちみんなで、淫魔に関しての調べ物をしている」
+> CONTEXT: Map006/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこの地下は、王宮魔術師の部屋になっているぞ」
+> CONTEXT: Map006/events/11/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大臣
+「忌々しい淫魔どもめ・・・私もあと20歳若ければ
+　自慢のアレで打ち負かしてやったというのに」
+> CONTEXT: Map006/events/12/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大臣
+「また兵が淫魔の犠牲になってしまったか・・・
+　一刻も早くあれらを撃退する方法を見つけねば・・・」
+> CONTEXT: Map006/events/12/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大臣
+「ああ、姫様が・・・どうかご無事で・・・
+　神よ、どうか姫様をお守りください」
+> CONTEXT: Map006/events/12/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「んん？・・・ほぉ、
+　農民の\\N[001]ではないか・・・どうしたのだ？」
+> CONTEXT: Map006/events/13/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「お前がここに来るとは、珍しいな
+　くるしゅうない、要件を申してみよ」
+> CONTEXT: Map006/events/13/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「お前の祖父のクレフは
+　わたしの古き友人でもある」
+> CONTEXT: Map006/events/13/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「どうか、助けてやってほしい
+　幸運を祈っている」
+> CONTEXT: Map006/events/13/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「遺跡の中は危険を伴うかも知れんが・・・
+　よろしく頼んだぞ」
+> CONTEXT: Map006/events/13/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「今はひとまず、ゆっくり休養するといい
+　下がってよいぞ」
+> CONTEXT: Map006/events/13/pages/3/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/20/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「そなたには、また力を借りる事になるかもしれん」
+> CONTEXT: Map006/events/13/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/20/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「ダルゴ山の祠にあるブラッドオーブが必要なのだ」
+> CONTEXT: Map006/events/13/pages/4/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「どうかオーブを持ってきて欲しい
+　苦労をかけて済まないが、よろしく頼む」
+> CONTEXT: Map006/events/13/pages/4/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「おおティリアよ・・・どうか無事でいてくれ・・・」
+> CONTEXT: Map006/events/13/pages/5/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「\\N[001]よ、もし娘を無事に取り戻せたなら
+　望みの褒美をとらそう」
+> CONTEXT: Map006/events/13/pages/5/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王は忙しいのだ、用件は簡潔にな」
+> CONTEXT: Map006/events/14/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うう・・・足が疲れちまった
+　苦手なんだよなぁ、じっとしてるの」
+> CONTEXT: Map006/events/15/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「・・・おのれ、淫魔どもめ・・・
+　私が女でなければ・・・」
+> CONTEXT: Map006/events/16/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「なんだ、農民の者か？
+　謁見の間はこちらではないぞ」
+> CONTEXT: Map006/events/16/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「あの森から生きて帰ってくるとは・・・
+　お前はただの農民では無いな」
+> CONTEXT: Map006/events/16/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「淫魔たちの相手はお前に任せるとするか・・・
+　いやいや、冗談だが」
+> CONTEXT: Map006/events/16/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「戦士として、わたしもやれる事をやろう」
+> CONTEXT: Map006/events/16/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「部下や同僚を苦しめてしまったのは心苦しいが
+　今はそれどころではないな・・・」
+> CONTEXT: Map006/events/16/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「バイラス様は奥様を亡くし
+　心の支えは、娘のティリア様のみだ」
+> CONTEXT: Map006/events/16/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シイザ
+「\\N[001]、なんとしても
+　ティリア様を連れ戻してくれ」
+> CONTEXT: Map006/events/16/pages/3/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵士
+「どんなに腕の立つ戦士でも
+　淫魔に対しては武力など無意味だ」
+> CONTEXT: Map006/events/17/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵士
+「ましてや、シイザ隊長は女だからな・・・
+　陰気に感化して、自身も淫魔化されてしまうかも知れん」
+> CONTEXT: Map006/events/17/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵士
+「シイザ隊長は、淫魔に対して何もできない事を
+　気に病んでいるようだ・・・」
+> CONTEXT: Map006/events/18/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「\\N[001]よ、森の淫魔を退け
+　薬草を持ち帰った勇敢なお前に頼みがある」
+> CONTEXT: Map006/events/19/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「我々は目下のところ、淫魔たちの根本的な撃退方法を探るため
+　過去の文献よりその方法を探っている」
+> CONTEXT: Map006/events/19/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「そしてどうやら、南方にある我々の祖先が住んでいたと
+　思われる古代の遺跡に、重要な文献が眠っているらしいのだ」
+> CONTEXT: Map006/events/19/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「一週間ほど前、兵士達と城の魔術師フレーネを
+　遺跡へ派遣させたのだが・・彼らが帰って来ないのだ」
+> CONTEXT: Map006/events/19/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「おそらく何かあったのだろうが・・
+　これ以上、城の兵の数を減らすわけにもいかん」
+> CONTEXT: Map006/events/19/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「そこでお前に頼みがある
+　遺跡へ出向いて、様子を見てきて欲しい」
+> CONTEXT: Map006/events/19/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「そして可能であるなら、古文書を探し出し
+　ここに持ち帰ってきてはくれないか」
+> CONTEXT: Map006/events/19/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「危険を伴うかも知れんが・・・よろしく頼んだぞ」
+> CONTEXT: Map006/events/19/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遺跡へ行けるようになりました
+街の出口から選択できます
+> CONTEXT: Map006/events/19/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「これは確かに求めていた古文書！
+　きっとこれで淫魔を封印する手立てが見つかるはずだ」
+> CONTEXT: Map006/events/20/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「\\N[001]よ、大儀であった・・大変だったであろう？
+　なにか褒美を取らそう」
+> CONTEXT: Map006/events/20/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+褒章として２００ゴールドを受け取りました
+> CONTEXT: Map006/events/20/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「\\N[001]よ、大変なことになってしまった」
+> CONTEXT: Map006/events/21/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「突如現れた謎の女に、余の娘がさらわれてしまった！
+　なんということだ・・・！」
+> CONTEXT: Map006/events/21/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「あの女こそ、まさしく古文書の絵にあった女怪
+　淫魔の女王サキュバスなのだな・・・！」
+> CONTEXT: Map006/events/21/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「そして彼奴は、お前の事を
+　"あの男の生まれ変わり"と言っていたそうだな・・・」
+> CONTEXT: Map006/events/21/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「実はな、\\N[001]よ・・・余は昔、
+　お前の祖父クレフから聞いた事がある・・・」
+> CONTEXT: Map006/events/21/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「自分の祖先にあたる人物が、まさしく３００年前
+　この地に現れたサキュバスを封印した勇者なのだ・・・と」
+> CONTEXT: Map006/events/21/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「その者は、宝石や魔石に秘められた魔力を
+　増幅させる不思議な力を持っていた・・・」
+> CONTEXT: Map006/events/21/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「その力を操り、淫魔たちを次々と倒して行ったという・・・」
+> CONTEXT: Map006/events/21/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「そう、お前はその勇者の子孫・・・
+　その力を受け継ぎし者なのだ・・！」
+> CONTEXT: Map006/events/21/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「お前が今まで数々の淫魔たちを退けて来れたのも
+　その能力があったからこそなのだろう・・・」
+> CONTEXT: Map006/events/21/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「おそらくサキュバスを倒せるのはお前だけかも知れん
+　そしてティリアを救い出せるのも・・・」
+> CONTEXT: Map006/events/21/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「お前にはたびたび過酷な役割を担わせてしまって
+　済まないと思っている・・・」
+> CONTEXT: Map006/events/21/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「しかし、王としての立場ではなく
+　一人の父親として・・・\\N[001]、どうか頼む」
+> CONTEXT: Map006/events/21/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「余の娘を・・・ティリアをどうか
+　サキュバスから救い出してくれ・・・」
+> CONTEXT: Map006/events/21/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+\\N[001]は、バイラスに
+ティリア姫を必ず救い出すと約束した－－－－－－－
+> CONTEXT: Map006/events/21/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「淫魔によって多くの兵を失った今
+　この国を救えるのは、もはやお前だけだ」
+> CONTEXT: Map006/events/21/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「頼んだぞ・・・\\N[001]
+> CONTEXT: Map006/events/21/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異界の扉へ行けるようになりました
+街の出口から選択できます
+> CONTEXT: Map006/events/21/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「おお、\\N[001]よ・・・
+　お前が原石の場所を見つけてくれたおかげで
+　兵士たちの装身具も強化されたようだ、礼を言うぞ」
+> CONTEXT: Map006/events/22/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「本来なら、素直に喜びたいところだが
+　残念ながらそうも行かない状況なのだ・・・」
+> CONTEXT: Map006/events/22/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「先日お前が持ち帰った古文書から、
+　淫魔たちの住むの異界へと通じる扉の在り処も分かった
+　その異界がすなわち、敵の本拠地というワケだ」
+> CONTEXT: Map006/events/22/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「淫魔たちが現れたのも、その扉の封印が
+　弱まってしまったからに違いない」
+> CONTEXT: Map006/events/22/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「その扉を閉じるためには、西のダルゴ山の
+　ほこらに奉られている、ブラッドオーブが必要なのだ」
+> CONTEXT: Map006/events/22/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「しかしダルゴ山には、淫魔ではなく
+　凶暴なモンスターどもが巣くっていてな・・・
+　我が衛兵隊の精鋭たちを送ったのだが・・・」
+> CONTEXT: Map006/events/22/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「残念ながらオーブは手に入れることができなかった・・・
+　命からがら逃れてきた兵によると
+　山に巣くうモンスターどもは撃退したらしいのだが・・・」
+> CONTEXT: Map006/events/22/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「オーブの探索中に淫魔どもが突然襲ってきたらしい・・・
+　多くの兵が淫魔の犠牲になってしまった・・・」
+> CONTEXT: Map006/events/22/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「\\N[001]よ、度々済まないがお願いだ
+　ダルゴ山に赴き、ブラッドオーブを持ち帰ってほしい」
+> CONTEXT: Map006/events/22/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「淫魔たちをこの世界から根絶させるには
+　異界とのつながりを絶たねばならない
+　そのためにどうしてもオーブが必要なのだ」
+> CONTEXT: Map006/events/22/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「どうか・・・よろしく頼む」
+> CONTEXT: Map006/events/22/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダルゴ山へ行けるようになりました
+街の出口から選択できます
+> CONTEXT: Map006/events/22/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING

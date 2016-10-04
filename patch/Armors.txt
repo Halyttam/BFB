@@ -1,0 +1,240 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ガーネットの腕輪
+> CONTEXT: Armors/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トルマリンの腕輪
+> CONTEXT: Armors/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アメシストの腕輪
+> CONTEXT: Armors/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トパーズの腕輪
+> CONTEXT: Armors/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクアマリンの腕輪
+> CONTEXT: Armors/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オパールの腕輪
+> CONTEXT: Armors/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エメラルドの腕輪
+> CONTEXT: Armors/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サファイアの腕輪
+> CONTEXT: Armors/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルビーの腕輪
+> CONTEXT: Armors/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤの腕輪
+> CONTEXT: Armors/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガーネットのサークレット
+> CONTEXT: Armors/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トルマリンのサークレット
+> CONTEXT: Armors/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アメシストのサークレット
+> CONTEXT: Armors/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トパーズのサークレット
+> CONTEXT: Armors/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクアマリンのサークレット
+> CONTEXT: Armors/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オパールのサークレット
+> CONTEXT: Armors/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エメラルドのサークレット
+> CONTEXT: Armors/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サファイアのサークレット
+> CONTEXT: Armors/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルビーのサークレット
+> CONTEXT: Armors/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤのサークレット
+> CONTEXT: Armors/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガーネットの首飾り
+> CONTEXT: Armors/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トルマリンの首飾り
+> CONTEXT: Armors/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アメシストの首飾り
+> CONTEXT: Armors/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トパーズの首飾り
+> CONTEXT: Armors/44/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクアマリンの首飾り
+> CONTEXT: Armors/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オパールの首飾り
+> CONTEXT: Armors/46/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エメラルドの首飾り
+> CONTEXT: Armors/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サファイアの首飾り
+> CONTEXT: Armors/48/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルビーの首飾り
+> CONTEXT: Armors/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤの首飾り
+> CONTEXT: Armors/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガーネットのアンクレット
+> CONTEXT: Armors/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トルマリンのアンクレット
+> CONTEXT: Armors/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アメシストのアンクレット
+> CONTEXT: Armors/63/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トパーズのアンクレット
+> CONTEXT: Armors/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクアマリンのアンクレット
+> CONTEXT: Armors/65/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オパールのアンクレット
+> CONTEXT: Armors/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エメラルドのアンクレット
+> CONTEXT: Armors/67/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サファイアのアンクレット
+> CONTEXT: Armors/68/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルビーのアンクレット
+> CONTEXT: Armors/69/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイヤのアンクレット
+> CONTEXT: Armors/70/name/ < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,720 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+は、優しくキスをした！
+> CONTEXT: Skills/2/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、相手の体に　くちびるを這わせた！
+> CONTEXT: Skills/3/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、貪るような　激しいキスをした！
+> CONTEXT: Skills/4/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、おっぱいを　やさしく揉んだ！
+> CONTEXT: Skills/5/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、おっぱいを　キツく揉みしだいた！
+> CONTEXT: Skills/6/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、おっぱいを　舐めまわした！
+> CONTEXT: Skills/7/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空スキル
+> CONTEXT: Skills/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\B
+> CONTEXT: Skills/9/message1/ < UNTRANSLATED
+> CONTEXT: Skills/10/message1/ < UNTRANSLATED
+> CONTEXT: Skills/23/message1/ < UNTRANSLATED
+> CONTEXT: Skills/39/message1/ < UNTRANSLATED
+> CONTEXT: Skills/41/message1/ < UNTRANSLATED
+> CONTEXT: Skills/45/message1/ < UNTRANSLATED
+> CONTEXT: Skills/46/message1/ < UNTRANSLATED
+> CONTEXT: Skills/47/message1/ < UNTRANSLATED
+> CONTEXT: Skills/53/message1/ < UNTRANSLATED
+> CONTEXT: Skills/62/message1/ < UNTRANSLATED
+> CONTEXT: Skills/70/message1/ < UNTRANSLATED
+> CONTEXT: Skills/71/message1/ < UNTRANSLATED
+> CONTEXT: Skills/72/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空スキル相手にピンクフラッシュ
+> CONTEXT: Skills/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、お尻を　揉みしだいた！
+> CONTEXT: Skills/11/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、お尻を撫でながら　軽く叩いた！
+> CONTEXT: Skills/12/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、お尻を　舐めまわした！
+> CONTEXT: Skills/13/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、指でクリを　いじくりまわした！
+> CONTEXT: Skills/14/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、アソコを　舐めまわした！
+> CONTEXT: Skills/15/message1/ < UNTRANSLATED
+> CONTEXT: Skills/67/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、手でアソコを　撫で回した！
+> CONTEXT: Skills/16/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、敵の攻撃を堪えている！
+> CONTEXT: Skills/17/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なすがまま
+> CONTEXT: Skills/18/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/27/0/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/28/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/29/18/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、なすがまま　身を任せている・・・
+> CONTEXT: Skills/18/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱ぐ
+> CONTEXT: Skills/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、自らの服を脱ぎ捨てた！
+> CONTEXT: Skills/19/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱がす
+> CONTEXT: Skills/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は敵の脱衣をこころみた！
+> CONTEXT: Skills/20/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は敵に挿入しようとした！
+> CONTEXT: Skills/21/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピストン
+> CONTEXT: Skills/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は腰を振っている！
+> CONTEXT: Skills/22/message1/ < UNTRANSLATED
+> CONTEXT: Skills/37/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピストンダメージ
+> CONTEXT: Skills/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブレス
+> CONTEXT: Skills/24/name/ < UNTRANSLATED
+> CONTEXT: Skills/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタミナ10と引きかえに、深呼吸して抑制を回復する
+> CONTEXT: Skills/24/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は深呼吸した！
+> CONTEXT: Skills/24/message1/ < UNTRANSLATED
+> CONTEXT: Skills/25/message1/ < UNTRANSLATED
+> CONTEXT: Skills/40/message1/ < UNTRANSLATED
+> CONTEXT: Skills/42/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタミナ10と引きかえに、深呼吸して抑制を回復する。
+> CONTEXT: Skills/25/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手コキ
+> CONTEXT: Skills/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、手で激しく　しごいてきた！
+> CONTEXT: Skills/28/message1/ < UNTRANSLATED
+> CONTEXT: Skills/52/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フェラ
+> CONTEXT: Skills/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、ねっとりと　しゃぶり回してきた！
+> CONTEXT: Skills/29/message1/ < UNTRANSLATED
+> CONTEXT: Skills/54/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+踏みつけ
+> CONTEXT: Skills/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、足でグリグリと　踏みつけてきた！
+> CONTEXT: Skills/30/message1/ < UNTRANSLATED
+> CONTEXT: Skills/55/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フトモモ
+> CONTEXT: Skills/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、フトモモで　グリグリ擦ってきた！
+> CONTEXT: Skills/31/message1/ < UNTRANSLATED
+> CONTEXT: Skills/56/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パイズリ
+> CONTEXT: Skills/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、おっぱいで　挟んできた！
+> CONTEXT: Skills/32/message1/ < UNTRANSLATED
+> CONTEXT: Skills/57/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乳首ズリ
+> CONTEXT: Skills/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、乳首を　擦りつけてきた！
+> CONTEXT: Skills/33/message1/ < UNTRANSLATED
+> CONTEXT: Skills/58/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キス敵
+> CONTEXT: Skills/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、絡みつくような　キスをしてきた！
+> CONTEXT: Skills/34/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱衣
+> CONTEXT: Skills/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[001]の服を剥ぎ取りにかかった！
+> CONTEXT: Skills/35/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵腰振り入力ピクチャ時
+> CONTEXT: Skills/37/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵から挿入
+> CONTEXT: Skills/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はペニスを掴み、挿入しようとしてきた！
+> CONTEXT: Skills/38/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵の腰振りダメージ
+> CONTEXT: Skills/39/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵ブレスピクチャ時
+> CONTEXT: Skills/40/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵ブレスピクチャ時回復
+> CONTEXT: Skills/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵ブレス
+> CONTEXT: Skills/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立ち絵時のブレス（回復）
+> CONTEXT: Skills/42/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵から拘束
+> CONTEXT: Skills/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[001]を拘束してきた！
+> CONTEXT: Skills/43/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束中攻撃ダメージ
+> CONTEXT: Skills/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束中敵裸攻撃ダメージ
+> CONTEXT: Skills/46/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+搾精ダメージ
+> CONTEXT: Skills/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+搾精中立ち絵時
+> CONTEXT: Skills/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、ペニスを激しく　しごき上げた！
+> CONTEXT: Skills/49/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+搾精中拘＆挿時
+> CONTEXT: Skills/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+に、精が　搾り取られる！
+> CONTEXT: Skills/50/message1/ < UNTRANSLATED
+> CONTEXT: Skills/59/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北時攻撃スマタ
+> CONTEXT: Skills/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、ペニスを股間に　挟み込んできた！
+> CONTEXT: Skills/51/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北時攻撃手コキ
+> CONTEXT: Skills/52/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北攻撃時フラッシュ
+> CONTEXT: Skills/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北時攻撃フェラ
+> CONTEXT: Skills/54/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北時攻撃踏みつけ
+> CONTEXT: Skills/55/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北時攻撃フトモモ
+> CONTEXT: Skills/56/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北時攻撃パイズリ
+> CONTEXT: Skills/57/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北時攻撃乳首ズリ
+> CONTEXT: Skills/58/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北時攻撃拘束＆挿
+> CONTEXT: Skills/59/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絞めつけ
+> CONTEXT: Skills/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絞め付けダメージ
+> CONTEXT: Skills/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勝利時攻撃愛撫１
+> CONTEXT: Skills/65/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、指でクリを　こすりあげた！
+> CONTEXT: Skills/65/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勝利時攻撃愛撫２
+> CONTEXT: Skills/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、指を入れて　執拗に掻きまわした！
+> CONTEXT: Skills/66/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勝利時攻撃愛撫３
+> CONTEXT: Skills/67/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勝利時攻撃挿入
+> CONTEXT: Skills/68/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、激しく　ピストンした！
+> CONTEXT: Skills/68/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力尽きる時演出１
+> CONTEXT: Skills/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力尽きる時演出２
+> CONTEXT: Skills/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+力尽きる時演出３
+> CONTEXT: Skills/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ヴァンパ＆フレーネ
+> CONTEXT: Skills/77/name/ < UNTRANSLATED
+> CONTEXT: Skills/90/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、長い髪で\\N[001]のペニスを締め上げた！
+> CONTEXT: Skills/77/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ゴブ＆コボ
+> CONTEXT: Skills/78/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、足でペニスを　しごいてきた！
+> CONTEXT: Skills/78/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束エル＆リザ
+> CONTEXT: Skills/79/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、柔らかなお尻を　擦りつけてきた！
+> CONTEXT: Skills/79/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ニンフ＆ティリア
+> CONTEXT: Skills/80/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、指でアナルを　貫いてきた！
+> CONTEXT: Skills/80/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ホーネット＆キラービー
+> CONTEXT: Skills/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、ペニスを　しゃぶり回してきた！
+> CONTEXT: Skills/81/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ピクシー＆リトデビ
+> CONTEXT: Skills/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、スマタで　ペニスをこすりあげた！
+> CONTEXT: Skills/82/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束シイザ＆アマゾネス
+> CONTEXT: Skills/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、フトモモで挟み込み　擦りあげた！
+> CONTEXT: Skills/83/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ハーピー＆セイレーン
+> CONTEXT: Skills/84/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、胸で挟んで　激しく擦りあげた！
+> CONTEXT: Skills/84/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ドリア＆アルラ
+> CONTEXT: Skills/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、ペニスを　もてあそんできた！
+> CONTEXT: Skills/85/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束くのいち＆サラマンダ
+> CONTEXT: Skills/86/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、玉を揉みながら　しゃぶりあげた！
+> CONTEXT: Skills/86/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ネコ＆ワーキャ
+> CONTEXT: Skills/87/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、しっぽでペニスを　しごいてきた！
+> CONTEXT: Skills/87/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束ミノ＆オーク
+> CONTEXT: Skills/88/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、母乳を飲ませながら　手コキしてきた！
+> CONTEXT: Skills/88/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束サキュバス
+> CONTEXT: Skills/89/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、男顔負けの腰使いで　突いてきた！
+> CONTEXT: Skills/89/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、柔らかいお腹を　擦りつけてきた！
+> CONTEXT: Skills/90/message1/ < UNTRANSLATED
+> CONTEXT: Skills/91/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束サイクロ＆キマイラ
+> CONTEXT: Skills/91/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束スライム＆ピンクスラ
+> CONTEXT: Skills/92/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、ぬるぬるした手で　しごいてきた！
+> CONTEXT: Skills/92/message1/ < UNTRANSLATED
+
+> END STRING

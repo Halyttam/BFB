@@ -1,0 +1,140 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+男の声
+「やめ・・・
+　うっ・・うあぁぁ・・・・！」
+> CONTEXT: Map014/events/24/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ああン、まだ足りないのだぁ・・・
+　もっともっといっぱい出すのだぁ」
+> CONTEXT: Map014/events/24/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「おおー、いいところにおかわりが
+　やってきたのだ・・・」
+> CONTEXT: Map014/events/24/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライム
+「またあたしに吸われに来たのだ・・・？
+　懲りないヤツなのだぁ・・・！」
+> CONTEXT: Map014/events/24/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライム
+「や、ああぁぁ・・っ！」
+> CONTEXT: Map014/events/24/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・\\N[001]
+> CONTEXT: Map014/events/33/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+起きてよ、\\N[001]！・・・
+> CONTEXT: Map014/events/33/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"battleratram1"
+> CONTEXT: Map014/events/33/pages/1/10/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「あっ・・気がついた？」
+> CONTEXT: Map014/events/33/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「あぶなかったね、ボクがいなかったら
+　あのまま吸い殺されちゃうところだったよ」
+> CONTEXT: Map014/events/33/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「えっ、どうしてここにいるのかって？」
+> CONTEXT: Map014/events/33/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「まぁボクも王様の頼みでね、
+　淫魔たちに有効な宝石を探してるんだ」
+> CONTEXT: Map014/events/33/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「スライムのせいで先に進めなくてね
+　仕方が無いから街に戻って
+　スライムを倒す方法を調べていたんだよ」
+> CONTEXT: Map014/events/33/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「この不思議の粉は、液体を固まらせる性質があるんだ
+　どうもスライムはこの粉が苦手みたいだね」
+> CONTEXT: Map014/events/33/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「さっきキミを助けたのも
+　この粉を振りまいて退散させたんだ」
+> CONTEXT: Map014/events/33/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「この粉を使えば、きっとスライムに
+　ダメージを与えられるようになると思うよ」
+> CONTEXT: Map014/events/33/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不思議の粉を手に入れた！
+> CONTEXT: Map014/events/33/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルエィ
+「この先には、ボクが探してる宝石もあるかもしれない
+　どうかスライムを撃退してほしい、頼んだよ！」
+> CONTEXT: Map014/events/33/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トパーズのサークレットを手に入れた！
+> CONTEXT: Map014/events/36/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

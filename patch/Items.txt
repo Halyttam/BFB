@@ -1,0 +1,141 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+鎮静薬B
+> CONTEXT: Items/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抑制を４００ポイント回復する
+> CONTEXT: Items/1/description/ < UNTRANSLATED
+> CONTEXT: Items/5/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎮静薬 強B
+> CONTEXT: Items/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抑制を７００ポイント回復する
+> CONTEXT: Items/2/description/ < UNTRANSLATED
+> CONTEXT: Items/6/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎮静薬 強
+> CONTEXT: Items/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神の霊薬
+> CONTEXT: Items/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタミナを４００ポイント回復する
+> CONTEXT: Items/9/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神の霊薬 強
+> CONTEXT: Items/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタミナを７００ポイント回復する
+> CONTEXT: Items/10/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全快の霊薬B
+> CONTEXT: Items/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抑制とスタミナを完全回復する
+> CONTEXT: Items/12/description/ < UNTRANSLATED
+> CONTEXT: Items/13/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全快の霊薬
+> CONTEXT: Items/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+克己上昇薬
+> CONTEXT: Items/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+７ターンの間、敵の愛撫のダメージを減らす
+> CONTEXT: Items/15/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敏捷上昇薬
+> CONTEXT: Items/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+７ターンの間、敏捷性が上がる
+> CONTEXT: Items/16/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力の欠片
+> CONTEXT: Items/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫魔たちの魔力の残滓
+> CONTEXT: Items/20/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不思議の粉
+> CONTEXT: Items/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古文書
+> CONTEXT: Items/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラッドオーブ
+> CONTEXT: Items/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四角い石片
+> CONTEXT: Items/40/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+表面に不思議な模様が掘られている。
+> CONTEXT: Items/40/description/ < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,309 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ゲームシステムについての説明、その４だ
+　ステータスに関してだな」
+> CONTEXT: Map005/events/1/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「指輪を装備すると、魅力が上がる
+　自分の愛撫のダメージの強さだ」
+> CONTEXT: Map005/events/1/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「腕輪は克己（こっき）が上がるぞ
+　敵の愛撫に対する防御力だ」
+> CONTEXT: Map005/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「サークレットは、技巧が上がる
+　これは挿入時にピストンで与えるダメージに関係する」
+> CONTEXT: Map005/events/1/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「首飾りは、平静が上がるぞ
+　これがあるほど、挿入時のダメージや
+　射精させられた時のダメージが少なくて済むんだ」
+> CONTEXT: Map005/events/1/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして最後が、足につけるアンクレットだ
+　敏捷性が上がる
+　ターンが始まって先制できるかどうかは、これで決まるし
+　脱衣や挿入の成功率にも関わってくる、重要なものだ」
+> CONTEXT: Map005/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ゲームシステムについての説明、その２よ
+　大事だから、よく覚えてね」
+> CONTEXT: Map005/events/2/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こちらの愛撫攻撃は、キス、胸、お尻、クレバスの４つがあるわ
+　そして敵は、そのどれか一つが弱点になってるの」
+> CONTEXT: Map005/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「弱点を攻撃すると、挿入時に与えるダメージが増えるわ
+　これは３段階まで上がるわよ」
+> CONTEXT: Map005/events/2/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「挿入する時は、お互いに脱いでる状態じゃなきゃダメね
+　でも敵が自分から脱衣する事はないのよ」
+> CONTEXT: Map005/events/2/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だから、こちらから脱がさないとダメなんだけど
+　敵の最大体力の２０％以上ダメージを与えていないと
+　脱がそうとしても、拒まれちゃうわよ」
+> CONTEXT: Map005/events/2/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ダメージが十分なら、あとは敵を脱がせられるかどうかは
+　敏捷性にかかってるわね」
+> CONTEXT: Map005/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ゲームシステムについての説明、その３じゃ
+　よーく聞いて、覚えてほしいのじゃ」
+> CONTEXT: Map005/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このゲームにレベルアップは無いんじゃ
+　装備品である装飾品でしか、己を強くする事はできん
+　体力（抑制やスタミナ）も最大１０００から上下することは無い」
+> CONTEXT: Map005/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「装飾品を装備できる場所は、全部で５箇所じゃ
+　まず武器として指輪、
+　防具として、腕には腕輪、頭にサークレット」
+> CONTEXT: Map005/events/3/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「胸には首飾り、そして足にはアンクレットじゃな
+　基本的に、これらの装備でしか
+　自分を強化する事はできんのじゃ」
+> CONTEXT: Map005/events/3/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「会話を聞いてると、さっきからなんか
+　ヘンな単語が飛び交ってるわね・・・」
+> CONTEXT: Map005/events/4/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「愛撫とか拘束とか挿入とか・・・
+　どうしちゃったのかしら？兵士さんたち」
+> CONTEXT: Map005/events/4/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁ、いらっしゃい
+　おじいちゃんの方は大丈夫かい？」
+> CONTEXT: Map005/events/5/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやぁ、もう食えんわい
+　腹がいっぱいじゃ」
+> CONTEXT: Map005/events/6/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁね、お爺さん
+　まだ一口も食べてないでしょ」
+> CONTEXT: Map005/events/7/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「セックスで相手を倒すなんてなぁ・・・
+　兵士としての厳しい訓練の日々は
+　何だったのかと思ってしまうぜ」
+> CONTEXT: Map005/events/8/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「敵を脱がしたら、敵の愛撫の威力が
+　ちょっと上がってしまうんだぜ」
+> CONTEXT: Map005/events/9/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「拘束のダメージも上がるし、脱がしたら
+　早く挿入しちまうのが手かもな」
+> CONTEXT: Map005/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもまぁ挿入の前に、ちゃんと弱点を３回責めておかないと
+　ピストンのダメージが少なかったりするから、気をつけないとな」
+> CONTEXT: Map005/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「敵のアクションを"拒む"で失敗してしまうと
+　そのターンで、まだこちらが行動してなかった場合
+　その行動はキャンセルされちまうぜ」
+> CONTEXT: Map005/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「回復しようと思っていても、回復をキャンセルされちまう
+　そうするとヘタしたら、そのターンと次のターン
+　２回連続でダメージを受ける事にもなりかねん」
+> CONTEXT: Map005/events/10/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このへんは、凄く注意が要ると思うぜ
+　あと、こちらが服を脱がす時とか、挿入する時も
+　敏捷性が関わってくる」
+> CONTEXT: Map005/events/10/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁとにかく、敏捷性はけっこう大事ってこったな」
+> CONTEXT: Map005/events/10/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ゲームシステムについての説明、その５よ
+　敵のアクションに関して説明するわね」
+> CONTEXT: Map005/events/11/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「敵は条件が合うと、こちらの服を脱がしてきたり
+　拘束してきたり挿入してきたりしてくるわ」
+> CONTEXT: Map005/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それらを"拒む"事ができるんだけど
+　成功するかどうかは、双方の敏捷性に大きく左右されるわ
+　自分と敵の敏捷性が互角だった場合
+　成功確率は、だいたい８割くらいね」
+> CONTEXT: Map005/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「特に拘束をされちゃうと、３ターンの間
+　こちらの攻撃は封じられ、一方的に攻撃されちゃうわ
+　拘束中は、"ブレス（回復）"か"堪える"か
+　アイテムを使う事しかできなくなっちゃうの」
+> CONTEXT: Map005/events/11/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おまけに、拘束された時に敵が脱衣していた場合
+　通常より大きなダメージを受ける事になってしまうわ
+　拘束は特にやっかいな攻撃よ」
+> CONTEXT: Map005/events/11/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「挿入中は逃げられなくなっちゃうわよ
+　どちらかがイっちゃうまでの真剣勝負ね」
+> CONTEXT: Map005/events/12/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁもう、凄く忙しいわ・・・」
+> CONTEXT: Map005/events/13/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「剣を使う仕事が無いからって
+　城の兵士たちが押し寄せて・・・
+　でも風が吹けば、ってやつかしらね？」
+> CONTEXT: Map005/events/13/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ゲームシステムについての説明その１だ
+　体力に関してだ」
+> CONTEXT: Map005/events/16/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「体力は"抑制"と"スタミナ"の２種類がある」
+> CONTEXT: Map005/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まず敵に愛撫されると抑制が減っていく
+　抑制が０になると、射精させられてしまうぞ」
+> CONTEXT: Map005/events/16/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「射精させられると３ターンの間、敵に精を搾り取られてしまう
+　スタミナがどんどん減っていくぞ」
+> CONTEXT: Map005/events/16/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「３ターン搾られて、スタミナが残っていた場合は
+　抑制が５００まで回復した状態で戦闘続行できるぞ
+　だがスタミナが０になると、力尽きてオシマイだ」
+> CONTEXT: Map005/events/16/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING

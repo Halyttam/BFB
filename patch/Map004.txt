@@ -1,0 +1,86 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+バイラス王
+「そうか・・・病に伏す祖父のために
+　薬草を取りに行きたいと言うのだな？」
+> CONTEXT: Map004/events/16/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「知っての事と思うが、街の外は淫魔だらけだ
+　人が歩けるような状況では無い」
+> CONTEXT: Map004/events/16/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「しかし、淫魔たちがこの国に現れたのは
+　実はこれが初めてでは無いのだ・・・
+　300年前にも、どうやら同じ事があったらしくてな」
+> CONTEXT: Map004/events/16/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「それで今は学者たちが、城にある過去の文献から
+　対処法を調べているところなのだ
+　幸いにも、淫魔たちを撃退する方法が見つかった」
+> CONTEXT: Map004/events/16/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「その方法とは、淫魔たちと真っ向からまぐわって
+　絶頂まで導くと、彼女らは淫気を放出し消えるという」
+> CONTEXT: Map004/events/16/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「まぁなんともおかしな話なのだが・・・
+　そういう事らしいのだ」
+> CONTEXT: Map004/events/16/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「しかし並の人間では、甘い誘惑と強い快楽に屈し
+　たちまち精気を吸われて殺されてしまう・・・
+　今のお前が森に行くのは、とても危険だろう」
+> CONTEXT: Map004/events/16/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「だが、学者たちの研究と魔術師フレーネの力により
+　宝石に秘められた魔力によって
+　淫魔たちへの快楽を高める方法を見つけたのだ」
+> CONTEXT: Map004/events/16/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「実際、宝石の力によって我が親衛隊の兵が
+　淫魔を絶頂させ、みごと撃退するという
+　成果もあがっておる」
+> CONTEXT: Map004/events/16/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バイラス王
+「というわけでだ、どうしても森に行くと言うのなら
+　城の地下の魔術師の部屋を訪ねてみるがよい
+　フレーネが力になってくれるはずだ」
+> CONTEXT: Map004/events/16/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING

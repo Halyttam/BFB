@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+アトラム
+> CONTEXT: Actors/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リグネシアの街のしがない農夫
+> CONTEXT: Actors/1/description/ < UNTRANSLATED
+
+> END STRING

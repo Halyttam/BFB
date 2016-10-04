@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+オパールの腕輪を手に入れた！
+> CONTEXT: Map008/events/19/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

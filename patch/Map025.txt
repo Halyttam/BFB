@@ -1,0 +1,306 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+男
+「なぁ旦那、やっぱりよそうぜ？
+　いくら近道だからって、こんな夜中に・・・」
+> CONTEXT: Map025/events/11/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「なに言ってる、明日の定期市場にこのお宝を
+　並べられれば、大儲けできるというのに」
+> CONTEXT: Map025/events/11/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「そうよ・・・
+　それに市場は、半年にたった一度なのよ？」
+> CONTEXT: Map025/events/11/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「せっかく苦労して手に入れたんだから
+　明日のチャンスを逃すのは、もったいないわよ」
+> CONTEXT: Map025/events/11/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「だけどさ、いつ淫魔が襲ってくるか
+　わかったもんじゃないぜ？？」
+> CONTEXT: Map025/events/11/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「フン、そんなモノが怖くて商売ができるか！
+　いざとなれば、逃げてしまえば良いさ」
+> CONTEXT: Map025/events/11/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「ふふっ、ロット、あんたビビりすぎよ
+　淫魔なんて、べつにたいした事ないわよ」
+> CONTEXT: Map025/events/11/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「でも、襲われたら最後っていう
+　ウワサだってあるし・・・」
+> CONTEXT: Map025/events/11/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「まったくお前は・・・
+　男のくせにしょうがないヤツだな」
+> CONTEXT: Map025/events/11/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「まぁ、せっかくここまで来たんだ
+　そんなに心配なら、急いでここを抜けようじゃないか」
+> CONTEXT: Map025/events/11/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「あたしもそれがいいと思うわ、おじさん
+　急ぎましょ」
+> CONTEXT: Map025/events/11/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人「ど・・・どうしたんだ、いったい？」
+> CONTEXT: Map025/events/11/pages/3/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ふふふふ・・・・」
+> CONTEXT: Map025/events/11/pages/3/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ま、まさか・・・」
+> CONTEXT: Map025/events/11/pages/3/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「こんな時間に人が通るなんて珍しいわね・・・」
+> CONTEXT: Map025/events/11/pages/3/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「だ・・・誰だ・・・！？」
+> CONTEXT: Map025/events/11/pages/3/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「愚かな判断ねぇ・・・ふふっ
+　まるで襲ってくださいと言っている様なものよ？」
+> CONTEXT: Map025/events/11/pages/3/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「こんな暗闇の森の中を進むなんてね・・・」
+> CONTEXT: Map025/events/11/pages/3/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「旦那！気をつけろ！
+　・・・きっとこいつが淫魔だ！」
+> CONTEXT: Map025/events/11/pages/3/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「なんだと！？」
+> CONTEXT: Map025/events/11/pages/3/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「クスクス・・・貴方たちの精気を貰うわ・・・
+　・・・覚悟しなさい」
+> CONTEXT: Map025/events/11/pages/3/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「うっ！？動けん・・・っ！」
+> CONTEXT: Map025/events/11/pages/3/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ふふふ・・・少し年季が入ってるかしらね？
+　でも、美味しそうな精気が漂ってるわ・・・♥」
+> CONTEXT: Map025/events/11/pages/3/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「さっ！・・・触るな！
+　うぅっ？！・・・うわあぁぁ・・・！！」
+> CONTEXT: Map025/events/11/pages/3/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人「あぁ・・・・・ぐ、うぅっ・・・・」
+> CONTEXT: Map025/events/11/pages/3/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「だっ・・・旦那！」
+> CONTEXT: Map025/events/11/pages/3/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「畜生、こいつっ！」
+> CONTEXT: Map025/events/11/pages/3/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「なにっ！？」
+> CONTEXT: Map025/events/11/pages/3/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ふふふっ・・・・無駄よ、坊や・・・
+　わたし達淫魔に、通常の攻撃はいっさい効かないわ」
+> CONTEXT: Map025/events/11/pages/3/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「ロット！おじさん！」
+> CONTEXT: Map025/events/11/pages/3/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「あら、カワイイ娘ねぇ・・・坊やの恋人かしら？」
+> CONTEXT: Map025/events/11/pages/3/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「きゃあっ！」
+> CONTEXT: Map025/events/11/pages/3/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「うぅっ・・・」
+> CONTEXT: Map025/events/11/pages/3/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「み、ミアっ！
+　くそっ、やめろっ！」
+> CONTEXT: Map025/events/11/pages/3/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「んはぁ・・・っ♥
+　体が・・・・疼くぅ・・・」
+> CONTEXT: Map025/events/11/pages/3/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「てめぇ、ミアに何をしたっ！」
+> CONTEXT: Map025/events/11/pages/3/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ちょっとしたおまじないよ・・・フフフ」
+> CONTEXT: Map025/events/11/pages/3/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「うわっ！離せっ！」
+> CONTEXT: Map025/events/11/pages/3/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「クスクス・・・大人しくしてなさい」
+> CONTEXT: Map025/events/11/pages/3/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女
+「エヘヘ・・・・ロット・・・
+　あたしが、イイ事してあげる・・・・♥」
+> CONTEXT: Map025/events/11/pages/3/329/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男
+「ミアっ・・・よせっ！・・どこ触って・・・
+　うぅっ！・・・うわあぁぁ・・・！」
+> CONTEXT: Map025/events/11/pages/3/335/Dialogue < UNTRANSLATED
+
+> END STRING

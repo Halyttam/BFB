@@ -1,0 +1,34 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[001]は光を失ったブラッドオーブを台座に戻した
+> CONTEXT: Map042/events/2/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+触れてみると、オーブは微かに熱を帯びたように感じた・・
+> CONTEXT: Map042/events/2/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これで、いつかまた淫魔たちが現れた時
+勇者の手によって再び光を放つのだろう・・・
+> CONTEXT: Map042/events/2/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　「次に会った時は・・・お前を・・・
+　　　　　　　　　　　か、必ず・・・・！」
+> CONTEXT: Map042/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[001]はサキュバスの最期の言葉を思い出しながら
+未来の勇者に願いを託した・・・
+> CONTEXT: Map042/events/2/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING

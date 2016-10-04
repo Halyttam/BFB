@@ -1,0 +1,75 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+？
+「ふっふふ・・・・３人同時なんてね・・・
+　なかなか楽しませてもらったわ・・・」
+> CONTEXT: Map027/events/5/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「ん・・・？」
+> CONTEXT: Map027/events/5/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「これは・・・・」
+> CONTEXT: Map027/events/5/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「宝石・\\.・\\.・\\.・\\.・\\.か・・・・・」
+> CONTEXT: Map027/events/5/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「・・・・・・・・」
+> CONTEXT: Map027/events/5/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？
+「・・・・・忌々しい光だわ」
+> CONTEXT: Map027/events/5/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　　　大陸の辺境に位置する小国　リグネシア
+> CONTEXT: Map027/events/5/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　　いつからか、突如として現れた淫魔たちによって
+　　　　　　　　　　人々は苦しめられていた
+> CONTEXT: Map027/events/5/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　　淫魔たちには、武装による攻撃は全く通用せず
+> CONTEXT: Map027/events/5/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　　人々は淫靡な技と強力な魔力の前に成す術はなく
+> CONTEXT: Map027/events/5/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　　　　　　淫魔たちが糧とする精気を
+　　　　　　　　死ぬまで吸い上げられる他なかった
+> CONTEXT: Map027/events/5/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
